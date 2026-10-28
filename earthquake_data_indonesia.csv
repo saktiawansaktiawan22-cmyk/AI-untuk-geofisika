@@ -1,0 +1,1001 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-10-27T23:43:51.480Z,5.6402,125.3536,57.848,5.1,mww,90,61,1.438,0.81,us,us7000ttkk,2026-10-28T01:17:33.295Z,"7 km N of Balangonan, Philippines",earthquake,8.99,5.152,0.089,12,reviewed,us,us
+2026-10-27T14:44:00.933Z,-9.1162,110.3305,10,5.4,mb,75,46,4.763,0.61,us,us7000ttgf,2026-10-27T22:25:05.854Z,"128 km S of Pundong, Indonesia",earthquake,9.23,1.813,0.073,63,reviewed,us,us
+2026-10-27T14:43:09.497Z,-9.3662,110.2973,20.614,4.9,mb,115,42,4.667,0.57,us,us7000ttgh,2026-10-27T15:12:35.040Z,"156 km S of Pundong, Indonesia",earthquake,8.65,4.195,0.063,79,reviewed,us,us
+2026-10-26T22:52:22.912Z,2.5777,127.7372,88.651,4.5,mb,18,173,10.978,0.78,us,us7000ttd3,2026-10-27T00:14:15.040Z,"98 km NNW of Tobelo, Indonesia",earthquake,8.94,11.56,0.135,17,reviewed,us,us
+2026-10-26T20:41:25.106Z,5.6361,126.5418,75.119,4.5,mb,57,110,1.716,0.45,us,us7000ttc6,2026-10-26T22:03:05.040Z,"89 km SSE of Pondaguitan, Philippines",earthquake,12.61,8.008,0.074,53,reviewed,us,us
+2026-10-26T04:53:40.479Z,-8.443,121.5729,10,5,mb,34,112,3.857,0.82,us,us6000u4y1,2026-10-26T05:10:35.040Z,"45 km NNW of Ende, Indonesia",earthquake,11.32,1.884,0.103,30,reviewed,us,us
+2026-10-26T03:59:22.208Z,-10.0437,123.2505,35,4.8,mb,48,55,6.082,0.46,us,us6000u4xp,2026-10-26T04:17:47.040Z,"41 km WNW of Kupang, Indonesia",earthquake,12.37,1.921,0.084,44,reviewed,us,us
+2026-10-25T23:32:08.371Z,-7.2149,124.338,568.75,4.3,mb,43,96,5.057,0.33,us,us6000u4wt,2026-10-26T03:21:29.040Z,"181 km NNW of Maubara, Timor Leste",earthquake,13.31,8.112,0.091,34,reviewed,us,us
+2026-10-25T19:26:12.258Z,-6.172,130.3943,127.02,4.4,mb,42,50,6.669,0.93,us,us6000u4vp,2026-10-25T19:50:40.040Z,"267 km WSW of Tual, Indonesia",earthquake,8.41,6.951,0.091,35,reviewed,us,us
+2026-10-25T12:09:05.522Z,0.1306,126.1478,43.812,4.6,mb,32,103,6.916,0.84,us,us6000u4u2,2026-10-26T09:34:10.040Z,"155 km WSW of Ternate, Indonesia",earthquake,11.06,7.86,0.114,23,reviewed,us,us
+2026-10-25T10:19:02.328Z,-8.0144,118.4115,233.036,4.4,mb,30,81,3.264,0.79,us,us6000u4tn,2026-10-25T10:36:22.040Z,"58 km N of Dompu, Indonesia",earthquake,14.06,8.079,0.112,23,reviewed,us,us
+2026-10-24T21:41:51.565Z,-0.3574,132.2541,10,4.9,mb,44,113,12.455,0.71,us,us6000u4pw,2026-10-24T23:15:06.040Z,"53 km NNW of Fef, Indonesia",earthquake,13.9,1.89,0.082,50,reviewed,us,us
+2026-10-23T13:11:20.125Z,-5.6817,130.9736,81.955,4.2,mb,20,139,7.118,1.02,us,us6000u4c8,2026-10-23T18:26:07.040Z,"197 km W of Tual, Indonesia",earthquake,15.17,8.289,0.158,15,reviewed,us,us
+2026-10-23T12:24:24.746Z,-7.3421,128.4666,128.107,4.5,mb,22,130,6.064,0.73,us,us6000u4bw,2026-10-23T12:49:19.040Z,"207 km NE of Lospalos, Timor Leste",earthquake,15.92,9.083,0.125,19,reviewed,us,us
+2026-10-22T10:57:52.259Z,-2.8037,102.1272,135.261,4.9,mb,85,52,4.878,0.61,us,us6000u42q,2026-10-22T11:31:57.040Z,"85 km NNW of Curup, Indonesia",earthquake,10.74,6.873,0.064,77,reviewed,us,us
+2026-10-21T20:25:53.355Z,-6.7238,129.6818,143.278,4.4,mb,41,73,6.247,0.71,us,us6000u3xv,2026-10-22T13:48:25.040Z,"Banda Sea",earthquake,10.58,8.234,0.092,34,reviewed,us,us
+2026-10-21T07:44:16.055Z,-7.5619,128.1355,122.687,5.1,mb,58,79,6.02,0.78,us,us6000u3t4,2026-10-21T08:12:43.918Z,"164 km NE of Lospalos, Timor Leste",earthquake,10.13,1.944,0.066,75,reviewed,us,us
+2026-10-20T18:02:57.367Z,2.4707,126.8562,35,4.2,mb,22,94,14.628,0.87,us,us6000u3nz,2026-10-20T19:09:55.040Z,"152 km WNW of Tobelo, Indonesia",earthquake,12.31,1.78,0.127,18,reviewed,us,us
+2026-10-20T16:29:38.818Z,4.0005,95.993,75.876,5,mww,110,67,4.814,0.81,us,us6000u3nc,2026-10-20T16:44:55.040Z,"21 km SW of Meulaboh, Indonesia",earthquake,8.48,6.671,0.093,11,reviewed,us,us
+2026-10-20T13:27:24.320Z,-3.7134,139.9987,10,4.5,mb,29,82,1.383,0.66,us,us6000u3lx,2026-10-20T16:08:08.040Z,"142 km SSW of Abepura, Indonesia",earthquake,9.34,1.897,0.103,28,reviewed,us,us
+2026-10-20T12:32:20.697Z,5.4726,125.1404,10,4.4,mb,22,140,1.645,0.28,us,us6000u3ln,2026-10-21T07:36:46.040Z,"26 km WSW of Balangonan, Philippines",earthquake,11.46,1.917,0.134,16,reviewed,us,us
+2026-10-19T17:20:55.008Z,-7.9636,128.2132,41.455,4.4,mb,22,115,5.635,0.8,us,us6000u3fm,2026-10-19T17:40:57.040Z,"147 km ENE of Lospalos, Timor Leste",earthquake,10.26,7.365,0.12,20,reviewed,us,us
+2026-10-19T12:06:01.884Z,-8.1042,120.378,10,4.8,mb,25,130,3.132,1.13,us,us6000u3ch,2026-10-19T12:22:21.040Z,"56 km N of Ruteng, Indonesia",earthquake,14.39,1.911,0.121,21,reviewed,us,us
+2026-10-19T11:10:24.188Z,-7.4544,128.3818,152.73,4.1,mb,15,173,6.001,0.43,us,us6000u3ca,2026-10-19T11:29:15.040Z,"192 km NE of Lospalos, Timor Leste",earthquake,10.76,10.308,0.185,8,reviewed,us,us
+2026-10-19T10:10:56.335Z,-8.0866,120.1454,10,4.7,mb,32,107,11.296,1.32,us,us6000u3c5,2026-10-19T11:00:26.040Z,"53 km NNE of Labuan Bajo, Indonesia",earthquake,6.83,1.89,0.101,30,reviewed,us,us
+2026-10-19T09:45:56.107Z,-8.1064,120.1872,10,4.9,mb,50,90,11.26,0.92,us,us6000u3c1,2026-10-19T10:13:09.040Z,"54 km NE of Labuan Bajo, Indonesia",earthquake,10.37,1.874,0.087,42,reviewed,us,us
+2026-10-19T09:00:39.067Z,2.4339,126.7168,49.006,4.7,mb,36,101,14.489,0.61,us,us6000u3bv,2026-10-19T10:25:25.040Z,"163 km WNW of Tobelo, Indonesia",earthquake,12.3,7.529,0.087,40,reviewed,us,us
+2026-10-19T06:15:13.394Z,-6.3365,129.9289,157.774,4.5,mb,42,115,6.574,0.72,us,us6000u3ar,2026-10-19T06:46:54.040Z,"Banda Sea",earthquake,13.88,8.792,0.09,36,reviewed,us,us
+2026-10-18T20:24:09.032Z,-7.3545,128.6566,142.589,4.4,mb,46,92,5.974,0.78,us,us6000u37s,2026-10-18T20:56:55.040Z,"223 km NE of Lospalos, Timor Leste",earthquake,12.03,7.043,0.093,33,reviewed,us,us
+2026-10-18T08:00:06.054Z,-8.1449,120.2734,10,5.2,mb,48,61,3.153,0.7,us,us6000u34e,2026-10-18T08:14:46.040Z,"55 km NNW of Ruteng, Indonesia",earthquake,11.4,1.877,0.086,45,reviewed,us,us
+2026-10-17T12:46:23.796Z,-9.3596,118.5983,68.927,4.6,mb,28,141,4.466,1.28,us,us6000u300,2026-10-18T05:10:57.040Z,"70 km W of Tambolaka, Indonesia",earthquake,9.86,8.338,0.107,26,reviewed,us,us
+2026-10-17T09:07:40.745Z,-8.7339,124.3423,90.844,4.6,mb,32,63,5.867,0.98,us,us6000u2zb,2026-10-17T09:25:09.040Z,"51 km N of Pante Makasar, Timor Leste",earthquake,12.3,8.181,0.104,28,reviewed,us,us
+2026-10-17T07:20:48.242Z,-8.1086,120.2824,10,4.5,mb,27,118,3.119,0.88,us,us6000u2yw,2026-10-17T07:36:26.040Z,"59 km NNW of Ruteng, Indonesia",earthquake,9.27,1.892,0.118,21,reviewed,us,us
+2026-10-16T17:47:38.353Z,-7.1931,129.1949,169.517,4.4,mb,22,160,5.93,1.24,us,us6000u2s5,2026-10-23T14:28:27.040Z,"283 km ENE of Lospalos, Timor Leste",earthquake,9.09,10.775,0.114,22,reviewed,us,us
+2026-10-16T16:25:59.288Z,1.2192,126.1814,39.402,4.3,mb,27,122,5.843,1.06,us,us6000u2rv,2026-10-24T16:11:20.040Z,"119 km ESE of Bitung, Indonesia",earthquake,11.41,7.099,0.138,17,reviewed,us,us
+2026-10-14T15:12:45.593Z,-4.5612,101.8653,41.311,4.3,mb,32,151,6.614,0.87,us,us6000u2ab,2026-10-26T20:53:54.552Z,"95 km SSW of Bengkulu, Indonesia",earthquake,13.45,8.326,0.111,23,reviewed,us,us
+2026-10-13T21:08:13.126Z,0.7648,126.0201,47.066,4.4,mb,26,90,5.491,0.62,us,us6000u44g,2026-10-23T01:00:01.040Z,"124 km SE of Bitung, Indonesia",earthquake,6.54,8.222,0.12,20,reviewed,us,us
+2026-10-13T15:21:44.242Z,5.3478,125.5183,65.699,4.8,mb,59,102,1.712,0.73,us,us6000u21y,2026-10-13T17:53:10.040Z,"8 km SE of Sarangani, Philippines",earthquake,9.82,4.685,0.058,92,reviewed,us,us
+2026-10-13T09:48:28.205Z,-9.9266,118.8246,35,4.5,mb,28,123,4.966,0.67,us,us6000u20i,2026-10-13T10:20:27.040Z,"71 km SW of Tambolaka, Indonesia",earthquake,10.82,1.958,0.135,16,reviewed,us,us
+2026-10-13T04:00:15.768Z,-9.4473,113.8887,10,5.1,mb,40,59,7.295,0.76,us,us6000u1ye,2026-10-13T04:15:46.040Z,"119 km SSW of Gambiran Satu, Indonesia",earthquake,9.72,1.854,0.106,29,reviewed,us,us
+2026-10-12T23:47:23.932Z,-5.8279,102.0583,10,4.4,mb,35,129,9.026,0.49,us,us6000u1zs,2026-10-22T03:33:11.040Z,"225 km S of Bengkulu, Indonesia",earthquake,9.13,1.843,0.115,22,reviewed,us,us
+2026-10-12T23:43:50.018Z,-6.1604,130.2927,111.41,4.1,mb,22,76,5.345,0.89,us,us6000u1x0,2026-10-22T02:42:13.040Z,"278 km WSW of Tual, Indonesia",earthquake,8.9,8.675,0.145,13,reviewed,us,us
+2026-10-12T16:56:38.596Z,-9.4513,118.9409,65.645,4.1,mb,24,122,4.481,0.46,us,us6000u3vk,2026-10-23T20:26:25.040Z,"32 km W of Tambolaka, Indonesia",earthquake,13.01,4.408,0.13,18,reviewed,us,us
+2026-10-12T16:12:25.341Z,-8.7752,122.8745,100.903,4.2,mb,27,124,1.621,0.72,us,us6000u1sx,2026-10-23T20:10:05.040Z,"74 km ESE of Maumere, Indonesia",earthquake,12.68,8.108,0.132,20,reviewed,us,us
+2026-10-12T15:42:07.338Z,-10.4787,123.7701,10,4.4,mb,17,152,7.095,0.62,us,us6000u1sm,2026-10-23T19:47:12.040Z,"38 km SSE of Kupang, Indonesia",earthquake,11.24,1.905,0.17,11,reviewed,us,us
+2026-10-12T11:58:08.604Z,-9.152,113.0997,55.223,4.6,mb,44,69,7.417,0.54,us,us6000u1rm,2026-10-12T12:39:51.040Z,"100 km SSW of Kencong, Indonesia",earthquake,9.46,7.134,0.088,38,reviewed,us,us
+2026-10-12T08:59:14.629Z,0.6834,125.9293,49.217,4.6,mb,45,82,13.821,0.35,us,us6000u1r3,2026-10-12T13:46:27.040Z,"122 km SE of Bitung, Indonesia",earthquake,12.94,7.9,0.093,35,reviewed,us,us
+2026-10-12T08:30:08.695Z,-8.237,128.9661,22.434,4.7,mb,33,123,5.049,0.71,us,us6000u1qy,2026-10-12T09:54:15.040Z,"219 km E of Lospalos, Timor Leste",earthquake,12.66,5.72,0.096,33,reviewed,us,us
+2026-10-12T05:28:09.720Z,-8.3245,112.2189,121.104,4.6,mb,52,71,6.781,0.53,us,us6000u1q2,2026-10-12T06:33:17.040Z,"25 km SSE of Blitar, Indonesia",earthquake,10.31,7.954,0.09,38,reviewed,us,us
+2026-10-11T22:07:25.641Z,-4.1003,136.2257,10,4.4,mb,36,80,4.739,0.83,us,us6000u1mv,2026-10-20T22:23:52.040Z,"114 km SE of Nabire, Indonesia",earthquake,12.6,1.892,0.102,28,reviewed,us,us
+2026-10-11T21:34:53.780Z,0.5303,121.7195,110.24,5.2,mww,124,32,5.848,0.84,us,us6000u1mj,2026-10-20T21:20:07.040Z,"149 km W of Gorontalo, Indonesia",earthquake,6.87,4.562,0.062,25,reviewed,us,us
+2026-10-11T18:47:57.197Z,-3.1323,130.6537,10,4.6,mb,51,59,9.66,0.77,us,us6000u1ls,2026-10-12T13:35:18.040Z,"184 km W of Fakfak, Indonesia",earthquake,9.52,1.872,0.082,44,reviewed,us,us
+2026-10-11T14:57:35.632Z,-4.2017,136.2564,10,4.3,mb,16,98,4.744,0.94,us,us6000u1l0,2026-10-11T19:49:20.040Z,"125 km SE of Nabire, Indonesia",earthquake,10.86,1.933,0.168,12,reviewed,us,us
+2026-10-11T06:42:51.717Z,1.1152,125.5436,9.96,4.3,mb,16,132,5.915,0.6,us,us6000u3mk,2026-10-21T11:57:20.040Z,"58 km SE of Bitung, Indonesia",earthquake,16.55,5.525,0.177,9,reviewed,us,us
+2026-10-11T03:30:17.430Z,-8.6161,106.526,10,5.2,mb,56,46,2.001,0.84,us,us6000u1i6,2026-10-11T04:43:05.627Z,"180 km S of Pelabuhanratu, Indonesia",earthquake,6.36,1.842,0.061,90,reviewed,us,us
+2026-10-11T02:35:35.917Z,5.4706,126.6164,121.25,4.6,mb,26,155,1.894,0.44,us,us6000u1i0,2026-10-11T02:52:52.040Z,"109 km SSE of Pondaguitan, Philippines",earthquake,15.73,10.112,0.122,20,reviewed,us,us
+2026-10-10T21:38:09.130Z,-5.403,102.5418,29.581,4.5,mb,38,93,7.265,0.96,us,us6000u1gu,2026-10-10T22:14:09.040Z,"171 km SSW of Pagar Alam, Indonesia",earthquake,9.55,4.639,0.108,25,reviewed,us,us
+2026-10-10T12:28:17.747Z,1.7939,97.8441,53.44,4.1,mb,23,203,4.461,0.52,us,us6000u3eu,2026-10-21T08:52:42.040Z,"54 km S of Singkil, Indonesia",earthquake,12.58,5.905,0.151,12,reviewed,us,us
+2026-10-10T11:53:17.879Z,-8.7218,110.7284,55.172,4.3,mb,32,83,5.258,0.67,us,us6000u1ed,2026-10-21T08:28:20.040Z,"84 km S of Wonosari, Indonesia",earthquake,12.67,7.733,0.1,28,reviewed,us,us
+2026-10-10T05:32:01.552Z,1.6248,126.3886,10,5,mb,76,86,9.351,1.44,us,us6000u1cv,2026-10-10T05:50:42.040Z,"141 km E of Bitung, Indonesia",earthquake,10.55,1.867,0.062,84,reviewed,us,us
+2026-10-10T04:45:03.982Z,-8.8422,124.0625,67.684,4.4,mb,24,118,8.002,0.77,us,us6000u1cl,2026-10-10T05:06:08.040Z,"53 km NW of Pante Makasar, Timor Leste",earthquake,12.72,8.318,0.127,18,reviewed,us,us
+2026-10-10T02:00:42.634Z,1.416,126.3601,10,5.1,mb,74,85,5.67,0.93,us,us6000u1bs,2026-10-10T02:19:53.040Z,"133 km WNW of Ternate, Indonesia",earthquake,9.34,1.846,0.054,111,reviewed,us,us
+2026-10-09T15:49:13.171Z,-10.6648,115.8558,10,4.3,mb,22,138,11.078,0.96,us,us6000u2sw,2026-10-18T20:56:34.040Z,"215 km S of Lembar, Indonesia",earthquake,14.47,1.901,0.178,9,reviewed,us,us
+2026-10-09T09:47:47.081Z,-1.8867,100.2717,40.817,4.9,mb,90,90,5.112,0.66,us,us6000u14w,2026-10-09T10:59:29.040Z,"77 km ENE of Tuapejat, Indonesia",earthquake,11.89,5.495,0.081,48,reviewed,us,us
+2026-10-09T05:11:04.200Z,0.7587,125.9365,40.049,5.2,mb,59,65,8.429,0.81,us,us6000u13v,2026-10-09T06:16:52.038Z,"117 km SE of Bitung, Indonesia",earthquake,10.44,7.181,0.057,101,reviewed,us,us
+2026-10-08T19:44:48.396Z,5.7716,126.2447,9.641,4.3,mb,17,143,1.449,0.35,us,us6000u2ri,2026-10-20T17:37:56.040Z,"65 km S of Pondaguitan, Philippines",earthquake,11.72,3.211,0.168,10,reviewed,us,us
+2026-10-08T18:33:31.433Z,-5.5357,101.0522,10,4,mb,22,214,6.648,0.5,us,us6000u2rd,2026-10-19T14:31:25.040Z,"234 km SW of Bengkulu, Indonesia",earthquake,12.93,1.984,0.144,13,reviewed,us,us
+2026-10-08T18:06:02.409Z,-9.1354,120.3012,104.924,4.8,mb,70,79,3.481,0.82,us,us6000u10n,2026-10-18T17:35:58.040Z,"57 km N of Waingapu, Indonesia",earthquake,9.1,5.826,0.073,57,reviewed,us,us
+2026-10-08T15:23:46.740Z,-3.4889,101.5755,41.564,4.7,mb,49,98,6.69,0.8,us,us6000u0yy,2026-10-18T19:44:12.040Z,"84 km WNW of Bengkulu, Indonesia",earthquake,9.2,7.176,0.093,37,reviewed,us,us
+2026-10-08T14:11:53.009Z,-9.9475,122.3512,32.924,4.8,mb,76,49,1.317,1.07,us,us6000u0yr,2026-10-18T19:42:21.040Z,"115 km NW of Baa, Indonesia",earthquake,8.98,3.802,0.087,46,reviewed,us,us
+2026-10-08T08:34:58.336Z,5.4633,124.7412,7.815,4.4,mb,22,167,1.8,0.99,us,us6000u2r0,2026-10-18T06:14:29.588Z,"48 km SSW of Katubao, Philippines",earthquake,14.87,6.086,0.134,16,reviewed,us,us
+2026-10-08T08:07:59.721Z,5.6177,125.1838,57.803,5.5,mww,82,58,1.495,1.04,us,us6000u0x4,2026-10-18T06:07:28.300Z,"13 km SW of Burias, Philippines",earthquake,9.03,5.696,0.068,21,reviewed,us,us
+2026-10-08T05:39:21.869Z,-7.9323,120.3157,9.094,4.2,mb,15,151,2.953,0.57,us,us6000u2qu,2026-10-17T11:29:45.040Z,"76 km NNW of Ruteng, Indonesia",earthquake,12.43,5.386,0.167,10,reviewed,us,us
+2026-10-08T05:06:50.387Z,-9.6285,118.9391,60.181,4.7,mb,35,96,4.655,0.64,us,us6000u0wb,2026-10-17T11:18:16.040Z,"39 km SW of Tambolaka, Indonesia",earthquake,13.38,7.847,0.09,38,reviewed,us,us
+2026-10-08T04:48:59.943Z,-7.7761,120.5395,10,5,mb,43,52,2.853,0.89,us,us6000u0wa,2026-10-08T18:21:41.645Z,"92 km N of Ruteng, Indonesia",earthquake,9.57,1.88,0.103,30,reviewed,us,us
+2026-10-08T03:00:01.461Z,-7.8993,121.0443,10,4.7,mb,29,106,3.141,0.4,us,us6000u0vw,2026-10-08T03:17:55.040Z,"101 km NE of Ruteng, Indonesia",earthquake,3.9,1.908,0.112,24,reviewed,us,us
+2026-10-07T22:15:04.560Z,0.6799,128.1226,10,4.3,mb,18,116,3.5,0.77,us,us6000u2jj,2026-10-16T03:28:07.040Z,"18 km W of Maba, Indonesia",earthquake,7.99,1.884,0.133,16,reviewed,us,us
+2026-10-07T21:18:38.221Z,2.0567,97.1401,35,4,mb,13,218,1.892,0.69,us,us6000u2ji,2026-10-16T03:09:36.040Z,"76 km WSW of Singkil, Indonesia",earthquake,14.74,1.998,0.231,5,reviewed,us,us
+2026-10-07T16:42:49.025Z,5.4326,125.8638,114.635,4.7,mb,105,57,1.651,0.9,us,us6000u0t4,2026-10-15T20:07:42.040Z,"44 km E of Sarangani, Philippines",earthquake,9.13,2.125,0.054,104,reviewed,us,us
+2026-10-07T15:34:52.475Z,-7.9534,120.9661,10,4.5,mb,22,129,3.159,0.62,us,us6000u2jd,2026-10-15T19:40:28.040Z,"91 km NE of Ruteng, Indonesia",earthquake,12.38,1.918,0.163,11,reviewed,us,us
+2026-10-07T10:57:34.247Z,1.5798,124.6702,139.831,4.7,mb,71,79,5.528,0.68,us,us6000u0qw,2026-10-07T11:16:03.040Z,"22 km WNW of Manado, Indonesia",earthquake,10.88,7.498,0.065,72,reviewed,us,us
+2026-10-07T00:39:12.863Z,4.7748,127.6824,35,4.2,mb,26,117,3.094,0.54,us,us6000u2ip,2026-10-16T00:46:44.040Z,"242 km SE of Pondaguitan, Philippines",earthquake,12.71,1.955,0.125,18,reviewed,us,us
+2026-10-06T21:56:43.051Z,-3.8875,139.5947,71.718,4.9,mb,53,49,1.756,0.58,us,us6000u0le,2026-10-15T22:43:43.040Z,"183 km SW of Abepura, Indonesia",earthquake,11.55,4.316,0.082,47,reviewed,us,us
+2026-10-06T20:15:28.163Z,-8.4893,116.1796,144.082,4.6,mb,98,58,4.95,1.03,us,us6000u0km,2026-10-15T16:29:06.286Z,"12 km NNE of Mataram, Indonesia",earthquake,10.64,5.308,0.065,70,reviewed,us,us
+2026-10-06T19:59:14.366Z,3.5135,122.7333,551.182,4.2,mb,63,69,4.529,0.75,us,us6000u0kh,2026-10-15T16:17:25.040Z,"293 km SSE of Tabiauan, Philippines",earthquake,11.33,8.818,0.077,47,reviewed,us,us
+2026-10-06T19:02:01.001Z,-3.697,101.9028,93.074,4.5,mb,48,150,5.788,0.74,us,us6000u0k2,2026-10-15T16:07:30.040Z,"41 km WNW of Bengkulu, Indonesia",earthquake,10.77,7.964,0.091,35,reviewed,us,us
+2026-10-06T13:11:22.867Z,4.8949,118.825,10,5,mww,149,22,7.029,0.72,us,us6000tzwg,2026-10-07T14:25:46.964Z,"51 km NNE of Semporna, Malaysia",earthquake,9.09,1.762,0.098,10,reviewed,us,us
+2026-10-06T12:40:23.290Z,-9.7538,118.9128,52.889,4.4,mb,31,125,4.782,0.56,us,us6000tzwb,2026-10-06T15:33:16.040Z,"50 km SW of Tambolaka, Indonesia",earthquake,11.45,9.959,0.144,14,reviewed,us,us
+2026-10-06T03:42:43.929Z,-7.8444,120.3432,10,4.8,mb,52,107,2.872,0.64,us,us6000tzuj,2026-10-27T22:12:00.040Z,"85 km N of Ruteng, Indonesia",earthquake,11.13,1.879,0.093,36,reviewed,us,us
+2026-10-05T21:38:05.512Z,-9.6409,118.9913,35,4.5,mb,38,96,4.658,0.81,us,us6000tzss,2026-10-15T02:45:32.040Z,"35 km SW of Tambolaka, Indonesia",earthquake,12.41,1.922,0.102,28,reviewed,us,us
+2026-10-05T13:05:49.714Z,-8.1072,120.7327,10,4.4,mb,25,115,3.224,0.9,us,us6000tznr,2026-10-14T15:56:34.040Z,"63 km NNE of Ruteng, Indonesia",earthquake,11.47,1.902,0.13,17,reviewed,us,us
+2026-10-05T12:17:22.300Z,-9.704,118.8381,34.641,4.5,mb,41,123,4.747,0.81,us,us6000tznk,2026-10-24T19:14:01.040Z,"53 km SW of Tambolaka, Indonesia",earthquake,8.77,5.897,0.106,26,reviewed,us,us
+2026-10-05T06:14:15.888Z,4.4975,126.9394,51.291,4.8,mb,65,85,2.891,0.66,us,us6000tzmk,2026-10-05T06:40:40.040Z,"191 km ESE of Sarangani, Philippines",earthquake,10.49,7.064,0.062,80,reviewed,us,us
+2026-10-05T02:44:37.730Z,-7.7411,120.4184,10,4.3,mb,24,102,2.789,0.81,us,us6000tzm4,2026-10-25T03:24:37.040Z,"96 km N of Ruteng, Indonesia",earthquake,11.1,1.897,0.147,14,reviewed,us,us
+2026-10-05T02:16:31.670Z,-9.1311,113.0196,45.841,4.2,mb,20,79,7.343,0.5,us,us6000tzlz,2026-10-25T03:20:38.878Z,"101 km SSW of Kencong, Indonesia",earthquake,13.19,7.446,0.153,13,reviewed,us,us
+2026-10-04T23:19:13.592Z,-9.8163,119.2109,35,4.1,mb,19,124,4.801,0.7,us,us6000u233,2026-10-13T22:57:17.040Z,"43 km S of Tambolaka, Indonesia",earthquake,11.97,1.935,0.151,12,reviewed,us,us
+2026-10-04T23:05:18.803Z,-4.5009,133.5479,10,4.4,mb,29,87,4.267,0.71,us,us6000tzl7,2026-10-13T22:38:39.040Z,"152 km NE of Tual, Indonesia",earthquake,8.2,1.888,0.117,21,reviewed,us,us
+2026-10-04T14:59:43.979Z,-9.7063,118.9234,35,4.2,mb,24,126,4.733,0.99,us,us6000tzjg,2026-10-17T15:33:59.040Z,"46 km SW of Tambolaka, Indonesia",earthquake,7.95,1.859,0.159,13,reviewed,us,us
+2026-10-04T12:36:47.632Z,-9.1988,112.6889,51.903,4.7,mb,46,79,5.552,0.75,us,us6000tziz,2026-10-25T19:23:55.040Z,"109 km S of Dampit, Indonesia",earthquake,9.46,7.639,0.092,36,reviewed,us,us
+2026-10-04T10:52:27.398Z,-8.2663,120.5607,10,4.7,mb,40,66,3.329,0.96,us,us6000tzi8,2026-10-25T21:19:56.040Z,"39 km NNE of Ruteng, Indonesia",earthquake,8.66,1.757,0.095,34,reviewed,us,us
+2026-10-04T10:13:07.031Z,-8.2659,120.2937,10,5,mb,68,66,3.275,0.94,us,us6000tzi5,2026-10-25T21:34:20.040Z,"42 km NNW of Ruteng, Indonesia",earthquake,10.82,1.792,0.077,54,reviewed,us,us
+2026-10-04T01:31:53.862Z,-7.3074,106.3555,53.321,4.2,mb,16,88,1.339,1.14,us,us6000u228,2026-10-22T22:48:29.040Z,"41 km SSW of Pelabuhanratu, Indonesia",earthquake,9.43,8.834,0.167,11,reviewed,us,us
+2026-10-03T23:37:34.268Z,4.7986,95.1352,55.019,5.3,mww,92,65,5.514,0.82,us,us6000tzfg,2026-10-24T05:17:23.040Z,"85 km SSW of Banda Aceh, Indonesia",earthquake,9.26,6.048,0.073,18,reviewed,us,us
+2026-10-03T23:14:35.937Z,3.6319,122.9136,573.378,4.5,mb,55,77,4.325,0.64,us,us6000tzf7,2026-10-24T02:45:58.040Z,"288 km SSE of Tabiauan, Philippines",earthquake,10.26,7.86,0.073,55,reviewed,us,us
+2026-10-03T22:55:52.175Z,-9.5399,118.9245,17,5.7,mww,101,42,4.57,1.19,us,us6000tzer,2026-10-24T21:58:09.426Z,"36 km WSW of Tambolaka, Indonesia",earthquake,9.08,1.768,0.083,14,reviewed,us,us
+2026-10-03T14:49:40.402Z,-6.4633,130.1704,140.138,4.4,mb,18,99,6.41,1.3,us,us6000tzcv,2026-10-03T16:56:44.040Z,"Banda Sea",earthquake,13.63,9.242,0.134,16,reviewed,us,us
+2026-10-03T07:06:52.592Z,-7.3614,121.7143,10,4.3,mb,30,61,3.04,0.87,us,us6000u1tc,2026-10-26T21:39:13.040Z,"149 km NNW of Maumere, Indonesia",earthquake,6.79,1.89,0.129,17,reviewed,us,us
+2026-10-02T20:02:04.878Z,-7.5542,128.4801,137.727,4.4,mb,25,60,5.44,0.73,us,us6000u17e,2026-10-27T21:37:32.040Z,"195 km ENE of Lospalos, Timor Leste",earthquake,9.74,3.887,0.115,22,reviewed,us,us
+2026-10-02T12:42:48.994Z,-8.0128,120.7966,10,4,mb,16,126,3.155,0.99,us,us6000u16z,2026-10-26T21:03:14.040Z,"75 km NNE of Ruteng, Indonesia",earthquake,11.3,1.902,0.15,12,reviewed,us,us
+2026-10-02T08:49:40.643Z,-7.9209,121.0102,10,4.3,mb,12,136,3.147,0.92,us,us6000u16p,2026-10-16T06:52:51.040Z,"97 km NE of Ruteng, Indonesia",earthquake,12.76,1.9,0.154,12,reviewed,us,us
+2026-10-02T06:48:06.954Z,-7.9511,121.0985,10,4.5,mb,16,129,3.21,1.18,us,us6000tyzy,2026-10-02T07:24:34.040Z,"101 km NE of Ruteng, Indonesia",earthquake,17.12,1.919,0.14,15,reviewed,us,us
+2026-10-02T05:38:55.084Z,2.5781,126.4944,10,4.8,mb,50,103,4.554,0.96,us,us6000tyzt,2026-10-02T06:12:24.040Z,"192 km WNW of Tobelo, Indonesia",earthquake,12.13,1.879,0.065,74,reviewed,us,us
+2026-10-01T17:37:11.792Z,-7.9881,120.9146,10,4.6,mb,38,115,3.172,0.82,us,us6000tyw9,2026-10-12T17:21:45.040Z,"84 km NE of Ruteng, Indonesia",earthquake,10.33,1.874,0.101,29,reviewed,us,us
+2026-10-01T17:09:38.218Z,-1.9498,138.9271,10,4.3,mb,37,95,1.861,0.26,us,us6000tyw4,2026-10-12T16:51:02.040Z,"202 km WNW of Abepura, Indonesia",earthquake,7.02,1.766,0.099,29,reviewed,us,us
+2026-10-01T14:19:59.036Z,-7.0506,120.8431,10,5,mb,78,93,2.296,0.97,us,us6000tyua,2026-10-16T20:16:33.040Z,"177 km NNE of Ruteng, Indonesia",earthquake,7.55,1.724,0.078,54,reviewed,us,us
+2026-10-01T13:31:15.653Z,-2.1035,138.8581,10,4.4,mb,33,80,1.888,0.54,us,us6000tyu2,2026-10-16T20:07:27.040Z,"204 km WNW of Abepura, Indonesia",earthquake,9.82,1.891,0.108,28,reviewed,us,us
+2026-10-01T02:09:21.230Z,-6.1934,130.1379,114.968,4.5,mb,43,85,5.407,0.51,us,us6000typ5,2026-10-22T01:13:21.040Z,"296 km WSW of Tual, Indonesia",earthquake,11.66,7.21,0.09,36,reviewed,us,us
+2026-10-01T01:31:19.148Z,-0.8263,123.3144,71.816,4.6,mb,40,58,5.473,0.75,us,us6000typ0,2026-10-22T01:05:14.040Z,"60 km ENE of Luwuk, Indonesia",earthquake,10.37,8.408,0.095,33,reviewed,us,us
+2026-09-30T20:08:50.048Z,5.1753,123.3749,578.989,4.1,mb,42,101,2.889,0.53,us,us6000u0su,2026-10-24T18:59:29.040Z,"145 km SW of Palimbang, Philippines",earthquake,12.91,10.478,0.088,35,reviewed,us,us
+2026-09-30T19:46:19.332Z,-7.1703,125.3361,476.648,4.2,mb,25,89,5.951,0.71,us,us6000u0sz,2026-10-24T18:33:44.040Z,"155 km N of Dili, Timor Leste",earthquake,10.62,9.479,0.128,17,reviewed,us,us
+2026-09-30T17:07:19.818Z,4.1113,125.322,9.995,4.5,mb,44,126,2.95,0.45,us,us6000tyqh,2026-10-23T20:35:16.040Z,"143 km S of Sarangani, Philippines",earthquake,11.74,4.759,0.096,36,reviewed,us,us
+2026-09-30T16:29:32.708Z,-0.7573,122.4145,10,4.4,mb,50,62,4.995,0.83,us,us6000tyke,2026-10-11T19:34:49.040Z,"46 km WNW of Luwuk, Indonesia",earthquake,8.13,1.879,0.089,36,reviewed,us,us
+2026-09-30T10:58:49.171Z,-9.8927,123.679,10,4.9,mb,76,90,0.312,0.54,us,us6000tyjb,2026-10-22T14:47:20.771Z,"31 km NNE of Kupang, Indonesia",earthquake,9.02,1.866,0.07,65,reviewed,us,us
+2026-09-30T02:30:42.563Z,4.5858,125.7613,139.721,4.5,mb,25,122,2.474,0.55,us,us6000tygz,2026-10-14T00:15:36.040Z,"96 km SSE of Sarangani, Philippines",earthquake,10.79,8.555,0.121,20,reviewed,us,us
+2026-09-29T14:14:05.901Z,-8.7188,124.0814,157.121,4.9,mb,35,75,1.535,0.86,us,us6000tyc9,2026-10-23T18:35:02.040Z,"62 km NNW of Pante Makasar, Timor Leste",earthquake,17.93,18.809,0.102,30,reviewed,us,us
+2026-09-29T10:48:17.405Z,5.3371,124.7329,71.722,4.4,mb,41,136,1.916,0.76,us,us6000u0ij,2026-10-22T16:59:18.040Z,"61 km SSW of Lumatil, Philippines",earthquake,13.75,8.175,0.098,30,reviewed,us,us
+2026-09-29T04:41:13.574Z,1.2567,127.2428,151.827,4.1,mb,14,149,9.736,0.41,us,us6000u0ia,2026-10-20T02:27:30.040Z,"53 km NNW of Ternate, Indonesia",earthquake,23,11.736,0.145,13,reviewed,us,us
+2026-09-28T23:29:53.863Z,-7.9943,120.9269,10,4.4,mb,21,118,3.182,0.93,us,us6000tzr5,2026-10-06T01:06:56.040Z,"85 km NE of Ruteng, Indonesia",earthquake,10.9,1.906,0.149,13,reviewed,us,us
+2026-09-28T15:14:45.890Z,-7.4478,126.6548,306.428,4.1,mb,14,246,4.031,0.78,us,us6000tzqw,2026-10-10T20:20:47.040Z,"115 km N of Baukau, Timor Leste",earthquake,13.87,16.808,0.213,7,reviewed,us,us
+2026-09-28T15:01:40.212Z,5.6524,127.0124,86.642,4.9,mb,77,45,2.003,0.79,us,us6000ty5m,2026-10-10T20:03:18.040Z,"121 km SE of Pondaguitan, Philippines",earthquake,8.64,5.528,0.056,117,reviewed,us,us
+2026-09-28T09:19:39.525Z,4.8292,125.3049,10,4.3,mb,27,140,2.242,0.67,us,us6000tzql,2026-10-21T13:25:44.040Z,"65 km SSW of Sarangani, Philippines",earthquake,11.6,1.882,0.129,21,reviewed,us,us
+2026-09-28T07:42:08.471Z,-9.9892,118.9117,35,4.3,mb,32,99,4.684,1.28,us,us6000tzqj,2026-10-22T17:28:47.040Z,"71 km SSW of Tambolaka, Indonesia",earthquake,5.16,1.924,0.126,18,reviewed,us,us
+2026-09-28T04:31:19.453Z,-8.0363,120.941,10,4.3,mb,14,146,3.226,0.95,us,us6000tzqd,2026-10-15T03:35:24.040Z,"82 km NE of Ruteng, Indonesia",earthquake,12.09,1.818,0.168,10,reviewed,us,us
+2026-09-27T21:14:49.210Z,-9.1175,124.045,51.126,4.4,mb,22,119,1.146,0.92,us,us6000ty0k,2026-10-27T20:45:31.040Z,"38 km WNW of Pante Makasar, Timor Leste",earthquake,8.67,7.516,0.139,15,reviewed,us,us
+2026-09-27T09:46:27.347Z,-7.7074,121.9317,10,4.4,mb,17,126,3.443,1.07,us,us6000tz61,2026-10-19T20:34:06.040Z,"105 km NNW of Maumere, Indonesia",earthquake,9.15,1.87,0.162,11,reviewed,us,us
+2026-09-27T05:23:41.420Z,-6.6115,102.5041,10,4.6,mb,35,138,4.946,0.62,us,us6000tz5w,2026-10-11T06:56:08.040Z,"297 km SSW of Pagar Alam, Indonesia",earthquake,14.91,1.902,0.107,26,reviewed,us,us
+2026-09-26T19:37:01.041Z,-8.1482,120.3303,10,4.9,mb,76,63,3.166,0.71,us,us6000txur,2026-10-03T16:42:09.040Z,"53 km NNW of Ruteng, Indonesia",earthquake,9.37,1.803,0.071,63,reviewed,us,us
+2026-09-26T13:38:15.802Z,-7.8462,123.3361,231.992,4.5,mb,79,50,4.539,0.65,us,us6000txt8,2026-10-21T17:30:58.040Z,"150 km NE of Maumere, Indonesia",earthquake,6.01,7.359,0.064,72,reviewed,us,us
+2026-09-26T03:11:30.955Z,-7.4386,128.5109,147.25,4.2,mb,16,131,5.524,0.38,us,us6000tz2h,2026-10-09T03:09:18.040Z,"205 km NE of Lospalos, Timor Leste",earthquake,13.71,4.902,0.175,9,reviewed,us,us
+2026-09-25T22:34:22.973Z,-6.655,105.5488,99.133,4.2,mb,19,138,20.272,0.79,us,us6000tz56,2026-10-19T22:43:50.040Z,"43 km SW of Labuan, Indonesia",earthquake,19.03,9.035,0.136,15,reviewed,us,us
+2026-09-25T19:39:28.779Z,-8.2237,120.3702,10,4.8,mb,69,71,3.247,0.89,us,us6000txnq,2026-10-20T22:21:12.040Z,"44 km NNW of Ruteng, Indonesia",earthquake,9.65,1.855,0.07,64,reviewed,us,us
+2026-09-25T19:34:11.621Z,5.5757,126.296,98.566,4.2,mb,13,119,1.646,1,us,us6000tz3h,2026-10-20T21:51:17.040Z,"81 km ESE of Caburan, Philippines",earthquake,13.13,4.603,0.176,9,reviewed,us,us
+2026-09-25T13:47:27.392Z,-6.8071,105.3486,10,4.7,mb,59,103,3.635,0.79,us,us6000txkc,2026-10-04T19:29:44.040Z,"71 km SW of Labuan, Indonesia",earthquake,11.12,1.854,0.086,53,reviewed,us,us
+2026-09-25T04:27:40.286Z,-7.4166,125.6697,10,5.1,mb,118,66,6.349,0.57,us,us6000txim,2026-10-15T00:49:10.169Z,"123 km N of Metinaro, Timor Leste",earthquake,8.18,1.767,0.059,95,reviewed,us,us
+2026-09-24T20:05:26.333Z,1.8906,126.5037,52.325,4.6,mb,71,77,5.226,0.77,us,us6000txg5,2026-10-07T20:42:37.040Z,"156 km NW of Ternate, Indonesia",earthquake,8.17,6.731,0.073,56,reviewed,us,us
+2026-09-24T16:28:01.662Z,-3.3098,139.9601,83.261,4.5,mb,34,77,1.084,0.66,us,us6000txcw,2026-10-04T19:24:39.040Z,"108 km SW of Abepura, Indonesia",earthquake,9.16,7.336,0.093,34,reviewed,us,us
+2026-09-24T10:48:57.031Z,2.1769,127.2333,47.859,4.5,mb,26,143,5.132,0.73,us,us6000txb1,2026-10-21T13:46:10.040Z,"99 km WNW of Tobelo, Indonesia",earthquake,15.88,9.529,0.124,23,reviewed,us,us
+2026-09-24T03:30:25.829Z,-8.3085,119.3723,10,4.4,mb,30,123,3.294,0.38,us,us6000tx8q,2026-10-14T03:54:36.040Z,"33 km NNW of Komodo, Indonesia",earthquake,9.08,1.889,0.135,16,reviewed,us,us
+2026-09-24T00:26:38.343Z,-1.8513,138.8464,35,4.6,mb,51,79,1.969,0.61,us,us6000tx7g,2026-10-13T21:35:55.040Z,"215 km WNW of Abepura, Indonesia",earthquake,8.84,1.903,0.087,40,reviewed,us,us
+2026-09-23T20:30:40.455Z,-8.3202,116.9992,10,4.4,mb,23,142,4.273,0.71,us,us6000tydv,2026-10-16T15:07:06.040Z,"41 km ENE of Labuan Lombok, Indonesia",earthquake,9.53,1.874,0.149,16,reviewed,us,us
+2026-09-23T12:23:18.556Z,1.2474,126.3547,35,4.6,mb,66,82,5.342,0.55,us,us6000tx31,2026-10-15T09:43:42.040Z,"125 km WNW of Ternate, Indonesia",earthquake,9.47,1.916,0.075,53,reviewed,us,us
+2026-09-23T08:55:41.769Z,1.9876,99.0699,126.659,4.4,mb,40,106,0.718,0.5,us,us6000tx27,2026-10-14T07:11:26.040Z,"42 km NE of Sibolga, Indonesia",earthquake,9.67,6.443,0.098,33,reviewed,us,us
+2026-09-23T02:47:34.663Z,-4.5474,129.5608,173.637,4.1,mb,15,156,4.031,0.35,us,us6000tyd9,2026-10-03T23:26:57.040Z,"151 km SSE of Amahai, Indonesia",earthquake,13.95,11.307,0.174,9,reviewed,us,us
+2026-09-23T02:02:43.786Z,-8.1714,120.7818,10,4.4,mb,20,129,3.299,1.32,us,us6000tx08,2026-10-04T00:04:03.040Z,"59 km NE of Ruteng, Indonesia",earthquake,12.4,1.925,0.149,13,reviewed,us,us
+2026-09-22T22:27:39.258Z,-6.8894,105.4864,35,4.5,mb,40,103,2.114,0.69,us,us6000twzp,2026-10-14T21:57:46.040Z,"68 km SW of Labuan, Indonesia",earthquake,13.1,1.929,0.101,29,reviewed,us,us
+2026-09-22T21:36:34.518Z,-8.1602,120.441,10,4.1,mb,13,131,3.2,0.73,us,us6000u3ma,2026-10-20T17:03:29.040Z,"49 km N of Ruteng, Indonesia",earthquake,13.04,1.941,0.185,8,reviewed,us,us
+2026-09-22T12:24:43.818Z,2.7076,128.94,264.299,4.3,mb,19,128,4.246,0.58,us,us7000tj5d,2026-10-15T20:48:10.040Z,"149 km NE of Tobelo, Indonesia",earthquake,14.49,5.918,0.137,15,reviewed,us,us
+2026-09-22T10:30:18.681Z,-6.3386,128.6516,295.05,4.5,mb,71,80,6.027,0.3,us,us7000tj4v,2026-10-15T09:26:48.040Z,"296 km S of Ambon, Indonesia",earthquake,9.78,7.904,0.068,63,reviewed,us,us
+2026-09-22T03:36:25.728Z,-8.3915,121.5246,10,4.7,mb,35,119,3.789,0.51,us,us7000tj37,2026-10-12T03:51:17.040Z,"52 km NNW of Ende, Indonesia",earthquake,11,1.881,0.099,31,reviewed,us,us
+2026-09-21T23:48:13.035Z,4.5016,125.2831,10,5.3,mb,80,63,2.568,0.52,us,us7000tj1s,2026-10-14T21:45:58.040Z,"101 km SSW of Sarangani, Philippines",earthquake,9.88,1.778,0.048,143,reviewed,us,us
+2026-09-21T13:58:23.480Z,-4.1726,137.9294,138.538,4.2,mb,52,45,3.222,0.73,us,us7000tixu,2026-10-01T18:45:43.040Z,"153 km N of Agats, Indonesia",earthquake,9.2,7.578,0.088,36,reviewed,us,us
+2026-09-21T12:35:20.182Z,-1.0612,98.9661,25.578,4.4,mb,25,185,3.731,0.91,us,us6000txlz,2026-10-12T08:20:58.040Z,"127 km NNW of Tuapejat, Indonesia",earthquake,12.74,7.426,0.13,17,reviewed,us,us
+2026-09-21T09:32:50.246Z,0.8657,126.6233,55.443,4.6,mb,37,73,9.012,0.69,us,us7000tiwi,2026-10-14T09:49:00.040Z,"85 km W of Ternate, Indonesia",earthquake,10.23,5.931,0.101,29,reviewed,us,us
+2026-09-21T07:31:07.517Z,-0.7662,122.4619,10,4.9,mb,93,63,5.013,0.4,us,us7000tiw4,2026-10-15T10:36:00.040Z,"41 km WNW of Luwuk, Indonesia",earthquake,8.3,1.813,0.066,72,reviewed,us,us
+2026-09-21T06:44:02.016Z,-8.516,124.1616,10,4.3,mb,13,115,1.75,0.69,us,us6000txlv,2026-10-15T20:28:13.040Z,"79 km NNW of Pante Makasar, Timor Leste",earthquake,9.59,1.74,0.178,9,reviewed,us,us
+2026-09-21T01:41:36.389Z,-8.3189,120.5908,10,5,mww,61,50,3.387,0.96,us,us7000tiur,2026-10-23T04:40:45.040Z,"35 km NNE of Ruteng, Indonesia",earthquake,9.45,1.867,0.098,10,reviewed,us,us
+2026-09-21T00:08:39.965Z,4.8942,125.4487,10,4.6,mb,29,130,2.165,0.63,us,us6000txlj,2026-10-14T21:12:41.040Z,"56 km S of Sarangani, Philippines",earthquake,9.61,1.922,0.122,20,reviewed,us,us
+2026-09-20T17:51:33.268Z,-9.3228,115.7528,79.43,4.4,mb,32,78,5.836,0.8,us,us7000tisi,2026-09-26T16:21:02.040Z,"74 km SSW of Lembar, Indonesia",earthquake,11.93,2.203,0.107,25,reviewed,us,us
+2026-09-20T15:39:26.574Z,-6.9664,127.4259,10,4.6,mb,14,147,6.887,0.73,us,us7000tiw0,2026-09-26T15:42:50.040Z,"178 km NNE of Lospalos, Timor Leste",earthquake,8.11,1.856,0.193,9,reviewed,us,us
+2026-09-20T09:05:23.416Z,0.1391,122.1049,197.143,4.4,mb,31,102,5.632,0.47,us,us7000tiq8,2026-10-12T15:40:48.040Z,"115 km WSW of Gorontalo, Indonesia",earthquake,13.13,8.468,0.102,28,reviewed,us,us
+2026-09-19T23:54:06.366Z,-7.5851,127.4122,151.002,4.2,mb,32,117,6.38,0.76,us,us7000timl,2026-10-06T04:41:11.040Z,"113 km NNE of Lospalos, Timor Leste",earthquake,11.47,7.24,0.118,20,reviewed,us,us
+2026-09-19T21:44:50.579Z,-6.3951,124.9233,548.872,4.1,mb,22,113,8.86,0.4,us,us7000tilu,2026-10-06T03:58:51.040Z,"246 km N of Likisá, Timor Leste",earthquake,13.33,11.516,0.135,16,reviewed,us,us
+2026-09-19T13:56:00.789Z,-8.1989,120.8262,10,5.2,mb,92,55,3.08,0.94,us,us7000tiju,2026-10-14T20:46:02.040Z,"60 km NE of Ruteng, Indonesia",earthquake,7.67,1.745,0.066,75,reviewed,us,us
+2026-09-19T07:47:53.136Z,-2.6724,139.0769,10,4.4,mb,14,109,1.632,0.51,us,us6000txdp,2026-10-11T14:17:13.040Z,"173 km W of Abepura, Indonesia",earthquake,12.45,1.925,0.155,12,reviewed,us,us
+2026-09-19T07:44:25.259Z,-2.6036,138.7889,10,4.8,mb,62,57,1.914,0.54,us,us7000tiib,2026-10-12T15:44:51.040Z,"205 km W of Abepura, Indonesia",earthquake,8.5,1.86,0.068,67,reviewed,us,us
+2026-09-19T06:23:20.283Z,-8.5483,121.3223,10,4.1,mb,14,142,3.842,0.82,us,us6000txd7,2026-10-11T13:47:42.040Z,"49 km NW of Ende, Indonesia",earthquake,7.89,1.913,0.166,10,reviewed,us,us
+2026-09-19T04:18:35.219Z,-1.8343,138.9067,10,5.2,mb,62,61,1.918,0.91,us,us7000tih8,2026-10-08T04:17:30.040Z,"209 km WNW of Abepura, Indonesia",earthquake,4.51,1.814,0.08,51,reviewed,us,us
+2026-09-18T17:42:37.843Z,-8.7071,105.6209,10,4.5,mb,34,132,1.733,0.54,us,us7000tidr,2026-09-26T15:32:03.914Z,"216 km SSW of Pelabuhanratu, Indonesia",earthquake,9.25,1.606,0.108,25,reviewed,us,us
+2026-09-18T16:37:19.156Z,-4.1574,102.2258,40.806,4.6,mb,39,150,6.128,1.01,us,us7000tid2,2026-10-22T16:48:09.040Z,"39 km S of Bengkulu, Indonesia",earthquake,12.66,8.38,0.1,31,reviewed,us,us
+2026-09-18T14:36:17.806Z,-8.6065,105.9192,10,5.2,mb,78,52,1.846,1.23,us,us7000tib8,2026-10-22T16:40:39.040Z,"192 km SSW of Pelabuhanratu, Indonesia",earthquake,9.54,1.775,0.071,72,reviewed,us,us
+2026-09-18T12:20:56.640Z,-8.2337,120.5812,10,4.7,mb,35,114,3.303,0.67,us,us7000ti9c,2026-10-12T16:01:41.040Z,"43 km NNE of Ruteng, Indonesia",earthquake,8.37,1.781,0.102,29,reviewed,us,us
+2026-09-17T20:23:45.505Z,-5.6816,130.7889,69.002,4.6,mb,61,79,4.804,0.48,us,us7000ti5v,2026-10-01T15:30:34.040Z,"217 km W of Tual, Indonesia",earthquake,10.32,6.595,0.081,46,reviewed,us,us
+2026-09-17T19:17:33.061Z,-7.7582,104.4708,10,4.5,mb,35,150,2.932,0.83,us,us7000ti5c,2026-10-01T14:46:28.040Z,"214 km SW of Labuan, Indonesia",earthquake,13.81,1.899,0.097,31,reviewed,us,us
+2026-09-17T12:12:31.013Z,-2.8075,129.6684,10,4.4,mb,27,120,2.501,0.74,us,us7000ti11,2026-10-15T13:16:12.040Z,"94 km NE of Masohi, Indonesia",earthquake,6.4,1.766,0.123,19,reviewed,us,us
+2026-09-17T12:09:29.504Z,-2.7,129.5741,10,4.4,mb,26,87,2.483,1.31,us,us6000tx48,2026-10-15T09:57:46.040Z,"94 km NE of Masohi, Indonesia",earthquake,8.57,1.92,0.134,16,reviewed,us,us
+2026-09-17T08:28:25.531Z,-8.1916,121.4748,10,4.5,mb,19,126,3.591,0.93,us,us7000ti03,2026-09-27T08:30:59.040Z,"74 km NNW of Ende, Indonesia",earthquake,15.66,1.936,0.124,19,reviewed,us,us
+2026-09-17T07:57:17.850Z,5.2859,126.2334,10,4.5,mb,24,112,1.888,0.69,us,us6000tx4r,2026-10-15T07:15:05.040Z,"86 km E of Sarangani, Philippines",earthquake,9.75,1.879,0.131,17,reviewed,us,us
+2026-09-17T06:20:48.427Z,1.2794,126.3131,10,5.2,mb,75,78,17.02,0.86,us,us7000thzp,2026-09-27T06:19:43.040Z,"130 km WNW of Ternate, Indonesia",earthquake,8.83,1.863,0.047,148,reviewed,us,us
+2026-09-16T12:28:47.790Z,-3.02,139.5405,35,4.3,mb,23,66,1.265,0.57,us,us6000twwe,2026-10-08T15:23:42.040Z,"130 km WSW of Abepura, Indonesia",earthquake,6.98,1.947,0.133,17,reviewed,us,us
+2026-09-16T09:37:19.079Z,-7.3604,128.6479,113.79,4.4,mb,44,89,5.68,0.46,us,us7000tht6,2026-10-08T16:44:23.040Z,"222 km NE of Lospalos, Timor Leste",earthquake,10.57,7.747,0.086,39,reviewed,us,us
+2026-09-16T05:29:32.571Z,1.8431,127.392,101.263,4.4,mb,31,117,13.993,0.47,us,us6000tww7,2026-10-08T05:44:38.040Z,"69 km W of Tobelo, Indonesia",earthquake,13.55,5.693,0.104,27,reviewed,us,us
+2026-09-16T00:39:47.845Z,0.5964,100.4997,217.435,4,mb,32,155,2.613,0.52,us,us6000tww3,2026-10-08T00:18:04.040Z,"91 km N of Payakumbuh, Indonesia",earthquake,13.65,9.239,0.122,18,reviewed,us,us
+2026-09-16T00:34:47.234Z,-7.9107,129.829,10,4.4,mb,15,97,5.067,0.66,us,us6000tww5,2026-09-22T23:15:00.040Z,"Kepulauan Babar, Indonesia",earthquake,5.69,1.907,0.169,10,reviewed,us,us
+2026-09-15T18:26:33.124Z,-8.1601,120.398,10,4.3,mb,41,119,3.19,0.51,us,us7000thp0,2026-10-15T14:05:48.040Z,"50 km N of Ruteng, Indonesia",earthquake,10.1,1.894,0.099,29,reviewed,us,us
+2026-09-15T16:12:46.881Z,-4.2925,102.0751,53.678,4.5,mb,46,146,6.059,0.41,us,us7000thn3,2026-10-17T15:22:01.040Z,"58 km SSW of Bengkulu, Indonesia",earthquake,28.51,17.425,0.091,38,reviewed,us,us
+2026-09-15T14:16:10.973Z,-8.3101,129.3069,10,4.4,mb,23,83,4.849,1.04,us,us7000thlq,2026-10-08T20:19:17.040Z,"255 km E of Lospalos, Timor Leste",earthquake,9.94,1.912,0.123,20,reviewed,us,us
+2026-09-15T07:53:38.901Z,2.7551,127.5492,81.203,4.6,mb,48,101,4.714,0.58,us,us7000thk8,2026-10-07T13:26:43.040Z,"124 km NNW of Tobelo, Indonesia",earthquake,9.52,7.485,0.074,55,reviewed,us,us
+2026-09-15T06:07:53.383Z,-6.6237,130.3368,91.713,4.8,mb,47,54,5.791,0.67,us,us7000thjr,2026-10-06T16:45:07.040Z,"289 km WSW of Tual, Indonesia",earthquake,9.77,7.535,0.087,41,reviewed,us,us
+2026-09-14T23:09:49.986Z,-8.7704,105.7106,10,4.4,mb,28,131,1.669,0.91,us,us7000thi2,2026-09-22T00:01:45.040Z,"217 km SSW of Pelabuhanratu, Indonesia",earthquake,3.28,1.849,0.126,18,reviewed,us,us
+2026-09-14T21:17:25.272Z,3.1402,126.5358,70.038,4.5,mb,27,133,6.182,0.53,us,us7000ticf,2026-09-21T22:56:18.040Z,"226 km NW of Tobelo, Indonesia",earthquake,9.29,9.017,0.113,23,reviewed,us,us
+2026-09-14T17:55:15.372Z,-1.8336,128.1779,10,4.6,mb,37,122,8.984,0.7,us,us7000thfh,2026-09-24T17:45:29.040Z,"154 km SSE of Labuha, Indonesia",earthquake,10.6,1.885,0.094,38,reviewed,us,us
+2026-09-14T17:29:26.753Z,-7.029,123.1812,664.571,4,mb,24,104,3.954,0.68,us,us7000thfc,2026-09-24T17:38:19.040Z,"184 km SSE of Baubau, Indonesia",earthquake,14.83,11.324,0.122,19,reviewed,us,us
+2026-09-14T10:58:03.188Z,2.4234,128.1898,163.086,5.6,mww,129,18,4.489,0.78,us,us7000thcs,2026-10-07T12:54:24.765Z,"79 km NNE of Tobelo, Indonesia",earthquake,6.05,4.427,0.061,26,reviewed,us,us
+2026-09-14T09:27:38.055Z,-8.7321,105.7805,12,5.3,mwb,109,27,1.709,1.25,us,us7000thc6,2026-10-21T14:08:19.040Z,"210 km SSW of Pelabuhanratu, Indonesia",earthquake,6.71,1.74,0.041,57,reviewed,us,us
+2026-09-14T09:24:44.143Z,-7.2579,120.4636,393.103,4.2,mb,38,67,2.339,0.58,us,us7000thc4,2026-10-08T12:20:00.040Z,"149 km N of Ruteng, Indonesia",earthquake,11.08,8.148,0.107,24,reviewed,us,us
+2026-09-14T01:42:08.793Z,-9.309,112.8866,31.867,4.8,mb,56,76,7.182,0.88,us,us7000th9m,2026-10-04T22:26:35.040Z,"122 km S of Dampit, Indonesia",earthquake,11.26,5.603,0.08,50,reviewed,us,us
+2026-09-14T00:53:47.074Z,-8.1416,120.2945,10,4.5,mb,26,121,3.153,0.83,us,us7000th9i,2026-10-07T22:27:50.040Z,"55 km NNW of Ruteng, Indonesia",earthquake,8.14,1.869,0.118,21,reviewed,us,us
+2026-09-13T22:40:01.463Z,-8.2071,120.2454,10,5,mww,73,38,3.21,0.92,us,us7000th8u,2026-10-07T21:53:18.040Z,"50 km NE of Labuan Bajo, Indonesia",earthquake,8.44,1.785,0.11,8,reviewed,us,us
+2026-09-13T12:32:48.802Z,5.2132,125.1029,10,4.4,mb,27,110,1.904,0.8,us,us7000tia2,2026-10-06T14:30:28.040Z,"45 km WSW of Sarangani, Philippines",earthquake,11.63,1.898,0.115,22,reviewed,us,us
+2026-09-13T10:06:50.985Z,-7.7296,106.4201,41.414,4.2,mb,30,111,1.488,0.78,us,us7000ti9y,2026-10-06T14:00:52.040Z,"83 km S of Pelabuhanratu, Indonesia",earthquake,9.08,7.676,0.105,25,reviewed,us,us
+2026-09-13T03:14:42.043Z,-8.4577,121.5341,10,4.5,mb,19,132,3.852,0.6,us,us7000th35,2026-09-30T22:44:19.040Z,"44 km NNW of Ende, Indonesia",earthquake,12.77,1.906,0.125,19,reviewed,us,us
+2026-09-12T21:35:46.049Z,1.8773,98.9972,133.114,4.1,mb,23,137,3.77,0.85,us,us7000ti4e,2026-10-03T22:28:16.040Z,"28 km ENE of Sibolga, Indonesia",earthquake,13.34,7.085,0.13,16,reviewed,us,us
+2026-09-12T11:48:11.112Z,-7.8399,121.9369,10,4.1,mb,17,139,2.905,0.61,us,us7000ti3z,2026-10-07T08:42:35.040Z,"91 km NNW of Maumere, Indonesia",earthquake,12.69,1.899,0.14,14,reviewed,us,us
+2026-09-12T06:14:28.651Z,-5.9745,130.5716,114.142,4.8,mb,59,87,6.848,0.72,us,us7000tgxg,2026-10-15T14:59:01.040Z,"244 km W of Tual, Indonesia",earthquake,11.66,7.319,0.074,56,reviewed,us,us
+2026-09-12T05:08:23.749Z,1.042,126.5838,41.867,4.7,mb,60,75,5.052,0.67,us,us7000tgx2,2026-10-06T17:27:32.040Z,"93 km WNW of Ternate, Indonesia",earthquake,9.84,7.065,0.075,54,reviewed,us,us
+2026-09-12T03:37:07.182Z,3.025,127.5099,119.009,4.4,mb,29,114,4.454,1.03,us,us7000ti3t,2026-10-01T03:28:26.040Z,"153 km NNW of Tobelo, Indonesia",earthquake,11.87,7.669,0.106,26,reviewed,us,us
+2026-09-12T03:34:57.277Z,-8.2401,120.5917,10,4.4,mb,17,133,3.312,0.89,us,us7000tgwe,2026-10-02T00:23:35.040Z,"43 km NNE of Ruteng, Indonesia",earthquake,14.35,1.911,0.126,18,reviewed,us,us
+2026-09-11T21:23:55.815Z,-5.0271,106.8682,372,6.5,mww,117,23,5.513,0.8,us,us7000tgrk,2026-10-15T19:50:58.040Z,"121 km NNE of Teluknaga, Indonesia",earthquake,8.88,1.944,0.043,51,reviewed,us,us
+2026-09-11T19:43:02.539Z,-7.1866,110.0174,10,4.4,mb,24,52,2.412,0.46,us,us7000ti3h,2026-10-17T15:42:12.040Z,"22 km NNE of Wonosobo, Indonesia",earthquake,8.4,1.882,0.12,20,reviewed,us,us
+2026-09-11T11:56:23.642Z,-7.2214,128.922,115,5.9,mww,121,22,5.996,0.74,us,us7000tgl2,2026-10-15T15:17:13.327Z,"256 km NE of Lospalos, Timor Leste",earthquake,8.79,1.865,0.053,34,reviewed,us,us
+2026-09-11T07:24:10.695Z,-0.2586,123.6096,154.914,4.3,mb,19,156,6.096,0.66,us,us7000tgk0,2026-09-20T08:12:01.040Z,"107 km SE of Gorontalo, Indonesia",earthquake,10.07,10.584,0.133,16,reviewed,us,us
+2026-09-11T04:09:40.299Z,5.7424,125.4567,14.157,4.4,mb,24,131,1.324,0.57,us,us7000ti2v,2026-10-06T02:30:14.040Z,"5 km WNW of Kalbay, Philippines",earthquake,13.1,4.913,0.13,17,reviewed,us,us
+2026-09-11T00:53:47.067Z,-0.4853,120.0976,10,4.5,mb,25,127,21.968,0.56,us,us7000tgi9,2026-10-16T02:01:39.040Z,"53 km NNE of Palu, Indonesia",earthquake,12.47,1.879,0.108,27,reviewed,us,us
+2026-09-10T18:44:40.016Z,-8.4254,127.7801,10,5,mww,114,29,5.489,0.72,us,us7000tgf2,2026-10-15T13:43:28.040Z,"86 km E of Lospalos, Timor Leste",earthquake,8.46,1.711,0.11,8,reviewed,us,us
+2026-09-10T13:41:19.357Z,2.577,128.5548,241.794,4.2,mb,29,82,4.366,0.62,us,us7000thvr,2026-10-15T18:40:31.040Z,"111 km NNE of Tobelo, Indonesia",earthquake,11,6.508,0.136,23,reviewed,us,us
+2026-09-10T11:17:54.412Z,2.6223,128.3707,213.908,4.4,mb,25,124,4.517,0.77,us,us7000thvn,2026-10-21T14:02:26.040Z,"106 km NNE of Tobelo, Indonesia",earthquake,9.48,9.664,0.127,18,reviewed,us,us
+2026-09-10T08:51:32.698Z,-0.1618,125.0064,54.016,4.2,mb,22,115,7.125,1.05,us,us7000thvi,2026-10-07T08:35:23.040Z,"92 km SE of Modisi, Indonesia",earthquake,13.75,7.437,0.125,18,reviewed,us,us
+2026-09-10T08:41:54.283Z,-8.4186,120.9781,10,4.3,mb,14,123,3.595,1.22,us,us7000thvj,2026-09-20T06:48:57.040Z,"60 km ENE of Ruteng, Indonesia",earthquake,8.42,1.777,0.202,7,reviewed,us,us
+2026-09-10T07:27:14.276Z,2.2614,123.431,451.154,4.3,mb,16,111,5.234,0.59,us,us7000thvh,2026-09-20T06:38:48.040Z,"179 km WNW of Manado, Indonesia",earthquake,17.76,14.545,0.153,12,reviewed,us,us
+2026-09-09T19:29:15.706Z,-2.043,138.9476,28.867,4,mb,17,75,1.815,0.68,us,us7000thun,2026-10-02T17:52:05.040Z,"197 km WNW of Abepura, Indonesia",earthquake,11.83,5.826,0.143,17,reviewed,us,us
+2026-09-09T17:45:51.768Z,-8.8348,123.9778,67.413,4.6,mb,17,85,1.398,1.27,us,us7000thui,2026-10-10T14:45:33.040Z,"60 km NW of Pante Makasar, Timor Leste",earthquake,27.75,19.788,0.181,9,reviewed,us,us
+2026-09-09T11:12:15.206Z,-9.0233,123.7265,64.58,4.5,mb,25,100,5.606,0.67,us,us7000tg1l,2026-10-01T13:29:25.040Z,"63 km N of Naisano Dua, Indonesia",earthquake,8.34,7.57,0.136,16,reviewed,us,us
+2026-09-09T07:54:27.789Z,-6.8302,129.7347,175.023,4.3,mb,18,100,6.132,0.87,us,us7000tg0i,2026-09-28T15:05:23.040Z,"Banda Sea",earthquake,13.48,8.994,0.16,15,reviewed,us,us
+2026-09-09T07:07:02.446Z,3.9944,125.0457,10,5,mb,52,109,3.101,1.11,us,us7000tg06,2026-09-28T14:26:54.040Z,"162 km SSW of Sarangani, Philippines",earthquake,11.16,1.773,0.07,65,reviewed,us,us
+2026-09-09T01:04:28.107Z,-9.9366,119.6516,41.48,4.1,mb,11,149,4.891,0.89,us,us7000tfyw,2026-09-26T23:08:10.040Z,"72 km SE of Tambolaka, Indonesia",earthquake,11.8,8.806,0.175,9,reviewed,us,us
+2026-09-09T00:23:20.524Z,-4.9415,102.9173,45.744,4.4,mb,29,145,6.123,0.5,us,us7000tfyn,2026-09-30T03:00:29.092Z,"107 km SSW of Pagar Alam, Indonesia",earthquake,11.23,7.945,0.127,19,reviewed,us,us
+2026-09-08T21:42:22.401Z,-8.1811,120.5204,16.325,4.6,mb,33,118,3.237,0.83,us,us7000tfxd,2026-09-15T23:19:31.040Z,"47 km N of Ruteng, Indonesia",earthquake,10.34,4.627,0.116,22,reviewed,us,us
+2026-09-08T15:36:34.590Z,-7.7319,121.0918,10,5.2,mww,95,68,3.01,0.75,us,us7000tfum,2026-10-14T17:25:57.040Z,"119 km NE of Ruteng, Indonesia",earthquake,8.97,1.781,0.098,10,reviewed,us,us
+2026-09-08T13:00:50.043Z,-8.1429,120.2579,10,4.1,mb,18,120,3.149,0.85,us,us7000thmj,2026-10-01T16:41:34.040Z,"56 km NE of Labuan Bajo, Indonesia",earthquake,7.49,1.831,0.165,13,reviewed,us,us
+2026-09-08T04:40:28.006Z,-8.152,120.5257,10,5.2,mww,124,31,3.211,0.67,us,us7000tfr8,2026-10-01T03:29:58.040Z,"51 km N of Ruteng, Indonesia",earthquake,9.2,1.712,0.098,10,reviewed,us,us
+2026-09-08T01:28:47.332Z,-7.9448,120.1133,10,4.5,mb,16,115,2.933,0.45,us,us7000thm3,2026-10-01T01:30:21.040Z,"65 km NNE of Labuan Bajo, Indonesia",earthquake,14.96,1.933,0.163,11,reviewed,us,us
+2026-09-07T13:33:39.928Z,2.3428,128.6027,232.067,4.3,mb,32,77,4.155,0.53,us,us7000tew3,2026-09-14T17:44:40.040Z,"94 km NE of Tobelo, Indonesia",earthquake,12.01,8.724,0.108,25,reviewed,us,us
+2026-09-07T12:50:38.116Z,-8.584,120.7934,10,4.3,mb,17,139,3.258,1.37,us,us7000thek,2026-09-29T14:29:31.040Z,"36 km E of Ruteng, Indonesia",earthquake,9.84,1.723,0.153,12,reviewed,us,us
+2026-09-07T10:40:03.597Z,-8.1866,120.2026,10,4.3,mb,28,121,3.183,1.06,us,us7000tevh,2026-09-28T15:04:35.040Z,"48 km NE of Labuan Bajo, Indonesia",earthquake,9.87,1.886,0.143,17,reviewed,us,us
+2026-09-07T02:48:35.460Z,-9.3747,112.8794,10,4.4,mb,21,92,7.165,0.49,us,us7000tetc,2026-09-27T04:00:08.040Z,"129 km S of Dampit, Indonesia",earthquake,5.54,1.895,0.162,13,reviewed,us,us
+2026-09-07T00:56:51.088Z,-8.3078,120.6867,10,4.3,mb,17,125,3.401,0.77,us,us7000thec,2026-10-06T22:30:37.040Z,"41 km NE of Ruteng, Indonesia",earthquake,9.9,1.906,0.178,9,reviewed,us,us
+2026-09-06T17:19:46.099Z,-7.2728,128.6598,145.064,4.2,mb,29,109,6.047,0.62,us,us7000ter3,2026-09-12T13:33:41.040Z,"229 km NE of Lospalos, Timor Leste",earthquake,12.9,7.97,0.11,23,reviewed,us,us
+2026-09-06T11:15:47.641Z,-8.359,123.9757,166.441,4.5,mb,24,67,1.861,0.64,us,us7000teph,2026-09-29T16:44:19.040Z,"103 km NNW of Pante Makasar, Timor Leste",earthquake,9.58,6.601,0.113,23,reviewed,us,us
+2026-09-06T06:41:21.423Z,-0.304,123.2092,10,4.6,mb,45,92,5.815,0.93,us,us7000tena,2026-09-17T07:35:21.040Z,"85 km NNE of Luwuk, Indonesia",earthquake,8.42,1.822,0.086,41,reviewed,us,us
+2026-09-06T06:06:02.409Z,-8.1851,120.0007,7.22,4.4,mb,13,142,3.16,0.85,us,us7000ten5,2026-09-17T07:26:57.040Z,"36 km NNE of Labuan Bajo, Indonesia",earthquake,15.46,4.495,0.149,13,reviewed,us,us
+2026-09-05T22:33:50.664Z,3.3477,127.8071,56.338,4.1,mb,22,113,4.312,0.71,us,us7000tel7,2026-09-26T22:34:41.040Z,"180 km N of Tobelo, Indonesia",earthquake,8.33,8.361,0.14,16,reviewed,us,us
+2026-09-05T16:55:48.127Z,-8.4669,120.0512,10,4,mb,11,154,3.443,1.22,us,us7000tgmj,2026-10-01T16:30:54.040Z,"18 km E of Labuan Bajo, Indonesia",earthquake,8.59,1.922,0.232,8,reviewed,us,us
+2026-09-05T16:31:35.787Z,-8.4571,120.1931,10,4.4,mb,18,131,3.448,1.19,us,us7000tgmi,2026-10-01T16:22:36.040Z,"33 km E of Labuan Bajo, Indonesia",earthquake,6.31,1.948,0.139,15,reviewed,us,us
+2026-09-05T15:15:03.073Z,1.7141,127.2861,9.645,4.5,mb,29,129,14.958,0.7,us,us7000tgmg,2026-09-30T21:57:46.040Z,"80 km W of Tobelo, Indonesia",earthquake,14.55,4.69,0.116,22,reviewed,us,us
+2026-09-05T14:06:06.990Z,1.0484,98.5931,84.747,5.2,mb,84,43,1.669,0.89,us,us7000tejg,2026-09-30T18:28:56.040Z,"79 km SSW of Sibolga, Indonesia",earthquake,8.76,5.591,0.071,66,reviewed,us,us
+2026-09-05T13:21:13.610Z,-8.1117,120.6911,10,4,mb,11,158,3.216,0.91,us,us7000tgmd,2026-09-30T17:51:43.040Z,"60 km NNE of Ruteng, Indonesia",earthquake,11.36,1.88,0.172,10,reviewed,us,us
+2026-09-05T12:35:00.376Z,-8.1275,120.7002,10,4.5,mb,13,141,3.233,0.78,us,us7000teja,2026-09-16T15:08:37.040Z,"59 km NNE of Ruteng, Indonesia",earthquake,12.39,1.931,0.15,13,reviewed,us,us
+2026-09-05T10:59:17.893Z,-4.2988,102.745,88.845,4.9,mb,51,103,6.149,0.88,us,us7000teiy,2026-09-16T13:54:22.927Z,"63 km WSW of Pagar Alam, Indonesia",earthquake,12.21,7.501,0.071,63,reviewed,us,us
+2026-09-05T09:14:20.961Z,3.2828,96.2796,47.471,4.5,mb,30,98,4.792,0.84,us,us7000teim,2026-09-16T13:19:24.040Z,"79 km SW of Blangpidie, Indonesia",earthquake,11.46,8.169,0.112,23,reviewed,us,us
+2026-09-05T09:09:28.746Z,-8.1674,120.8172,10,4.2,mb,14,129,3.307,0.84,us,us7000tgm7,2026-09-30T08:12:06.040Z,"62 km NE of Ruteng, Indonesia",earthquake,12.17,1.871,0.146,13,reviewed,us,us
+2026-09-05T06:34:53.259Z,-0.1588,123.1871,176.069,4.5,mb,74,84,5.919,0.66,us,us7000tehs,2026-09-29T16:13:47.040Z,"78 km S of Gorontalo, Indonesia",earthquake,10.93,7.428,0.067,66,reviewed,us,us
+2026-09-05T03:37:49.005Z,3.1128,95.941,36.39,4.5,mb,26,72,3.008,1,us,us7000tgm2,2026-09-26T04:42:50.040Z,"85 km NW of Sinabang, Indonesia",earthquake,12.33,7.542,0.121,20,reviewed,us,us
+2026-09-05T02:32:10.242Z,3.0711,96.0446,35,4.4,mb,27,132,2.9,0.87,us,us7000tgm0,2026-09-26T05:06:01.040Z,"75 km NNW of Sinabang, Indonesia",earthquake,12.11,1.944,0.118,21,reviewed,us,us
+2026-09-04T23:17:48.037Z,-8.316,120.8029,10,4.5,mb,21,129,3.442,1.02,us,us7000tefr,2026-09-26T21:25:28.040Z,"49 km NE of Ruteng, Indonesia",earthquake,12.25,1.916,0.118,21,reviewed,us,us
+2026-09-04T16:24:40.634Z,1.3016,99.0782,122.009,5.1,mb,83,41,4.261,0.76,us,us7000teck,2026-09-13T20:38:11.040Z,"23 km WSW of Padangsidempuan, Indonesia",earthquake,9.21,5.292,0.061,87,reviewed,us,us
+2026-09-04T08:11:51.174Z,5.7552,125.4394,80.225,4.4,mb,25,110,1.313,0.67,us,us7000tgd0,2026-09-16T12:51:27.040Z,"7 km WNW of Kalbay, Philippines",earthquake,14.17,8.247,0.117,21,reviewed,us,us
+2026-09-04T07:56:33.614Z,3.3173,126.7662,50.628,4.1,mb,13,131,16.63,0.38,us,us7000tgcz,2026-09-30T08:08:30.040Z,"223 km NW of Tobelo, Indonesia",earthquake,11.66,9.165,0.157,11,reviewed,us,us
+2026-09-04T05:04:53.852Z,-7.9728,109.1255,10,5.2,mb,105,30,4.192,0.93,us,us7000te82,2026-10-15T13:31:16.040Z,"30 km SSE of Cilacap, Indonesia",earthquake,9.44,1.517,0.055,110,reviewed,us,us
+2026-09-03T21:05:16.621Z,0.4891,122.1133,124.038,4.9,mb,90,96,5.954,0.86,us,us7000te55,2026-09-21T23:32:31.040Z,"105 km W of Gorontalo, Indonesia",earthquake,9.87,7.111,0.063,81,reviewed,us,us
+2026-09-03T21:00:10.139Z,-8.3359,121.6392,10,4.8,mb,34,126,3.795,0.8,us,us7000te51,2026-09-21T23:23:23.040Z,"56 km N of Ende, Indonesia",earthquake,13.23,1.904,0.103,32,reviewed,us,us
+2026-09-03T16:04:36.057Z,-7.7789,120.737,10,4.3,mb,12,138,2.916,0.27,us,us7000tgc5,2026-09-12T15:56:07.040Z,"96 km NNE of Ruteng, Indonesia",earthquake,12.66,1.45,0.177,9,reviewed,us,us
+2026-09-03T14:15:55.333Z,2.5494,128.509,215.716,4.4,mb,28,138,4.373,0.45,us,us7000tdzn,2026-09-12T15:16:24.040Z,"106 km NNE of Tobelo, Indonesia",earthquake,12.41,9.15,0.115,23,reviewed,us,us
+2026-09-03T14:05:36.504Z,5.4838,126.9428,103.552,4.2,mb,22,127,18.677,0.6,us,us7000tgc2,2026-09-12T14:20:59.040Z,"128 km SE of Pondaguitan, Philippines",earthquake,13.45,8.594,0.137,17,reviewed,us,us
+2026-09-02T20:52:33.641Z,-9.1068,111.5131,35,4.5,mb,40,75,4.478,1.04,us,us7000tg3l,2026-09-25T18:00:08.040Z,"115 km S of Trenggalek, Indonesia",earthquake,9.05,1.905,0.094,33,reviewed,us,us
+2026-09-02T10:45:51.375Z,-1.8016,139.1986,10,4.4,mb,20,141,1.662,0.45,us,us7000tg35,2026-09-25T12:49:49.040Z,"182 km WNW of Abepura, Indonesia",earthquake,6.22,1.9,0.134,16,reviewed,us,us
+2026-09-02T08:07:14.513Z,2.5903,127.6514,107.07,4.2,mb,23,112,4.905,1.05,us,us7000tdk7,2026-10-08T13:43:57.040Z,"103 km NNW of Tobelo, Indonesia",earthquake,9.51,5.71,0.128,17,reviewed,us,us
+2026-09-02T06:06:40.997Z,-8.2187,120.6215,10,4.7,mb,35,118,3.299,0.79,us,us7000tdj7,2026-09-24T11:48:04.040Z,"46 km NNE of Ruteng, Indonesia",earthquake,9.13,1.89,0.112,24,reviewed,us,us
+2026-09-02T00:04:54.583Z,-3.2673,139.3335,64.276,5.3,mww,113,21,1.559,0.44,us,us7000tdhl,2026-10-26T21:41:41.040Z,"162 km WSW of Abepura, Indonesia",earthquake,5.07,4.734,0.103,9,reviewed,us,us
+2026-09-01T18:11:46.374Z,-8.1981,120.6653,10,4.9,mb,56,123,3.291,0.91,us,us7000tder,2026-09-09T15:41:26.040Z,"50 km NNE of Ruteng, Indonesia",earthquake,8.6,1.858,0.092,37,reviewed,us,us
+2026-09-01T14:41:12.134Z,-6.6534,127.5456,408.187,4.2,mb,52,26,5.216,0.61,us,us7000tdcb,2026-09-24T20:41:04.040Z,"215 km NNE of Lospalos, Timor Leste",earthquake,9.9,7.917,0.092,36,reviewed,us,us
+2026-09-01T14:06:47.558Z,-7.922,120.5552,10,4.5,mb,20,120,2.997,1.39,us,us7000tfw7,2026-09-24T20:28:54.040Z,"76 km N of Ruteng, Indonesia",earthquake,8.1,1.843,0.14,15,reviewed,us,us
+2026-09-01T13:22:29.069Z,5.1091,125.6579,110.403,5.2,mww,235,18,1.949,0.71,us,us7000tdbr,2026-09-24T19:57:18.040Z,"39 km SSE of Sarangani, Philippines",earthquake,7.75,3.747,0.073,18,reviewed,us,us
+2026-09-01T12:23:12.950Z,-4.5887,103.2386,86.053,4.5,mb,25,145,4.887,0.65,us,us7000tfw4,2026-09-25T12:32:14.040Z,"62 km S of Pagar Alam, Indonesia",earthquake,13.44,7.742,0.121,20,reviewed,us,us
+2026-09-01T10:53:11.587Z,-7.0819,107.1616,10,4.3,mb,15,135,0.518,0.9,us,us7000tfw3,2026-10-13T10:02:24.040Z,"28 km S of Cianjur, Indonesia",earthquake,5.56,1.937,0.177,10,reviewed,us,us
+2026-09-01T08:22:20.615Z,0.2143,128.9074,10,5.4,mww,105,29,2.592,0.84,us,us7000tdav,2026-10-08T13:09:00.031Z,"87 km SE of Maba, Indonesia",earthquake,7.15,1.73,0.066,22,reviewed,us,us
+2026-09-01T05:06:31.275Z,-4.0548,131.0553,35,4.6,mb,31,102,8.733,0.9,us,us7000td9v,2026-09-22T19:27:43.040Z,"186 km SW of Fakfak, Indonesia",earthquake,11.08,1.847,0.103,28,reviewed,us,us
+2026-09-01T05:02:24.336Z,4.9669,127.5756,149.123,4.1,mb,35,121,2.882,0.54,us,us7000tfvw,2026-09-22T17:48:02.040Z,"218 km SE of Pondaguitan, Philippines",earthquake,13.8,6.505,0.097,29,reviewed,us,us
+2026-08-31T14:25:51.277Z,-8.3284,119.614,187.821,4.2,mb,23,163,3.295,0.93,us,us7000td4c,2026-09-08T19:59:51.040Z,"31 km NNE of Komodo, Indonesia",earthquake,12.33,12.784,0.141,14,reviewed,us,us
+2026-08-31T12:01:17.077Z,-8.4764,121.6179,183.497,4.3,mb,24,112,2.651,0.88,us,us7000texi,2026-10-02T12:47:50.040Z,"40 km N of Ende, Indonesia",earthquake,10.21,7.531,0.154,12,reviewed,us,us
+2026-08-31T10:05:06.691Z,5.6279,126.1753,10.234,4.3,mb,16,135,1.55,0.81,us,us7000td3j,2026-09-24T14:02:26.040Z,"67 km ESE of Caburan, Philippines",earthquake,10.7,5.14,0.187,13,reviewed,us,us
+2026-08-31T08:28:33.891Z,-8.4314,119.7333,10,4.3,mb,11,183,3.395,0.42,us,us7000texb,2026-09-25T13:46:10.040Z,"18 km WNW of Labuan Bajo, Indonesia",earthquake,13.25,1.967,0.217,6,reviewed,us,us
+2026-08-31T08:03:27.967Z,-8.2512,120.5598,10,5.2,mww,111,46,3.314,0.49,us,us7000td2z,2026-10-26T13:18:44.040Z,"41 km NNE of Ruteng, Indonesia",earthquake,9.82,1.855,0.083,14,reviewed,us,us
+2026-08-31T03:21:31.935Z,3.5484,122.4993,557.731,4.2,mb,17,97,10.328,0.82,us,us7000tex1,2026-09-23T00:14:54.040Z,"280 km SE of Latung, Philippines",earthquake,14.85,12.847,0.153,12,reviewed,us,us
+2026-08-31T02:48:41.292Z,-8.0998,120.5941,10,4.4,mb,14,169,3.177,1.15,us,us7000tewy,2026-09-19T00:04:46.040Z,"58 km NNE of Ruteng, Indonesia",earthquake,9.07,1.949,0.169,10,reviewed,us,us
+2026-08-31T00:42:36.498Z,-8.4413,120.1653,10,4.2,mb,23,140,3.429,0.3,us,us7000tewx,2026-09-24T00:06:01.040Z,"31 km ENE of Labuan Bajo, Indonesia",earthquake,7.75,1.908,0.146,13,reviewed,us,us
+2026-08-30T19:57:01.574Z,-2.5928,138.7299,35.17,4.3,mb,21,107,1.973,0.84,us,us7000tec2,2026-09-05T16:27:24.040Z,"211 km W of Abepura, Indonesia",earthquake,13.29,7.913,0.133,16,reviewed,us,us
+2026-08-30T12:08:27.816Z,5.7536,125.2719,91.264,4.4,mb,60,82,1.343,0.75,us,us7000tebt,2026-09-22T17:22:50.040Z,"4 km ENE of Baliton, Philippines",earthquake,8.13,7.483,0.076,49,reviewed,us,us
+2026-08-30T11:03:03.401Z,-8.1587,120.5454,10,4.5,mb,27,83,3.222,0.88,us,us7000tcyr,2026-09-22T19:18:05.040Z,"50 km N of Ruteng, Indonesia",earthquake,10.95,1.902,0.121,20,reviewed,us,us
+2026-08-30T08:50:47.757Z,-8.4388,120.2231,10,4.3,mb,14,171,3.434,0.6,us,us7000tebm,2026-09-24T06:07:38.040Z,"32 km NW of Ruteng, Indonesia",earthquake,15.64,1.968,0.148,13,reviewed,us,us
+2026-08-30T07:37:53.242Z,-3.3399,101.6275,78.374,4.9,mb,46,65,5.559,0.7,us,us7000tcxc,2026-09-12T12:35:56.178Z,"87 km NW of Bengkulu, Indonesia",earthquake,11.58,7.104,0.09,39,reviewed,us,us
+2026-08-30T07:10:39.182Z,-7.93,120.6672,15.155,4.5,mb,18,120,3.036,0.6,us,us7000tdw9,2026-09-12T12:26:08.040Z,"78 km NNE of Ruteng, Indonesia",earthquake,12.83,4.619,0.132,17,reviewed,us,us
+2026-08-30T05:17:03.964Z,2.2902,128.493,242.271,4.4,mb,21,120,4.187,0.68,us,us7000tcwq,2026-09-12T10:28:50.040Z,"82 km NE of Tobelo, Indonesia",earthquake,7.36,9.467,0.126,18,reviewed,us,us
+2026-08-30T04:29:14.479Z,1.3943,126.3533,35.404,4.7,mb,45,111,5.402,0.94,us,us7000tcwg,2026-09-18T03:04:17.040Z,"132 km WNW of Ternate, Indonesia",earthquake,10.71,6.663,0.096,33,reviewed,us,us
+2026-08-30T03:42:24.878Z,5.511,125.9649,10,4.3,mb,17,165,1.595,0.91,us,us7000tebd,2026-09-17T05:44:55.040Z,"56 km ESE of Kalbay, Philippines",earthquake,15.66,1.915,0.143,14,reviewed,us,us
+2026-08-30T01:57:43.546Z,3.6708,126.7076,35,4.4,mb,14,130,3.558,0.52,us,us7000tebb,2026-09-17T05:05:04.040Z,"236 km SE of Sarangani, Philippines",earthquake,10.56,1.963,0.149,13,reviewed,us,us
+2026-08-29T16:42:43.206Z,1.8368,126.4968,53.532,4.3,mb,32,79,5.474,0.54,us,us7000tcu7,2026-09-24T19:35:13.040Z,"152 km NW of Ternate, Indonesia",earthquake,7.36,7.047,0.103,31,reviewed,us,us
+2026-08-29T13:46:15.329Z,-8.0944,120.2446,10,4.3,mb,21,121,3.099,0.9,us,us7000teas,2026-09-23T21:56:05.040Z,"59 km NE of Labuan Bajo, Indonesia",earthquake,9.53,1.695,0.133,19,reviewed,us,us
+2026-08-29T13:01:53.436Z,-7.4342,129.0984,120.915,4.3,mb,15,97,5.736,0.67,us,us7000tear,2026-09-23T21:40:57.040Z,"260 km ENE of Lospalos, Timor Leste",earthquake,7.31,9.51,0.161,11,reviewed,us,us
+2026-08-29T09:15:46.837Z,-8.5879,127.2876,10,4.6,mb,37,96,5.671,0.8,us,us7000tct6,2026-09-06T12:51:55.040Z,"32 km ESE of Lospalos, Timor Leste",earthquake,9.91,1.872,0.091,36,reviewed,us,us
+2026-08-29T09:06:25.296Z,5.9268,125.9755,155.228,4.2,mb,19,138,1.202,0.38,us,us7000teal,2026-09-06T12:49:12.040Z,"33 km ESE of Mangili, Philippines",earthquake,14.1,8.279,0.14,14,reviewed,us,us
+2026-08-29T08:37:54.678Z,-8.3672,120.0082,10,4.3,mb,16,147,3.341,0.99,us,us7000teaj,2026-09-22T16:53:24.040Z,"19 km NE of Labuan Bajo, Indonesia",earthquake,9.17,1.927,0.153,12,reviewed,us,us
+2026-08-29T08:08:46.229Z,-0.6905,126.8773,46.206,5,mb,88,48,4.392,0.62,us,us7000tcsu,2026-09-22T18:39:13.040Z,"67 km W of Labuha, Indonesia",earthquake,7.47,5.814,0.064,79,reviewed,us,us
+2026-08-28T20:28:27.902Z,-7.6133,126.3698,261.655,4.4,mb,10,181,3.713,0.74,us,us7000te1c,2026-09-23T18:50:42.040Z,"95 km N of Baukau, Timor Leste",earthquake,13.68,17.525,0.309,3,reviewed,us,us
+2026-08-28T20:07:43.061Z,-7.8601,120.6395,10,4.6,mb,40,109,2.962,0.52,us,us7000te1a,2026-09-23T17:19:28.040Z,"85 km NNE of Ruteng, Indonesia",earthquake,5.63,1.867,0.105,32,reviewed,us,us
+2026-08-28T15:24:45.552Z,-8.2156,120.4136,10,4.4,mb,19,138,3.248,1.14,us,us7000te12,2026-09-06T16:19:15.040Z,"44 km N of Ruteng, Indonesia",earthquake,9.56,1.922,0.19,8,reviewed,us,us
+2026-08-28T10:23:06.459Z,-6.8912,127.4498,10,4.5,mb,17,135,4.987,0.38,us,us7000tcj1,2026-09-24T09:52:25.040Z,"187 km NNE of Lospalos, Timor Leste",earthquake,9.86,1.924,0.14,15,reviewed,us,us
+2026-08-28T09:01:39.356Z,-6.7932,126.8733,414.6,4.1,mb,18,71,4.645,0.36,us,us7000te0t,2026-09-25T07:27:53.040Z,"191 km N of Lospalos, Timor Leste",earthquake,15.68,9.083,0.174,9,reviewed,us,us
+2026-08-28T08:22:26.767Z,5.2762,125.4174,65.967,4.5,mb,26,128,1.789,0.74,us,us7000te0q,2026-09-06T11:57:01.040Z,"14 km SSW of Sarangani, Philippines",earthquake,11.58,9.078,0.121,20,reviewed,us,us
+2026-08-28T01:14:47.984Z,-6.7316,131.7082,10,4.5,mb,13,112,2.835,0.25,us,us7000tcj8,2026-09-22T03:41:27.040Z,"168 km SW of Tual, Indonesia",earthquake,6.73,1.928,0.205,7,reviewed,us,us
+2026-08-28T00:43:04.770Z,1.7436,126.9498,61.77,4.6,mb,46,98,5.464,0.5,us,us7000tcgq,2026-10-02T23:23:06.040Z,"115 km NNW of Ternate, Indonesia",earthquake,10.96,6.382,0.086,41,reviewed,us,us
+2026-08-28T00:03:55.809Z,-6.3227,130.3183,124.401,4.1,mb,14,122,1.835,0.35,us,us7000tcgk,2026-09-15T00:12:09.040Z,"280 km WSW of Tual, Indonesia",earthquake,10.31,8.922,0.185,8,reviewed,us,us
+2026-08-27T23:55:06.033Z,-8.2449,120.1604,10,4.4,mb,12,157,3.235,0.77,us,us7000tdy0,2026-10-26T05:13:22.040Z,"40 km NE of Labuan Bajo, Indonesia",earthquake,10.16,1.907,0.239,5,reviewed,us,us
+2026-08-27T22:22:45.168Z,1.889,128.2198,114.823,4.4,mb,31,93,6.247,0.62,us,us7000tdxz,2026-09-15T05:00:26.040Z,"29 km NE of Tobelo, Indonesia",earthquake,14.63,7.615,0.112,24,reviewed,us,us
+2026-08-27T21:05:29.229Z,-7.9324,120.2871,10,4.4,mb,13,125,2.947,0.83,us,us7000tdxu,2026-09-14T21:52:08.040Z,"76 km NE of Labuan Bajo, Indonesia",earthquake,9.4,1.722,0.203,8,reviewed,us,us
+2026-08-27T18:43:39.795Z,5.9137,125.6435,10,4.9,mb,84,77,1.15,1.13,us,us7000tcdu,2026-09-30T19:05:29.040Z,"0 km SSE of Caburan, Philippines",earthquake,10.19,1.882,0.054,107,reviewed,us,us
+2026-08-27T16:31:59.647Z,-7.8341,120.4866,10,4.7,mb,31,83,2.895,1.05,us,us7000tcaf,2026-09-06T15:42:53.040Z,"86 km N of Ruteng, Indonesia",earthquake,4.39,1.837,0.123,23,reviewed,us,us
+2026-08-27T16:16:31.165Z,-7.7398,120.9735,10,4.3,mb,13,129,2.967,0.75,us,us7000tdxm,2026-09-06T15:13:39.040Z,"111 km NNE of Ruteng, Indonesia",earthquake,6.99,1.929,0.238,6,reviewed,us,us
+2026-08-27T11:00:15.613Z,1.5326,126.0944,81.565,4.4,mb,36,98,5.524,0.93,us,us7000tc8s,2026-09-23T12:48:28.040Z,"107 km E of Bitung, Indonesia",earthquake,6.41,8.672,0.105,26,reviewed,us,us
+2026-08-27T10:33:24.339Z,-7.9804,120.1629,10,5.2,mww,96,37,2.975,0.95,us,us7000tc8j,2026-09-23T10:18:51.040Z,"64 km NNE of Labuan Bajo, Indonesia",earthquake,5.74,1.744,0.11,8,reviewed,us,us
+2026-08-27T06:15:10.544Z,-8.1967,121.7296,26.483,4.5,mb,14,119,2.946,1.06,us,us7000tdwu,2026-09-06T06:38:51.040Z,"70 km NW of Maumere, Indonesia",earthquake,9.22,5.501,0.163,11,reviewed,us,us
+2026-08-26T19:02:58.962Z,-6.2352,130.3848,133.685,4.4,mb,54,47,1.767,0.69,us,us7000tc0v,2026-09-26T15:39:09.040Z,"270 km WSW of Tual, Indonesia",earthquake,3.97,7.054,0.083,42,reviewed,us,us
+2026-08-26T18:34:58.524Z,-8.3246,120.6242,10,4.5,mb,35,77,3.401,0.59,us,us7000tc0p,2026-09-18T15:58:26.040Z,"36 km NNE of Ruteng, Indonesia",earthquake,7.67,1.494,0.101,31,reviewed,us,us
+2026-08-26T18:23:13.367Z,-8.376,120.6226,10,4.9,mb,78,47,3.45,0.68,us,us7000tc0k,2026-09-18T15:46:36.040Z,"31 km NE of Ruteng, Indonesia",earthquake,6.36,1.87,0.072,66,reviewed,us,us
+2026-08-26T17:23:56.535Z,-8.6828,120.9506,10,4,mb,13,116,3.443,1.23,us,us7000tdm4,2026-09-18T15:12:59.040Z,"54 km E of Ruteng, Indonesia",earthquake,6.98,1.831,0.258,4,reviewed,us,us
+2026-08-26T16:52:48.110Z,-8.3149,121.2015,10,4.7,mb,40,108,3.072,0.68,us,us7000tbzr,2026-09-07T21:07:31.040Z,"77 km NW of Ende, Indonesia",earthquake,8.7,1.801,0.106,27,reviewed,us,us
+2026-08-26T15:58:48.085Z,4.6543,125.6555,10,4.4,mb,18,173,2.401,0.36,us,us7000tdlz,2026-09-07T20:19:18.040Z,"85 km SSE of Sarangani, Philippines",earthquake,12.58,1.914,0.149,13,reviewed,us,us
+2026-08-26T14:15:30.316Z,-8.3493,121.4222,10,5,mww,80,53,2.881,0.6,us,us7000tbyu,2026-10-21T17:16:27.040Z,"60 km NNW of Ende, Indonesia",earthquake,7.73,1.651,0.089,12,reviewed,us,us
+2026-08-26T13:43:43.309Z,-8.1533,107.8313,51.084,4.2,mb,15,80,0.709,0.99,us,us7000tdlv,2026-09-07T15:46:02.040Z,"93 km SSW of Singaparna, Indonesia",earthquake,3.54,8.736,0.167,10,reviewed,us,us
+2026-08-26T11:34:57.984Z,1.9272,95.9339,10,4.4,mb,13,214,1.754,0.63,us,us7000tdlt,2026-09-17T17:44:33.040Z,"78 km SW of Sinabang, Indonesia",earthquake,6.27,1.965,0.241,5,reviewed,us,us
+2026-08-26T09:47:33.849Z,-8.3209,121.3582,10,4.6,mb,35,86,3.207,0.5,us,us7000tbxz,2026-09-15T14:44:22.040Z,"66 km NNW of Ende, Indonesia",earthquake,8.02,1.856,0.119,21,reviewed,us,us
+2026-08-26T08:22:06.616Z,-7.074,108.651,201.252,4.2,mb,17,154,1.059,0.6,us,us7000tdlp,2026-09-17T11:26:43.040Z,"21 km ESE of Kuningan, Indonesia",earthquake,9.98,8.542,0.187,9,reviewed,us,us
+2026-08-26T07:48:06.727Z,-8.2824,121.1563,10,4.5,mb,30,116,3.127,1.05,us,us7000tbxm,2026-09-17T12:07:37.040Z,"83 km NW of Ende, Indonesia",earthquake,7.83,1.895,0.145,16,reviewed,us,us
+2026-08-26T07:17:50.589Z,-7.8808,120.5592,10,4.3,mb,23,122,2.959,1.19,us,us7000tdlj,2026-09-29T13:43:43.040Z,"81 km N of Ruteng, Indonesia",earthquake,8.19,1.902,0.154,13,reviewed,us,us
+2026-08-26T07:07:49.013Z,-7.858,120.4357,10,4.6,mb,22,130,2.906,0.92,us,us7000tbxi,2026-09-29T13:29:23.040Z,"83 km N of Ruteng, Indonesia",earthquake,9.7,1.905,0.136,16,reviewed,us,us
+2026-08-26T06:58:42.991Z,1.3459,99.2033,128.839,4.2,mb,24,122,1.369,0.48,us,us7000tdlh,2026-09-17T11:03:39.040Z,"8 km WSW of Padangsidempuan, Indonesia",earthquake,7.44,8.882,0.146,13,reviewed,us,us
+2026-08-26T06:36:26.935Z,-7.6929,120.9845,10,4.3,mb,18,119,2.93,0.88,us,us7000tdlg,2026-09-17T14:27:19.040Z,"116 km NNE of Ruteng, Indonesia",earthquake,11.09,1.923,0.168,12,reviewed,us,us
+2026-08-26T06:27:11.052Z,-8.0134,120.4937,10,4.6,mb,27,87,3.069,1.12,us,us7000tbxb,2026-09-17T09:20:27.040Z,"66 km N of Ruteng, Indonesia",earthquake,8.3,1.908,0.146,16,reviewed,us,us
+2026-08-26T02:05:47.254Z,-6.5973,127.5372,10,4.5,mb,19,112,3.13,0.97,us,us7000tbw5,2026-09-13T01:32:38.040Z,"220 km NNE of Lospalos, Timor Leste",earthquake,8.31,1.621,0.156,12,reviewed,us,us
+2026-08-26T01:48:11.230Z,-6.6227,127.5749,10,4.8,mb,42,76,3.119,0.76,us,us7000tbw3,2026-09-13T01:18:04.040Z,"219 km NNE of Lospalos, Timor Leste",earthquake,7.76,1.897,0.102,30,reviewed,us,us
+2026-08-26T01:31:55.129Z,-7.8156,120.2941,10,4.6,mb,22,83,2.835,0.55,us,us7000tbw1,2026-09-13T01:05:18.040Z,"87 km NNE of Labuan Bajo, Indonesia",earthquake,8.28,1.917,0.146,14,reviewed,us,us
+2026-08-26T01:20:29.403Z,-7.7397,120.3099,10,4.4,mb,21,87,2.764,1.03,us,us7000tdla,2026-09-13T00:22:20.040Z,"95 km NNE of Labuan Bajo, Indonesia",earthquake,8.32,1.902,0.144,14,reviewed,us,us
+2026-08-26T00:38:33.593Z,-7.7824,120.1422,10,4.5,mb,28,123,2.777,0.77,us,us7000tdl3,2026-09-03T20:45:47.040Z,"83 km NNE of Labuan Bajo, Indonesia",earthquake,10.22,1.889,0.131,18,reviewed,us,us
+2026-08-26T00:34:06.503Z,-7.7066,120.4399,10,4.3,mb,20,121,2.761,0.74,us,us7000tdl6,2026-09-23T21:53:52.040Z,"100 km N of Ruteng, Indonesia",earthquake,6.87,1.91,0.168,11,reviewed,us,us
+2026-08-26T00:25:16.776Z,-8.5565,120.6249,9.513,4.3,mb,17,140,3.417,0.56,us,us7000tdl7,2026-09-17T00:38:33.040Z,"18 km ENE of Ruteng, Indonesia",earthquake,12.11,5.115,0.154,12,reviewed,us,us
+2026-08-26T00:23:36.439Z,-7.926,119.9963,10,4.1,mb,16,138,2.903,0.85,us,us7000tdl5,2026-09-03T04:29:47.040Z,"64 km N of Labuan Bajo, Indonesia",earthquake,8.81,1.844,0.165,10,reviewed,us,us
+2026-08-25T23:57:25.540Z,2.5836,98.5868,151.139,4,mb,15,114,1.624,1.11,us,us7000tddw,2026-09-01T23:42:28.040Z,"29 km WSW of Ambarita, Indonesia",earthquake,14.72,6.861,0.149,12,reviewed,us,us
+2026-08-25T21:23:59.169Z,-8.2356,120.7287,10.664,4.9,mb,51,66,3.344,0.81,us,us7000tbup,2026-09-01T22:54:24.040Z,"50 km NE of Ruteng, Indonesia",earthquake,8.03,1.808,0.101,31,reviewed,us,us
+2026-08-25T21:22:52.067Z,-7.9474,120.3397,15.66,4.5,mb,33,74,2.972,0.59,us,us7000tddt,2026-09-01T22:42:56.040Z,"74 km N of Ruteng, Indonesia",earthquake,7.82,4.407,0.118,21,reviewed,us,us
+2026-08-25T19:15:37.828Z,4.3527,126.4721,40.762,4.4,mb,61,104,2.842,0.61,us,us7000tbtj,2026-09-06T17:19:54.040Z,"161 km SE of Sarangani, Philippines",earthquake,8.65,6.521,0.082,43,reviewed,us,us
+2026-08-25T18:20:18.585Z,-8.3718,121.1486,10,4.2,mb,19,118,3.079,1.08,us,us7000tddp,2026-09-03T17:05:57.040Z,"76 km NW of Ende, Indonesia",earthquake,9.17,1.932,0.199,9,reviewed,us,us
+2026-08-25T15:51:11.215Z,-8.1007,120.6658,10,4.6,mb,42,83,3.198,1.03,us,us7000tddl,2026-09-17T20:04:30.040Z,"60 km NNE of Ruteng, Indonesia",earthquake,7.75,1.882,0.096,37,reviewed,us,us
+2026-08-25T14:58:54.153Z,-8.0189,120.6395,10,5,mb,69,67,3.113,0.86,us,us6000tnd4,2026-09-17T19:44:32.040Z,"68 km NNE of Ruteng, Indonesia",earthquake,6.41,1.702,0.078,54,reviewed,us,us
+2026-08-25T14:24:24.440Z,5.451,125.2684,19.769,4.2,mb,13,143,1.637,0.37,us,us7000tddk,2026-09-26T15:43:52.040Z,"16 km SW of Balangonan, Philippines",earthquake,28.45,8.488,0.175,9,reviewed,us,us
+2026-08-25T11:29:44.993Z,-3.6454,127.4208,10,4.9,mb,77,69,2.626,0.65,us,us6000tncc,2026-09-15T14:57:04.040Z,"84 km W of Ambon, Indonesia",earthquake,7.58,1.858,0.064,76,reviewed,us,us
+2026-08-25T06:48:20.428Z,3.4749,124.4996,318.559,4.6,mb,95,68,3.729,0.87,us,us6000tnbk,2026-09-15T13:24:39.040Z,"223 km N of Manado, Indonesia",earthquake,8.25,7.358,0.052,110,reviewed,us,us
+2026-08-25T06:44:33.275Z,-0.047,96.7311,10,4.5,mb,22,142,1.585,0.27,us,us7000tde4,2026-09-15T11:25:44.040Z,"137 km WSW of Teluk Dalam, Indonesia",earthquake,10.26,1.927,0.145,14,reviewed,us,us
+2026-08-25T03:06:19.459Z,-6.6077,127.5626,8.647,4.7,mb,32,64,3.118,0.61,us,us6000tnal,2026-09-17T02:41:34.040Z,"220 km NNE of Lospalos, Timor Leste",earthquake,8.12,4.899,0.115,23,reviewed,us,us
+2026-08-25T00:37:44.215Z,-8.135,120.3049,10,3.9,mb,11,125,3.149,0.36,us,us7000tdd2,2026-09-17T00:13:27.040Z,"55 km NNW of Ruteng, Indonesia",earthquake,6.79,1.952,0.209,6,reviewed,us,us
+2026-08-25T00:27:17.774Z,3.0555,98.5419,153.904,4.2,mb,23,112,1.99,0.51,us,us7000tdd3,2026-09-01T22:02:21.040Z,"7 km SE of Kabanjahe, Indonesia",earthquake,9.12,8.342,0.141,14,reviewed,us,us
+2026-08-25T00:05:24.461Z,-8.3518,120.1917,10,4.9,mb,42,105,3.344,0.86,us,us6000tn9w,2026-09-17T00:07:17.040Z,"37 km ENE of Labuan Bajo, Indonesia",earthquake,10.23,1.823,0.099,32,reviewed,us,us
+2026-08-24T23:27:14.631Z,-8.4051,120.0583,10,4,mb,12,157,3.382,0.54,us,us7000tcmt,2026-09-17T00:02:55.040Z,"21 km ENE of Labuan Bajo, Indonesia",earthquake,9.18,1.89,0.182,9,reviewed,us,us
+2026-08-24T19:00:03.468Z,-6.6988,127.4995,9.851,5,mb,63,47,3.225,0.7,us,us6000tn80,2026-09-17T11:56:34.477Z,"209 km NNE of Lospalos, Timor Leste",earthquake,7.32,4.241,0.078,52,reviewed,us,us
+2026-08-24T15:12:14.710Z,-7.793,120.4309,10,4.8,mb,32,84,2.842,0.72,us,us6000tn4m,2026-08-30T15:25:52.040Z,"90 km N of Ruteng, Indonesia",earthquake,8.4,1.894,0.124,21,reviewed,us,us
+2026-08-24T14:10:16.893Z,-6.6585,127.4253,8,6,mww,167,23,3.254,0.69,us,us6000tn41,2026-10-21T17:31:44.040Z,"211 km NNE of Lospalos, Timor Leste",earthquake,6.23,1.705,0.051,37,reviewed,us,us
+2026-08-24T10:02:58.339Z,-5.1225,129.7241,10,5.4,mww,113,26,0.623,0.94,us,us6000tn33,2026-09-29T13:22:42.854Z,"216 km SSE of Amahai, Indonesia",earthquake,4.21,1.694,0.066,22,reviewed,us,us
+2026-08-24T03:59:32.499Z,5.3774,125.3024,64.398,4.8,mb,50,113,1.704,0.81,us,us6000tn25,2026-09-17T00:57:48.040Z,"18 km W of Sarangani, Philippines",earthquake,11.32,7.556,0.087,40,reviewed,us,us
+2026-08-24T02:19:39.107Z,-7.978,120.4269,10,4.7,mb,26,83,3.02,0.94,us,us6000tn1v,2026-09-14T03:42:22.040Z,"70 km N of Ruteng, Indonesia",earthquake,8.95,1.891,0.12,21,reviewed,us,us
+2026-08-24T01:38:57.548Z,-2.5645,138.9466,10,4.3,mb,20,91,1.755,0.9,us,us7000tclx,2026-09-14T00:02:25.040Z,"187 km W of Abepura, Indonesia",earthquake,8.12,1.899,0.161,11,reviewed,us,us
+2026-08-24T01:12:59.914Z,-8.2851,120.396,10,4.6,mb,28,83,3.312,1.4,us,us6000tn1k,2026-09-25T04:00:40.040Z,"36 km NNW of Ruteng, Indonesia",earthquake,8.88,1.932,0.114,23,reviewed,us,us
+2026-08-24T00:55:06.673Z,-7.7429,120.7561,10,4.2,mb,18,131,2.889,0.68,us,us7000tclw,2026-08-30T22:26:04.040Z,"101 km NNE of Ruteng, Indonesia",earthquake,8.65,1.766,0.159,12,reviewed,us,us
+2026-08-24T00:47:02.804Z,-7.8111,120.6003,10,4.1,mb,14,152,2.904,0.6,us,us7000tclv,2026-08-30T22:02:59.040Z,"89 km N of Ruteng, Indonesia",earthquake,14.86,1.873,0.175,9,reviewed,us,us
+2026-08-24T00:22:03.882Z,-7.9116,120.0824,10,4.4,mb,21,125,2.897,0.86,us,us6000tn1g,2026-09-16T23:35:10.040Z,"68 km NNE of Labuan Bajo, Indonesia",earthquake,10.36,1.89,0.126,18,reviewed,us,us
+2026-08-23T23:29:41.668Z,-8.1336,107.781,54.324,4.1,mb,17,115,0.679,0.68,us,us7000tclm,2026-09-23T21:10:51.040Z,"93 km SSW of Singaparna, Indonesia",earthquake,7.59,10.08,0.174,9,reviewed,us,us
+2026-08-23T23:05:29.680Z,-8.2996,120.232,10,4.2,mb,19,151,3.299,0.84,us,us7000tcll,2026-09-16T22:37:58.040Z,"42 km NW of Ruteng, Indonesia",earthquake,8.5,1.735,0.159,11,reviewed,us,us
+2026-08-23T22:57:30.450Z,-8.1459,120.6249,10,4.7,mb,46,86,3.23,0.77,us,us6000tn14,2026-08-30T01:25:42.040Z,"54 km NNE of Ruteng, Indonesia",earthquake,7.99,1.872,0.099,31,reviewed,us,us
+2026-08-23T21:27:01.197Z,-8.351,120.3517,10,4.3,mb,9,142,3.368,0.89,us,us7000tclj,2026-10-21T22:38:59.040Z,"31 km NNW of Ruteng, Indonesia",earthquake,13.26,1.75,0.202,7,reviewed,us,us
+2026-08-23T21:20:15.857Z,-8.1757,120.8763,10,5.2,mb,70,44,3.333,0.69,us,us6000tn0s,2026-09-16T22:14:06.841Z,"66 km NE of Ruteng, Indonesia",earthquake,8.26,1.488,0.072,63,reviewed,us,us
+2026-08-23T19:56:47.569Z,-2.0722,100.6649,66.151,4.4,mb,30,132,3.224,0.59,us,us6000tn0j,2026-09-04T16:00:00.040Z,"80 km W of Sungai Penuh, Indonesia",earthquake,9.2,6.873,0.126,18,reviewed,us,us
+2026-08-23T18:57:38.878Z,5.8271,126.1654,11.168,4.7,mb,51,109,1.365,0.55,us,us6000tn0a,2026-09-04T15:56:35.040Z,"56 km ESE of Mangili, Philippines",earthquake,10.31,4.404,0.074,55,reviewed,us,us
+2026-08-23T05:11:42.592Z,-0.0426,120.4985,105.862,4.2,mb,20,116,4.994,0.54,us,us7000tckz,2026-08-30T07:29:05.040Z,"118 km NE of Palu, Indonesia",earthquake,14.75,7.151,0.128,17,reviewed,us,us
+2026-08-22T23:13:05.816Z,-8.2211,121.4913,10,4.3,mb,13,138,3.137,0.89,us,us7000tcdg,2026-10-23T02:53:59.040Z,"71 km NNW of Ende, Indonesia",earthquake,10.46,1.886,0.266,4,reviewed,us,us
+2026-08-22T22:01:02.600Z,-8.1213,120.741,10,4.5,mb,17,96,3.239,0.67,us,us6000tmut,2026-09-14T03:37:01.040Z,"62 km NNE of Ruteng, Indonesia",earthquake,9.67,1.941,0.163,11,reviewed,us,us
+2026-08-22T19:54:07.401Z,-0.1606,123.032,110.081,4.8,mww,72,64,5.829,0.62,us,us6000tmtu,2026-09-04T15:43:23.040Z,"77 km S of Gorontalo, Indonesia",earthquake,9.34,6.131,0.103,9,reviewed,us,us
+2026-08-22T17:40:09.267Z,-2.9378,100.862,37.761,4.5,mb,33,183,2.522,0.81,us,us6000tmte,2026-09-04T15:21:37.040Z,"113 km SSW of Sungai Penuh, Indonesia",earthquake,8.37,6.425,0.116,22,reviewed,us,us
+2026-08-22T16:42:56.935Z,-7.8452,120.5251,10,4.5,mb,40,51,2.916,1.25,us,us6000tmt8,2026-09-26T15:46:24.040Z,"85 km N of Ruteng, Indonesia",earthquake,3.12,1.869,0.103,31,reviewed,us,us
+2026-08-22T16:33:01.881Z,-3.3585,100.4185,10,4.7,mb,76,144,2.72,0.77,us,us6000tmt7,2026-09-17T14:59:45.040Z,"173 km SSE of Tuapejat, Indonesia",earthquake,6.8,1.881,0.072,58,reviewed,us,us
+2026-08-22T15:48:24.362Z,-7.9748,119.8387,15.774,4.5,mb,15,113,2.942,0.82,us,us7000tcd3,2026-09-17T14:50:00.040Z,"57 km N of Labuan Bajo, Indonesia",earthquake,9.16,5.465,0.181,9,reviewed,us,us
+2026-08-22T14:21:20.598Z,-7.8038,120.5518,8.94,4.4,mb,22,105,2.883,0.94,us,us7000tccz,2026-09-16T22:16:07.040Z,"89 km N of Ruteng, Indonesia",earthquake,8.46,5.013,0.144,14,reviewed,us,us
+2026-08-22T08:29:00.844Z,-7.9595,120.6774,10,4.8,mb,37,52,3.067,0.81,us,us6000tmrx,2026-09-15T12:26:07.040Z,"75 km NNE of Ruteng, Indonesia",earthquake,6.98,1.868,0.109,26,reviewed,us,us
+2026-08-22T06:29:25.835Z,-8.1749,121.8095,10,4.2,mb,21,98,2.725,0.45,us,us7000tccq,2026-09-13T11:25:12.040Z,"66 km NW of Maumere, Indonesia",earthquake,5.06,1.908,0.146,13,reviewed,us,us
+2026-08-22T05:45:11.638Z,-8.1767,121.4321,10,4.7,mb,34,76,2.987,0.68,us,us6000tmr7,2026-09-15T11:30:45.040Z,"77 km NNW of Ende, Indonesia",earthquake,7.32,1.883,0.115,23,reviewed,us,us
+2026-08-22T02:57:26.313Z,-6.7914,103.7887,23.424,4.4,mb,13,176,2.553,0.92,us,us7000tcck,2026-09-12T22:08:13.040Z,"221 km SW of Bandar Lampung, Indonesia",earthquake,12.18,8.079,0.178,9,reviewed,us,us
+2026-08-22T01:59:28.567Z,-8.3321,120.4149,10,4.6,mb,17,88,3.361,1.17,us,us6000tmq8,2026-09-12T04:58:41.040Z,"31 km N of Ruteng, Indonesia",earthquake,5.99,1.897,0.132,17,reviewed,us,us
+2026-08-22T01:30:58.707Z,-8.1406,120.5537,10,5.2,mww,49,52,3.206,1.16,us,us6000tmq5,2026-09-12T04:23:02.040Z,"52 km N of Ruteng, Indonesia",earthquake,7.73,1.863,0.093,11,reviewed,us,us
+2026-08-21T21:55:20.076Z,-7.8029,130.0645,26.938,4.3,mb,13,126,3.263,0.61,us,us7000tcbh,2026-09-25T03:54:44.040Z,"Pulau Pulau Tanimbar, Indonesia",earthquake,11.91,7.594,0.201,7,reviewed,us,us
+2026-08-21T20:21:53.540Z,-7.9259,120.613,10,5,mb,81,73,3.016,0.8,us,us6000tmn5,2026-09-16T18:47:32.040Z,"77 km NNE of Ruteng, Indonesia",earthquake,7.49,1.855,0.07,69,reviewed,us,us
+2026-08-21T20:00:51.817Z,-8.0562,120.7237,10,4,mb,9,124,3.173,0.27,us,us7000tcbf,2026-09-16T18:28:03.040Z,"67 km NNE of Ruteng, Indonesia",earthquake,20.75,2.017,0.21,7,reviewed,us,us
+2026-08-21T18:40:30.125Z,-7.6809,104.5396,10,4.2,mb,23,173,2.976,0.46,us,us7000tcb8,2026-08-31T16:49:47.040Z,"202 km SW of Labuan, Indonesia",earthquake,7.56,1.93,0.146,13,reviewed,us,us
+2026-08-21T18:22:32.896Z,-8.1573,120.0374,10,4.2,mb,29,81,3.135,0.76,us,us7000tcb7,2026-08-31T16:36:40.040Z,"40 km NNE of Labuan Bajo, Indonesia",earthquake,9.19,1.899,0.118,21,reviewed,us,us
+2026-08-21T17:41:44.198Z,-7.5579,104.5645,9,5.7,mww,88,46,3.061,0.63,us,us6000tmlu,2026-09-24T14:35:21.369Z,"191 km SW of Labuan, Indonesia",earthquake,5.55,1.757,0.062,25,reviewed,us,us
+2026-08-21T17:06:37.509Z,-7.8211,120.4191,10,4.9,mb,68,52,2.866,0.76,us,us6000tmlk,2026-09-04T14:24:06.040Z,"87 km N of Ruteng, Indonesia",earthquake,8.51,1.856,0.075,56,reviewed,us,us
+2026-08-21T16:05:29.136Z,-8.4834,120.1965,10,4.5,mb,15,130,3.475,0.9,us,us6000tmkv,2026-08-29T21:02:21.111Z,"32 km WNW of Ruteng, Indonesia",earthquake,8.69,1.95,0.157,15,reviewed,us,us
+2026-08-21T12:32:50.954Z,-3.3338,131.0317,10,4.9,mb,63,69,1.283,0.66,us,us6000tmfl,2026-09-15T11:28:41.040Z,"147 km WSW of Fakfak, Indonesia",earthquake,4.88,1.826,0.057,97,reviewed,us,us
+2026-08-21T11:55:28.185Z,-6.4292,130.0009,170.829,4.5,mb,43,99,1.897,0.57,us,us6000tmfc,2026-09-13T11:53:15.040Z,"Banda Sea",earthquake,9.25,6.676,0.09,36,reviewed,us,us
+2026-08-21T11:54:49.869Z,-8.2668,120.9283,10,4.6,mb,26,91,3.436,0.79,us,us6000tmfd,2026-09-13T12:19:00.040Z,"63 km NE of Ruteng, Indonesia",earthquake,8.32,1.882,0.125,19,reviewed,us,us
+2026-08-21T11:16:52.040Z,-8.1698,120.5136,10,4.5,mb,24,110,3.225,0.83,us,us6000tmf7,2026-09-13T08:39:00.040Z,"49 km N of Ruteng, Indonesia",earthquake,7.35,1.918,0.124,19,reviewed,us,us
+2026-08-21T11:03:03.467Z,-8.2545,120.5639,9.287,4.7,mb,35,83,3.319,0.89,us,us6000tmf5,2026-09-13T08:36:30.040Z,"40 km NNE of Ruteng, Indonesia",earthquake,8.62,4.692,0.1,30,reviewed,us,us
+2026-08-21T10:34:52.570Z,-8.3159,120.1322,10,4.4,mb,17,101,3.302,0.73,us,us7000tcbq,2026-09-17T19:11:01.040Z,"33 km NE of Labuan Bajo, Indonesia",earthquake,9.28,1.771,0.179,9,reviewed,us,us
+2026-08-21T10:31:58.678Z,-8.3838,120.2975,10,4.3,mb,10,170,3.391,0.38,us,us7000tcau,2026-10-02T15:16:10.040Z,"31 km NW of Ruteng, Indonesia",earthquake,9.02,1.95,0.201,7,reviewed,us,us
+2026-08-21T08:54:58.666Z,-8.2802,120.5979,12.389,4.4,mb,15,110,3.352,0.82,us,us6000tmeq,2026-08-29T09:26:00.040Z,"39 km NNE of Ruteng, Indonesia",earthquake,9.29,4.987,0.139,15,reviewed,us,us
+2026-08-21T08:30:16.147Z,-8.184,120.4425,8.599,4.5,mb,19,83,3.223,0.75,us,us6000tmek,2026-08-29T09:14:55.040Z,"47 km N of Ruteng, Indonesia",earthquake,9.31,5.284,0.14,15,reviewed,us,us
+2026-08-21T08:13:57.017Z,-7.8138,120.4421,10,4.9,mb,36,73,2.865,0.88,us,us6000tmej,2026-09-30T06:58:01.040Z,"88 km N of Ruteng, Indonesia",earthquake,8.12,1.899,0.096,34,reviewed,us,us
+2026-08-21T06:38:25.161Z,-8.3695,121.0364,10,4.3,mb,19,139,3.475,1.21,us,us7000tcal,2026-09-17T13:25:37.040Z,"68 km ENE of Ruteng, Indonesia",earthquake,8.36,1.922,0.169,13,reviewed,us,us
+2026-08-21T06:19:00.956Z,-8.3491,121.2457,10,4.3,mb,29,83,3.017,1.13,us,us7000tcak,2026-09-17T11:43:52.040Z,"71 km NW of Ende, Indonesia",earthquake,6.32,1.896,0.143,15,reviewed,us,us
+2026-08-21T04:38:51.236Z,-7.8897,120.5739,10,4.5,mb,20,130,2.971,0.72,us,us7000tcah,2026-09-16T23:39:43.040Z,"80 km N of Ruteng, Indonesia",earthquake,13.51,1.943,0.132,17,reviewed,us,us
+2026-08-21T04:08:08.541Z,-7.8492,120.4737,10,4.2,mb,24,73,2.906,0.61,us,us7000tcad,2026-09-16T23:25:05.040Z,"84 km N of Ruteng, Indonesia",earthquake,8.63,1.912,0.153,12,reviewed,us,us
+2026-08-21T04:06:29.550Z,-7.9074,120.5069,10,4.4,mb,15,84,2.971,0.95,us,us7000tcag,2026-09-16T22:39:37.040Z,"78 km N of Ruteng, Indonesia",earthquake,9.3,1.915,0.169,10,reviewed,us,us
+2026-08-21T02:33:06.921Z,-8.3512,120.5269,10,4.6,mb,23,110,3.403,0.71,us,us6000tmd2,2026-09-16T22:12:48.040Z,"29 km NNE of Ruteng, Indonesia",earthquake,7.81,1.819,0.119,21,reviewed,us,us
+2026-08-21T02:17:19.601Z,-8.1593,120.5355,10,4.5,mb,18,130,3.22,1.07,us,us6000tmcv,2026-09-15T23:22:28.040Z,"50 km N of Ruteng, Indonesia",earthquake,11.6,1.903,0.139,15,reviewed,us,us
+2026-08-21T02:12:27.206Z,2.6332,128.7239,261.298,4.1,mb,19,130,6.544,0.37,us,us7000tcaa,2026-09-15T22:57:03.040Z,"127 km NE of Tobelo, Indonesia",earthquake,14.9,8.345,0.157,11,reviewed,us,us
+2026-08-21T01:38:42.201Z,-8.2424,121.3386,10,4.6,mb,26,97,3.26,0.62,us,us6000tmcn,2026-09-14T05:15:40.040Z,"75 km NNW of Ende, Indonesia",earthquake,8.96,1.894,0.122,20,reviewed,us,us
+2026-08-21T01:18:05.731Z,-8.2718,120.6,10,4.6,mb,30,83,3.344,0.94,us,us6000tmcj,2026-09-14T05:00:26.040Z,"40 km NNE of Ruteng, Indonesia",earthquake,8.16,1.886,0.114,23,reviewed,us,us
+2026-08-21T00:10:06.302Z,-5.0555,102.7411,47.688,4.2,mb,11,152,0.723,0.89,us,us7000tca7,2026-10-23T02:56:02.040Z,"127 km SSW of Pagar Alam, Indonesia",earthquake,10.13,10.413,0.187,8,reviewed,us,us
+2026-08-20T23:01:37.020Z,-8.0159,120.0515,10,4.4,mb,19,112,2.997,1.06,us,us6000tmbl,2026-09-14T00:47:03.040Z,"56 km NNE of Labuan Bajo, Indonesia",earthquake,7.36,1.921,0.161,11,reviewed,us,us
+2026-08-20T22:47:00.300Z,-8.2549,120.624,10,4.3,mb,15,123,3.334,0.64,us,us7000tc79,2026-10-23T02:57:15.040Z,"43 km NNE of Ruteng, Indonesia",earthquake,9.25,1.927,0.202,7,reviewed,us,us
+2026-08-20T20:52:26.299Z,-7.7732,120.7536,10,4.7,mb,30,67,2.916,0.81,us,us6000tma7,2026-09-02T19:00:17.040Z,"98 km NNE of Ruteng, Indonesia",earthquake,5.83,1.812,0.123,20,reviewed,us,us
+2026-08-20T19:53:51.720Z,-8.1732,121.3645,10,5,mb,45,88,3.038,0.61,us,us6000tm9h,2026-09-02T18:15:35.040Z,"81 km NNW of Ende, Indonesia",earthquake,8.97,1.887,0.097,34,reviewed,us,us
+2026-08-20T19:24:02.793Z,-8.402,121.2108,10,5,mb,76,48,3.012,0.89,us,us6000tm93,2026-09-02T18:07:52.040Z,"69 km NW of Ende, Indonesia",earthquake,6.78,1.815,0.071,63,reviewed,us,us
+2026-08-20T19:15:34.293Z,-7.9831,120.7499,10,4.5,mb,16,134,3.112,0.88,us,us7000tc71,2026-09-24T14:09:14.040Z,"76 km NNE of Ruteng, Indonesia",earthquake,10.75,1.917,0.204,8,reviewed,us,us
+2026-08-20T18:30:02.521Z,-8.3073,120.2123,10,5,mb,32,142,3.303,0.85,us,us7000tc70,2026-09-02T14:59:56.040Z,"41 km ENE of Labuan Bajo, Indonesia",earthquake,11.08,1.592,0.12,22,reviewed,us,us
+2026-08-20T18:12:51.571Z,-8.2634,121.3836,10,5.2,mww,65,45,2.965,0.87,us,us6000tm8h,2026-10-21T17:25:38.040Z,"71 km NNW of Ende, Indonesia",earthquake,6.96,1.846,0.103,9,reviewed,us,us
+2026-08-20T16:37:43.889Z,-8.5698,119.9212,10,4.4,mb,13,152,3.536,0.59,us,us7000tc6y,2026-08-29T20:15:52.040Z,"8 km SSE of Labuan Bajo, Indonesia",earthquake,9.94,1.937,0.189,9,reviewed,us,us
+2026-08-20T14:31:33.928Z,-8.0866,107.881,53.437,4.4,mb,24,105,0.661,1.29,us,us6000tm44,2026-08-29T19:42:38.040Z,"85 km SSW of Singaparna, Indonesia",earthquake,7.38,7.571,0.139,16,reviewed,us,us
+2026-08-20T12:28:48.185Z,-7.995,121.216,10,4.5,mb,28,94,3.266,1.28,us,us6000tm9q,2026-09-14T09:05:18.040Z,"105 km NNW of Ende, Indonesia",earthquake,7.89,1.145,0.171,14,reviewed,us,us
+2026-08-20T11:01:43.368Z,-8.3754,120.0456,10,4,mb,13,128,3.352,1.09,us,us7000tc6r,2026-09-29T13:42:01.040Z,"21 km NE of Labuan Bajo, Indonesia",earthquake,10.2,1.955,0.196,10,reviewed,us,us
+2026-08-20T10:08:25.726Z,-7.8261,120.97,10,4.5,mb,31,72,3.044,0.57,us,us6000tm31,2026-09-17T07:41:09.040Z,"103 km NNE of Ruteng, Indonesia",earthquake,7.05,1.873,0.124,19,reviewed,us,us
+2026-08-20T09:30:52.104Z,-8.2675,120.6324,10,5.3,mb,80,32,3.348,1.07,us,us6000tm2v,2026-10-16T17:48:28.040Z,"42 km NNE of Ruteng, Indonesia",earthquake,7.52,1.771,0.062,86,reviewed,us,us
+2026-08-20T09:15:46.713Z,3.6401,124.482,347.836,4.1,mb,29,87,9.751,0.79,us,us7000tc6h,2026-09-16T13:27:15.040Z,"223 km SSW of Sarangani, Philippines",earthquake,14.62,10.861,0.117,20,reviewed,us,us
+2026-08-20T08:53:54.941Z,-8.0333,120.6039,10,4.8,mb,35,87,3.117,1.06,us,us6000tm2t,2026-09-30T06:56:34.040Z,"65 km NNE of Ruteng, Indonesia",earthquake,8.89,1.923,0.105,28,reviewed,us,us
+2026-08-20T08:12:26.189Z,-8.0045,120.2804,7.089,4.3,mb,16,116,3.017,0.62,us,us7000tc6f,2026-08-29T06:46:53.040Z,"69 km NE of Labuan Bajo, Indonesia",earthquake,9.03,4.283,0.148,13,reviewed,us,us
+2026-08-20T08:01:30.174Z,-8.2495,120.4785,10,5,mb,44,67,3.294,1.29,us,us6000tm2k,2026-09-30T06:42:21.040Z,"40 km N of Ruteng, Indonesia",earthquake,8.48,1.897,0.084,45,reviewed,us,us
+2026-08-20T07:58:26.665Z,-7.9146,120.7729,10,4.5,mb,15,118,3.055,0.65,us,us7000tc6d,2026-09-30T07:22:45.040Z,"84 km NNE of Ruteng, Indonesia",earthquake,9.01,1.907,0.18,9,reviewed,us,us
+2026-08-20T07:55:03.944Z,-8.2667,120.3323,15.891,5,mb,29,104,3.282,1.04,us,us6000tm2j,2026-08-29T06:06:12.040Z,"40 km NNW of Ruteng, Indonesia",earthquake,9.24,5.141,0.106,28,reviewed,us,us
+2026-08-20T07:50:29.831Z,-8.2103,120.6064,10,4.5,mb,15,117,3.287,0.82,us,us7000tc6c,2026-09-30T07:20:12.040Z,"47 km NNE of Ruteng, Indonesia",earthquake,7.28,1.938,0.157,12,reviewed,us,us
+2026-08-20T05:08:59.619Z,-7.8919,120.4649,9.879,4.6,mb,19,92,2.945,1.09,us,us7000tc66,2026-08-29T05:01:09.040Z,"79 km N of Ruteng, Indonesia",earthquake,9.43,4.884,0.147,14,reviewed,us,us
+2026-08-20T04:33:22.586Z,-7.9865,120.2661,10,4.7,mb,34,74,2.997,0.94,us,us6000tm22,2026-09-10T04:18:24.040Z,"70 km NE of Labuan Bajo, Indonesia",earthquake,8.27,1.906,0.12,22,reviewed,us,us
+2026-08-20T04:23:56.665Z,-8.2605,120.5326,10,4.7,mb,33,89,3.317,0.58,us,us6000tm1y,2026-09-10T04:11:34.040Z,"39 km N of Ruteng, Indonesia",earthquake,8.58,1.882,0.11,25,reviewed,us,us
+2026-08-20T03:59:26.877Z,-7.9434,120.2447,10,4.3,mb,15,151,2.951,0.99,us,us7000tc62,2026-09-10T03:49:43.040Z,"72 km NNE of Labuan Bajo, Indonesia",earthquake,13.47,1.902,0.202,7,reviewed,us,us
+2026-08-20T03:36:45.756Z,-8.3363,120.2512,10,4.5,mb,16,131,3.337,1.26,us,us6000tm1q,2026-09-10T03:29:38.040Z,"38 km NW of Ruteng, Indonesia",earthquake,12.69,1.951,0.145,14,reviewed,us,us
+2026-08-20T03:00:56.717Z,-8.2526,120.5899,10,4.6,mb,20,87,3.323,0.99,us,us6000tm1l,2026-09-09T05:09:53.040Z,"42 km NNE of Ruteng, Indonesia",earthquake,8.54,1.886,0.141,15,reviewed,us,us
+2026-08-20T02:46:58.986Z,-8.2328,120.5308,10,5.6,mww,159,34,3.29,0.94,us,us6000tm1j,2026-09-09T04:56:24.135Z,"42 km N of Ruteng, Indonesia",earthquake,6.7,1.738,0.065,23,reviewed,us,us
+2026-08-20T02:41:15.720Z,-7.798,120.5308,10,4.3,mb,16,106,2.872,0.74,us,us7000tc5z,2026-09-09T02:02:22.040Z,"90 km N of Ruteng, Indonesia",earthquake,8.17,1.905,0.189,8,reviewed,us,us
+2026-08-20T02:24:47.902Z,-8.2567,120.5716,10,4.7,mb,23,96,3.323,0.55,us,us6000tm1e,2026-09-09T01:54:39.040Z,"40 km NNE of Ruteng, Indonesia",earthquake,6.93,1.776,0.126,19,reviewed,us,us
+2026-08-19T23:52:24.685Z,-8.3732,120.3549,10,4.6,mb,20,86,3.39,1.17,us,us6000tm15,2026-09-06T02:47:42.040Z,"28 km NNW of Ruteng, Indonesia",earthquake,7.06,1.465,0.141,15,reviewed,us,us
+2026-08-19T23:20:13.816Z,-8.2614,120.5935,10,4.6,mb,21,96,3.333,1.03,us,us6000tm10,2026-09-06T01:57:14.040Z,"41 km NNE of Ruteng, Indonesia",earthquake,9.01,1.907,0.132,17,reviewed,us,us
+2026-08-19T23:10:17.881Z,-8.1888,120.4423,10,4.5,mb,16,117,3.228,1.38,us,us7000tbs4,2026-09-06T01:43:11.040Z,"46 km N of Ruteng, Indonesia",earthquake,8.76,1.913,0.156,12,reviewed,us,us
+2026-08-19T22:55:48.834Z,-8.5819,120.0407,13.35,4.5,mb,19,137,3.556,0.83,us,us7000tbs3,2026-09-10T03:23:47.040Z,"19 km ESE of Labuan Bajo, Indonesia",earthquake,9.93,1.923,0.15,13,reviewed,us,us
+2026-08-19T22:45:17.290Z,-8.3418,120.5442,10,5.7,mww,103,39,3.398,0.77,us,us6000tm0u,2026-09-20T23:37:46.270Z,"31 km NNE of Ruteng, Indonesia",earthquake,6.93,1.741,0.071,19,reviewed,us,us
+2026-08-19T22:44:11.170Z,-7.9443,120.4098,10,4.5,mb,20,81,2.983,0.8,us,us7000tbs2,2026-09-10T03:19:29.040Z,"74 km N of Ruteng, Indonesia",earthquake,7.09,1.572,0.163,11,reviewed,us,us
+2026-08-19T22:37:55.200Z,-8.4707,119.7463,10,4.2,mb,12,159,3.434,0.46,us,us7000tbs0,2026-09-10T03:17:18.040Z,"15 km W of Labuan Bajo, Indonesia",earthquake,5.27,1.926,0.199,7,reviewed,us,us
+2026-08-19T22:33:24.809Z,-8.2037,120.4936,10,4.5,mb,26,128,3.253,0.87,us,us7000tbs1,2026-09-10T03:15:06.040Z,"45 km N of Ruteng, Indonesia",earthquake,10.99,1.794,0.135,16,reviewed,us,us
+2026-08-19T22:28:08.543Z,-8.2828,120.4454,10,5.2,mb,53,77,3.319,0.48,us,us6000tm0s,2026-09-10T03:13:55.040Z,"36 km N of Ruteng, Indonesia",earthquake,9.68,0.964,0.081,51,reviewed,us,us
+2026-08-19T21:43:37.588Z,-8.3345,119.9421,10,4.1,mb,16,122,3.304,0.54,us,us7000tbry,2026-09-10T03:09:18.040Z,"18 km NNE of Labuan Bajo, Indonesia",earthquake,6.63,1.904,0.184,8,reviewed,us,us
+2026-08-19T21:35:33.994Z,-8.2955,120.1115,10,4.3,mb,12,151,3.279,0.47,us,us7000tbrv,2026-09-10T03:05:44.040Z,"33 km NE of Labuan Bajo, Indonesia",earthquake,12.05,1.69,0.201,7,reviewed,us,us
+2026-08-19T21:32:14.792Z,-7.6073,121.2437,10,4.4,mb,21,130,2.972,0.93,us,us7000tbrx,2026-09-10T03:03:15.040Z,"140 km NE of Ruteng, Indonesia",earthquake,11.8,1.902,0.139,17,reviewed,us,us
+2026-08-19T21:30:15.317Z,-8.409,119.9342,10,4.2,mb,15,142,3.377,0.62,us,us7000tbrw,2026-09-10T02:57:16.040Z,"10 km NNE of Labuan Bajo, Indonesia",earthquake,9.2,1.878,0.187,8,reviewed,us,us
+2026-08-19T21:08:37.173Z,-8.3068,120.3433,9.951,4.3,mb,21,141,3.323,0.71,us,us7000tbrs,2026-09-10T02:50:54.040Z,"36 km NNW of Ruteng, Indonesia",earthquake,10.92,4.798,0.154,12,reviewed,us,us
+2026-08-19T19:11:18.394Z,-8.2077,120.5539,10,4.5,mb,30,76,3.271,0.86,us,us7000tbrl,2026-09-22T13:52:34.040Z,"45 km NNE of Ruteng, Indonesia",earthquake,8.31,2.009,0.113,27,reviewed,us,us
+2026-08-19T18:34:16.144Z,-8.2992,120.4548,10,4.4,mb,19,104,3.337,0.75,us,us6000tlz6,2026-09-22T13:54:10.040Z,"34 km N of Ruteng, Indonesia",earthquake,7.35,1.711,0.179,9,reviewed,us,us
+2026-08-19T17:19:34.116Z,5.8585,126.6757,10,4.8,mb,61,107,1.623,0.86,us,us6000tlyi,2026-09-10T15:41:57.040Z,"78 km SE of Pondaguitan, Philippines",earthquake,9.19,1.836,0.086,42,reviewed,us,us
+2026-08-19T16:36:17.196Z,-8.4608,119.6916,10,4.2,mb,14,143,3.424,1.25,us,us7000tbsh,2026-08-31T18:24:14.040Z,"21 km W of Labuan Bajo, Indonesia",earthquake,11.49,1.911,0.235,5,reviewed,us,us
+2026-08-19T16:34:45.642Z,-8.2619,120.1421,10,4.3,mb,20,141,3.25,1.19,us,us7000tbrg,2026-08-31T18:18:32.040Z,"38 km NE of Labuan Bajo, Indonesia",earthquake,9.69,1.919,0.147,13,reviewed,us,us
+2026-08-19T16:17:38.346Z,-8.1835,120.5455,10,5.5,mww,132,30,3.246,0.87,us,us6000tlxq,2026-09-22T15:36:02.487Z,"48 km N of Ruteng, Indonesia",earthquake,7.44,1.72,0.073,18,reviewed,us,us
+2026-08-19T15:19:44.750Z,-8.0736,120.5772,10,4.6,mb,38,86,3.148,0.86,us,us6000tlvr,2026-08-31T15:28:34.040Z,"60 km NNE of Ruteng, Indonesia",earthquake,4.54,1.881,0.102,29,reviewed,us,us
+2026-08-19T14:47:16.749Z,-8.2374,120.1957,10,4.1,mb,17,115,3.232,1.19,us,us7000tbrc,2026-08-31T15:10:54.040Z,"44 km NE of Labuan Bajo, Indonesia",earthquake,5.27,1.941,0.185,8,reviewed,us,us
+2026-08-19T14:32:22.499Z,-5.2129,125.5023,540.02,4.6,mb,76,42,4.44,0.71,us,us6000tlvn,2026-08-31T14:54:46.040Z,"Banda Sea",earthquake,7.14,7.756,0.075,52,reviewed,us,us
+2026-08-19T14:31:01.091Z,-8.2587,120.2089,10,4.3,mb,16,131,3.255,0.54,us,us7000tbra,2026-09-22T15:28:14.040Z,"44 km NE of Labuan Bajo, Indonesia",earthquake,10.53,1.944,0.177,9,reviewed,us,us
+2026-08-19T14:16:25.739Z,-8.1452,120.6178,10,4.6,mb,32,118,3.227,0.66,us,us6000tlvm,2026-08-30T21:19:53.040Z,"54 km NNE of Ruteng, Indonesia",earthquake,10.44,1.874,0.119,21,reviewed,us,us
+2026-08-19T13:04:42.926Z,-7.9247,120.223,10,4.3,mb,24,85,2.929,0.89,us,us6000tlv5,2026-08-30T19:57:51.040Z,"73 km NNE of Labuan Bajo, Indonesia",earthquake,5.7,1.788,0.142,14,reviewed,us,us
+2026-08-19T12:21:29.900Z,-6.9221,122.0992,10,4.4,mb,16,137,3.007,0.68,us,us7000tbr6,2026-09-11T13:28:28.040Z,"170 km SSW of Baubau, Indonesia",earthquake,9.23,1.709,0.179,9,reviewed,us,us
+2026-08-19T12:19:02.760Z,-5.8582,106.5092,199.321,4.4,mb,54,96,1.956,0.69,us,us6000tlv2,2026-09-09T19:05:07.040Z,"29 km NNW of Sepatan, Indonesia",earthquake,9.56,7.043,0.082,43,reviewed,us,us
+2026-08-19T11:01:36.865Z,5.4131,125.2676,80.772,4.8,mb,94,81,1.675,0.59,us,us6000tlun,2026-09-10T15:44:48.248Z,"20 km SSW of Balangonan, Philippines",earthquake,8.4,6.801,0.052,115,reviewed,us,us
+2026-08-19T10:44:59.435Z,-7.866,120.4676,10,4.8,mb,47,64,2.921,0.3,us,us6000tlum,2026-09-10T16:19:29.040Z,"82 km N of Ruteng, Indonesia",earthquake,4.39,1.827,0.098,32,reviewed,us,us
+2026-08-19T08:40:30.706Z,-8.3042,121.6413,10,4.3,mb,26,74,2.749,0.95,us,us7000tbr2,2026-09-10T11:50:22.040Z,"59 km N of Ende, Indonesia",earthquake,7.12,1.908,0.169,13,reviewed,us,us
+2026-08-19T06:57:38.881Z,-8.13,120.9579,10,4.3,mb,21,117,3.319,0.61,us,us7000tbqy,2026-09-10T11:37:51.040Z,"76 km NE of Ruteng, Indonesia",earthquake,8.37,1.936,0.177,10,reviewed,us,us
+2026-08-19T06:29:45.119Z,5.4347,125.1792,60.918,4.5,mb,76,82,1.672,0.66,us,us7000tbqx,2026-09-09T13:13:07.040Z,"24 km SW of Balangonan, Philippines",earthquake,9.88,7.506,0.069,61,reviewed,us,us
+2026-08-19T05:01:27.568Z,-7.7292,120.6764,10,4.3,mb,21,82,2.849,1.15,us,us7000tbqw,2026-09-10T12:04:43.040Z,"100 km NNE of Ruteng, Indonesia",earthquake,5.44,1.798,0.238,9,reviewed,us,us
+2026-08-19T04:57:06.905Z,-8.2516,120.4912,10,4.4,mb,14,123,3.299,1.21,us,us6000tltj,2026-09-06T01:31:29.040Z,"39 km N of Ruteng, Indonesia",earthquake,8.71,1.907,0.148,13,reviewed,us,us
+2026-08-19T03:47:11.492Z,-9.371,123.2398,58.974,4.4,mb,16,127,1.083,0.94,us,us7000tbqu,2026-10-17T22:38:00.040Z,"63 km WNW of Naisano Dua, Indonesia",earthquake,11.2,7.439,0.143,14,reviewed,us,us
+2026-08-19T03:43:18.913Z,-8.0997,120.7052,10,4.5,mb,20,86,3.208,1.13,us,us7000tbqt,2026-09-06T00:06:22.040Z,"62 km NNE of Ruteng, Indonesia",earthquake,8.19,1.868,0.14,15,reviewed,us,us
+2026-08-19T03:13:26.706Z,-8.3648,121.3236,10,5.1,mww,56,72,2.946,1.09,us,us6000tlt9,2026-09-05T23:37:30.040Z,"64 km NW of Ende, Indonesia",earthquake,5.78,1.823,0.083,14,reviewed,us,us
+2026-08-19T01:44:50.418Z,-8.194,121.0685,10,4.6,mb,15,128,3.25,1.27,us,us6000tlss,2026-09-05T22:43:29.040Z,"80 km NE of Ruteng, Indonesia",earthquake,6.26,1.917,0.173,10,reviewed,us,us
+2026-08-19T00:11:36.079Z,-8.2603,121.3836,10,4.9,mb,41,84,3.212,0.85,us,us6000tls7,2026-09-20T23:26:14.040Z,"71 km NNW of Ende, Indonesia",earthquake,7.99,1.883,0.112,25,reviewed,us,us
+2026-08-18T23:59:13.439Z,-8.326,121.2239,10,4.6,mb,37,88,3.324,0.94,us,us6000tls5,2026-10-16T20:41:54.040Z,"74 km NW of Ende, Indonesia",earthquake,8.06,1.861,0.112,24,reviewed,us,us
+2026-08-18T23:39:23.362Z,-8.4597,121.0379,10,4.3,mb,18,117,3.118,0.71,us,us6000tn6h,2026-09-10T01:58:53.040Z,"65 km ENE of Ruteng, Indonesia",earthquake,9.39,1.912,0.161,11,reviewed,us,us
+2026-08-18T22:32:49.396Z,-8.3673,119.9845,10,4.2,mb,19,109,3.339,0.6,us,us6000tn4w,2026-09-09T23:55:17.040Z,"17 km NE of Labuan Bajo, Indonesia",earthquake,6.64,1.934,0.177,9,reviewed,us,us
+2026-08-18T22:26:51.977Z,-8.1035,120.4246,10,4.5,mb,26,83,3.141,0.85,us,us6000tlrt,2026-09-20T23:08:53.040Z,"56 km N of Ruteng, Indonesia",earthquake,3.53,1.91,0.135,16,reviewed,us,us
+2026-08-18T21:13:08.686Z,-8.3744,120.749,10,4.3,mb,19,84,3.404,0.53,us,us6000tn67,2026-09-09T23:36:29.040Z,"40 km NE of Ruteng, Indonesia",earthquake,7.59,1.92,0.188,8,reviewed,us,us
+2026-08-18T21:11:37.084Z,-8.128,121.4277,10,4.7,mb,41,82,3.023,0.84,us,us6000tlre,2026-10-16T20:39:29.040Z,"83 km NNW of Ende, Indonesia",earthquake,7.99,1.876,0.113,24,reviewed,us,us
+2026-08-18T20:50:15.803Z,-8.3121,121.5131,10,4.7,mb,53,72,2.837,0.79,us,us6000tlr9,2026-08-30T19:23:44.040Z,"60 km NNW of Ende, Indonesia",earthquake,7.46,1.823,0.091,37,reviewed,us,us
+2026-08-18T20:31:40.053Z,-8.6641,120.4553,10,4.3,mb,13,122,3.516,0.63,us,us6000tn6r,2026-08-30T18:37:07.040Z,"5 km S of Ruteng, Indonesia",earthquake,10.2,1.956,0.201,8,reviewed,us,us
+2026-08-18T20:28:55.753Z,-8.3363,121.1792,10,4.7,mb,54,50,3.076,0.75,us,us6000tlr0,2026-08-30T17:49:59.040Z,"77 km NW of Ende, Indonesia",earthquake,7.41,1.844,0.09,38,reviewed,us,us
+2026-08-18T20:19:42.939Z,-8.2163,120.4537,10,4.4,mb,17,142,3.257,0.89,us,us6000tn6e,2026-08-30T17:11:48.040Z,"43 km N of Ruteng, Indonesia",earthquake,12.83,1.911,0.178,9,reviewed,us,us
+2026-08-18T20:15:41.238Z,-8.2731,121.2517,10,4.9,mb,63,53,3.059,0.48,us,us6000tlqv,2026-08-30T16:40:30.040Z,"77 km NW of Ende, Indonesia",earthquake,7.22,1.805,0.084,44,reviewed,us,us
+2026-08-18T20:08:02.775Z,-7.764,120.4967,10,4.6,mb,29,72,2.83,0.6,us,us6000tn6d,2026-08-30T17:01:03.040Z,"93 km N of Ruteng, Indonesia",earthquake,8.02,1.842,0.129,18,reviewed,us,us
+2026-08-18T19:37:32.630Z,-8.2855,120.7301,10,4.3,mb,13,131,3.392,1.15,us,us6000tn6a,2026-08-30T15:41:44.040Z,"46 km NE of Ruteng, Indonesia",earthquake,11.05,1.969,0.238,7,reviewed,us,us
+2026-08-18T19:03:07.384Z,-8.349,121.2251,10,4.9,mww,81,54,3.033,0.92,us,us6000tlqk,2026-08-30T15:21:54.040Z,"72 km NW of Ende, Indonesia",earthquake,3.49,1.817,0.089,12,reviewed,us,us
+2026-08-18T18:29:47.455Z,-8.4566,120.8504,10,4.4,mb,15,142,3.275,0.99,us,us6000tn65,2026-08-27T17:59:56.040Z,"45 km ENE of Ruteng, Indonesia",earthquake,9.1,1.91,0.161,11,reviewed,us,us
+2026-08-18T18:15:53.458Z,-8.1915,120.2543,10,4.1,mb,14,151,3.196,0.87,us,us6000tn61,2026-08-27T17:04:18.040Z,"51 km NNW of Ruteng, Indonesia",earthquake,10.85,1.912,0.185,8,reviewed,us,us
+2026-08-18T18:12:52.512Z,-8.5977,120.5816,10,4.1,mb,10,158,3.435,0.65,us,us6000tn63,2026-08-27T16:58:12.040Z,"12 km E of Ruteng, Indonesia",earthquake,14.13,1.841,0.303,4,reviewed,us,us
+2026-08-18T15:35:55.096Z,5.443,124.4092,12.97,4,mb,13,156,1.991,0.62,us,us6000tn5x,2026-09-09T22:16:13.040Z,"64 km SSW of Tambilil, Philippines",earthquake,14.68,6.391,0.164,11,reviewed,us,us
+2026-08-18T14:50:24.706Z,-8.0413,120.5511,10,4.5,mb,15,101,3.11,0.9,us,us6000tn5v,2026-09-09T19:19:21.040Z,"63 km N of Ruteng, Indonesia",earthquake,5.95,1.894,0.151,13,reviewed,us,us
+2026-08-18T13:57:30.643Z,-7.9029,121.0323,10,4.7,mb,31,84,3.139,0.71,us,us6000tn5s,2026-09-22T14:25:14.040Z,"100 km NE of Ruteng, Indonesia",earthquake,14.45,2.01,0.115,24,reviewed,us,us
+2026-08-18T13:55:23.916Z,-7.83,121.0129,10,4.3,mb,9,155,3.065,1.38,us,us6000tn5u,2026-09-08T21:47:45.040Z,"105 km NE of Ruteng, Indonesia",earthquake,14.88,1.957,0.177,9,reviewed,us,us
+2026-08-18T13:13:54.365Z,-8.5414,120.8127,10,4.3,mb,19,129,3.263,0.7,us,us6000tn5q,2026-09-08T20:49:06.040Z,"39 km ENE of Ruteng, Indonesia",earthquake,5.32,1.829,0.153,14,reviewed,us,us
+2026-08-18T12:57:33.626Z,-2.5482,138.8918,35,4.4,mb,31,70,1.81,0.69,us,us6000tn5p,2026-09-11T12:29:04.040Z,"193 km W of Abepura, Indonesia",earthquake,8.95,1.924,0.127,18,reviewed,us,us
+2026-08-18T12:30:48.810Z,-8.0325,120.4065,10,4.5,mb,26,85,3.068,0.6,us,us6000tn5n,2026-09-11T12:51:17.040Z,"64 km N of Ruteng, Indonesia",earthquake,8.13,1.898,0.14,15,reviewed,us,us
+2026-08-18T12:28:03.729Z,-7.9425,120.4285,10,4.5,mb,38,64,2.986,0.97,us,us6000tln1,2026-09-11T12:40:51.040Z,"74 km N of Ruteng, Indonesia",earthquake,5.81,1.561,0.115,22,reviewed,us,us
+2026-08-18T12:03:47.242Z,-7.9446,120.5671,10,4.8,mb,43,64,3.022,0.43,us,us6000tlnv,2026-09-10T16:11:47.040Z,"74 km N of Ruteng, Indonesia",earthquake,3.97,1.863,0.094,35,reviewed,us,us
+2026-08-18T12:00:10.381Z,-7.8872,120.6152,10,4.9,mb,43,73,2.98,0.59,us,us6000tlmz,2026-09-10T15:54:55.040Z,"81 km NNE of Ruteng, Indonesia",earthquake,5.34,1.749,0.099,32,reviewed,us,us
+2026-08-18T11:06:50.545Z,-7.8287,120.4564,10,4.7,mb,59,73,2.882,0.61,us,us6000tlmt,2026-09-09T11:26:18.040Z,"86 km N of Ruteng, Indonesia",earthquake,7.5,1.864,0.084,43,reviewed,us,us
+2026-08-18T09:01:36.366Z,-7.8346,120.4909,10,4.9,mb,52,77,2.897,0.41,us,us6000tlm3,2026-09-09T10:56:31.040Z,"85 km N of Ruteng, Indonesia",earthquake,7.93,1.88,0.095,35,reviewed,us,us
+2026-08-18T07:39:14.876Z,-2.0424,133.5244,40.602,4.4,mb,27,127,1.543,0.9,us,us6000tll5,2026-08-25T06:33:01.040Z,"7 km N of Bintuni, Indonesia",earthquake,7.34,6.206,0.134,16,reviewed,us,us
+2026-08-18T06:45:39.823Z,-4.2521,125.9335,378.555,4.2,mb,40,38,3.968,0.64,us,us6000tll0,2026-09-07T11:21:19.040Z,"242 km S of Sanana, Indonesia",earthquake,10.1,9.354,0.092,33,reviewed,us,us
+2026-08-18T06:02:20.624Z,-0.5609,98.4301,10,5.6,mww,118,43,2.04,0.72,us,us6000tlkt,2026-09-20T11:27:40.491Z,"143 km SSE of Teluk Dalam, Indonesia",earthquake,5.83,1.82,0.073,18,reviewed,us,us
+2026-08-18T05:41:20.881Z,-8.037,120.8421,10,4.4,mb,19,101,3.192,0.71,us,us6000tn58,2026-09-07T14:44:08.040Z,"75 km NNE of Ruteng, Indonesia",earthquake,6.76,1.922,0.143,14,reviewed,us,us
+2026-08-18T04:42:46.404Z,-8.2893,121.254,10,4.1,mb,18,127,3.047,0.83,us,us6000tn55,2026-09-09T01:01:38.040Z,"75 km NW of Ende, Indonesia",earthquake,10.32,1.92,0.184,8,reviewed,us,us
+2026-08-18T04:16:26.960Z,-7.7942,120.4234,10,4.5,mb,21,127,2.841,0.36,us,us6000tn53,2026-09-09T00:28:36.040Z,"90 km N of Ruteng, Indonesia",earthquake,4.67,1.903,0.163,11,reviewed,us,us
+2026-08-18T02:42:33.539Z,-8.143,120.2686,10,4.8,mb,48,51,3.15,0.88,us,us6000tlk5,2026-09-08T22:01:42.040Z,"56 km NNW of Ruteng, Indonesia",earthquake,7.57,1.864,0.096,37,reviewed,us,us
+2026-08-18T02:06:36.729Z,-8.1625,119.9378,10,4.4,mb,15,86,3.133,0.41,us,us6000tn51,2026-09-08T04:42:09.040Z,"37 km N of Labuan Bajo, Indonesia",earthquake,8.91,1.933,0.203,7,reviewed,us,us
+2026-08-18T01:21:34.421Z,-8.1661,120.7019,10,4.3,mb,8,163,3.27,0.61,us,us6000tn50,2026-09-08T04:25:20.040Z,"55 km NNE of Ruteng, Indonesia",earthquake,10.32,1.984,0.238,5,reviewed,us,us
+2026-08-18T00:03:26.607Z,-8.2912,120.3104,10,4.2,mb,18,121,3.303,0.6,us,us6000tn4v,2026-09-09T23:21:02.040Z,"39 km NNW of Ruteng, Indonesia",earthquake,7.57,1.866,0.177,9,reviewed,us,us
+2026-08-17T22:48:40.428Z,-8.2464,120.0616,10,4.4,mb,18,122,3.226,0.67,us,us6000tml2,2026-09-09T23:07:04.040Z,"33 km NE of Labuan Bajo, Indonesia",earthquake,8.71,1.9,0.149,13,reviewed,us,us
+2026-08-17T22:48:22.077Z,-7.7278,120.039,10,4.2,mb,20,114,2.711,0.35,us,us6000tml7,2026-09-09T22:57:51.040Z,"86 km N of Labuan Bajo, Indonesia",earthquake,10.17,1.904,0.152,12,reviewed,us,us
+2026-08-17T22:19:28.655Z,-8.4601,121.3379,10,4.2,mb,17,132,3.166,0.54,us,us6000tml1,2026-09-09T22:55:24.040Z,"55 km NW of Ende, Indonesia",earthquake,9.06,1.805,0.152,12,reviewed,us,us
+2026-08-17T21:04:57.938Z,-8.0325,120.1384,10,4.5,mb,24,133,3.023,0.61,us,us6000tml0,2026-09-09T22:51:39.040Z,"58 km NNE of Labuan Bajo, Indonesia",earthquake,7.92,1.763,0.14,16,reviewed,us,us
+2026-08-17T18:19:45.799Z,2.5086,95.6928,10,4.3,mb,21,154,2.23,0.54,us,us6000tmkp,2026-08-29T19:36:07.040Z,"76 km W of Sinabang, Indonesia",earthquake,8.09,1.813,0.148,13,reviewed,us,us
+2026-08-17T18:10:05.009Z,-7.029,117.182,492.2,4.6,mb,86,45,3.246,0.51,us,usd0015ef3,2026-08-30T16:59:00.040Z,"156 km NNW of Pototano, Indonesia",earthquake,10.69,6.199,0.068,65,reviewed,us,us
+2026-08-17T16:08:45.123Z,-8.1551,120.1127,10,4.3,mb,11,88,3.141,0.56,us,usd0015eeh,2026-09-04T20:24:26.040Z,"45 km NNE of Labuan Bajo, Indonesia",earthquake,8.19,1.884,0.154,13,reviewed,us,us
+2026-08-17T16:03:21.529Z,1.9571,96.5215,10,4.2,mb,15,158,1.237,0.52,us,us6000tmkk,2026-09-04T20:16:04.040Z,"59 km SSE of Sinabang, Indonesia",earthquake,10.22,1.929,0.2,7,reviewed,us,us
+2026-08-17T15:16:47.824Z,-7.8322,120.2153,10,4.2,mb,13,151,2.837,0.78,us,us6000tmki,2026-09-04T20:19:42.040Z,"81 km NNE of Labuan Bajo, Indonesia",earthquake,11.7,1.93,0.215,7,reviewed,us,us
+2026-08-17T14:22:08.182Z,-7.7764,120.7217,10,4.2,mb,20,128,2.908,0.65,us,us6000tmkh,2026-08-26T20:04:45.040Z,"96 km NNE of Ruteng, Indonesia",earthquake,9.05,1.921,0.176,9,reviewed,us,us
+2026-08-17T14:12:28.102Z,-8.3779,121.334,10,4.4,mb,29,119,3.204,0.78,us,usd0015ee6,2026-08-26T20:00:23.040Z,"62 km NW of Ende, Indonesia",earthquake,9.02,1.886,0.12,20,reviewed,us,us
+2026-08-17T13:58:34.247Z,-8.221,120.345,10,5,mb,50,52,3.24,0.7,us,usd0015ee2,2026-08-26T19:47:32.040Z,"45 km NNW of Ruteng, Indonesia",earthquake,9.06,1.697,0.1,32,reviewed,us,us
+2026-08-17T13:26:34.652Z,5.0231,126.229,114.355,4.4,mb,52,105,2.133,1.04,us,usd0015edx,2026-08-26T19:28:33.040Z,"94 km ESE of Sarangani, Philippines",earthquake,10.03,7.523,0.092,34,reviewed,us,us
+2026-08-17T12:51:03.447Z,-8.1972,120.4892,10,5,mb,51,83,3.246,0.76,us,usd0015edt,2026-09-07T08:35:05.040Z,"45 km N of Ruteng, Indonesia",earthquake,8.21,1.91,0.086,43,reviewed,us,us
+2026-08-17T12:48:48.670Z,-8.1397,120.5542,10,4.3,mb,19,83,3.206,0.66,us,us6000tmke,2026-09-07T14:56:38.040Z,"53 km N of Ruteng, Indonesia",earthquake,8.59,1.926,0.153,12,reviewed,us,us
+2026-08-17T12:39:35.479Z,-7.9923,120.3696,10,4.9,mb,30,67,3.022,0.85,us,usd0015eds,2026-09-07T08:38:35.040Z,"69 km N of Ruteng, Indonesia",earthquake,7.83,1.899,0.11,26,reviewed,us,us
+2026-08-17T12:33:21.708Z,-6.9781,121.7979,10,4.5,mb,17,137,2.819,0.88,us,us6000tmjx,2026-09-07T15:34:28.040Z,"187 km NNW of Maumere, Indonesia",earthquake,9.2,1.87,0.191,8,reviewed,us,us
+2026-08-17T12:21:39.645Z,-7.7932,120.4687,10,4.1,mb,15,111,2.851,0.32,us,us6000tmk5,2026-09-07T15:25:45.040Z,"90 km N of Ruteng, Indonesia",earthquake,9.47,1.91,0.158,11,reviewed,us,us
+2026-08-17T12:19:35.192Z,-8.2054,119.7706,10,4.5,mb,15,106,3.17,0.67,us,us6000tmkd,2026-09-07T15:03:21.040Z,"34 km NNW of Labuan Bajo, Indonesia",earthquake,4.83,1.938,0.172,10,reviewed,us,us
+2026-08-17T11:00:13.097Z,-7.7806,120.7043,10,4.8,mb,22,63,2.907,0.55,us,us6000tmka,2026-09-07T15:20:20.040Z,"95 km NNE of Ruteng, Indonesia",earthquake,8.32,1.887,0.149,14,reviewed,us,us
+2026-08-17T10:45:28.347Z,-2.9786,101.4157,59.685,4.6,mb,23,199,2.061,1.14,us,us6000tmk7,2026-10-20T14:04:53.040Z,"102 km S of Sungai Penuh, Indonesia",earthquake,12.46,10.585,0.182,12,reviewed,us,us
+2026-08-17T10:44:49.243Z,-7.9023,120.4192,10,5.4,mb,76,52,2.945,0.62,us,usd0015ed8,2026-09-09T12:45:27.941Z,"78 km N of Ruteng, Indonesia",earthquake,7.76,1.743,0.075,61,reviewed,us,us
+2026-08-17T10:42:41.670Z,-7.8141,120.4341,10,5.3,mb,93,63,2.863,0.88,us,usd0015ed7,2026-09-09T12:53:36.040Z,"88 km N of Ruteng, Indonesia",earthquake,6.62,1.465,0.068,73,reviewed,us,us
+2026-08-17T09:16:04.684Z,-8.312,121.4184,10,5,mb,48,58,2.907,0.9,us,usd0015ed1,2026-09-09T13:03:07.040Z,"64 km NNW of Ende, Indonesia",earthquake,7.13,1.822,0.087,42,reviewed,us,us
+2026-08-17T08:51:56.811Z,-8.0573,121.3396,10,4.6,mb,44,84,3.134,0.73,us,usd0015ecv,2026-09-09T09:01:48.040Z,"93 km NNW of Ende, Indonesia",earthquake,7.56,1.868,0.105,27,reviewed,us,us
+2026-08-17T07:20:29.146Z,-8.4033,121.1532,12.843,4.8,mb,67,51,3.057,0.66,us,usd0015ech,2026-09-09T09:19:51.040Z,"74 km NW of Ende, Indonesia",earthquake,6.9,4.022,0.076,54,reviewed,us,us
+2026-08-17T07:13:53.748Z,-7.8305,120.6197,10,4.4,mb,14,134,2.928,0.23,us,us6000tmjw,2026-09-11T13:14:17.040Z,"88 km N of Ruteng, Indonesia",earthquake,6.35,1.914,0.179,9,reviewed,us,us
+2026-08-17T06:34:46.371Z,-8.1991,122.1935,203.242,4.3,mb,27,72,2.466,0.58,us,usd0015ec8,2026-09-08T16:10:18.040Z,"46 km N of Maumere, Indonesia",earthquake,10.05,7.652,0.111,23,reviewed,us,us
+2026-08-17T06:32:00.771Z,-10.5877,120.1059,22.805,4.4,mb,15,144,3.52,0.32,us,us6000tmju,2026-09-11T12:06:40.040Z,"104 km S of Waingapu, Indonesia",earthquake,7.9,6.611,0.179,9,reviewed,us,us
+2026-08-17T05:58:49.266Z,-8.0275,120.169,10,4.6,mb,27,79,3.022,0.64,us,usd0015eby,2026-09-09T09:54:27.040Z,"60 km NNE of Labuan Bajo, Indonesia",earthquake,6.94,1.798,0.136,16,reviewed,us,us
+2026-08-17T05:09:10.632Z,-8.3506,120.8038,10,4.3,mb,16,140,3.371,0.55,us,usd0015ebn,2026-09-08T16:27:54.040Z,"47 km NE of Ruteng, Indonesia",earthquake,6.47,1.921,0.142,14,reviewed,us,us
+2026-08-17T05:05:25.477Z,-7.78,120.4142,10,4.2,mb,20,131,2.825,0.51,us,us6000tmjs,2026-09-11T13:35:18.040Z,"92 km N of Ruteng, Indonesia",earthquake,8.61,1.909,0.16,11,reviewed,us,us
+2026-08-17T03:48:02.420Z,-8.2581,121.1401,10,5.1,mww,105,36,3.155,0.9,us,usd0015ebj,2026-09-08T02:24:41.040Z,"84 km ENE of Ruteng, Indonesia",earthquake,7.33,1.759,0.11,8,reviewed,us,us
+2026-08-17T03:36:38.195Z,-8.1503,121.2002,10,5.2,mb,110,35,3.176,0.97,us,usd0015ebi,2026-09-08T02:04:48.040Z,"91 km NNW of Ende, Indonesia",earthquake,7.21,1.762,0.062,85,reviewed,us,us
+2026-08-17T03:33:52.444Z,-8.0961,121.0365,10,4.9,mb,53,66,3.317,0.54,us,usd0015ebh,2026-09-08T01:28:13.040Z,"84 km NE of Ruteng, Indonesia",earthquake,9.44,1.895,0.085,45,reviewed,us,us
+2026-08-17T03:15:41.829Z,-10.6193,120.2279,17.088,4.2,mb,15,97,3.404,0.62,us,us6000tmjn,2026-09-08T01:18:14.040Z,"106 km S of Waingapu, Indonesia",earthquake,4.8,5.86,0.237,5,reviewed,us,us
+2026-08-17T02:58:28.362Z,-8.4889,121.5417,10,4.2,mb,21,95,2.971,0.79,us,usd0015ebf,2026-09-05T22:57:55.040Z,"41 km NNW of Ende, Indonesia",earthquake,7.83,1.639,0.176,11,reviewed,us,us
+2026-08-17T02:39:17.349Z,-7.7119,120.3435,10,4.7,mb,34,58,2.744,1.02,us,usd0015ebc,2026-09-19T22:15:23.040Z,"100 km NNE of Labuan Bajo, Indonesia",earthquake,4.94,1.886,0.115,25,reviewed,us,us
+2026-08-17T02:09:00.250Z,-8.1929,121.5619,10,4.3,mb,16,136,3.091,0.57,us,us6000tmjk,2026-09-06T21:07:35.040Z,"72 km N of Ende, Indonesia",earthquake,9.18,1.955,0.202,7,reviewed,us,us
+2026-08-17T01:55:04.838Z,-7.8911,120.2837,10,4.3,mb,13,86,2.906,1.02,us,us6000tmjj,2026-09-06T03:51:15.040Z,"79 km NNE of Labuan Bajo, Indonesia",earthquake,5.38,1.934,0.188,8,reviewed,us,us
+2026-08-17T01:49:02.319Z,-7.8899,120.4651,10,4.4,mb,18,92,2.943,1.11,us,us6000tmji,2026-09-06T03:39:51.040Z,"79 km N of Ruteng, Indonesia",earthquake,8.6,1.91,0.162,13,reviewed,us,us
+2026-08-17T01:42:12.533Z,-7.7118,120.4085,10,4.6,mb,24,94,2.758,0.43,us,usd0015eb3,2026-08-21T22:08:09.040Z,"99 km N of Ruteng, Indonesia",earthquake,8.83,1.894,0.128,18,reviewed,us,us
+2026-08-17T01:33:01.414Z,-7.8875,120.3644,10,4.5,mb,22,84,2.919,1.09,us,us6000tmjf,2026-09-06T03:30:13.040Z,"80 km N of Ruteng, Indonesia",earthquake,9.24,1.339,0.14,16,reviewed,us,us
+2026-08-17T01:31:01.388Z,-7.8539,120.4398,10,4.5,mb,20,83,2.903,1.29,us,usd0015eb2,2026-08-21T22:09:49.040Z,"83 km N of Ruteng, Indonesia",earthquake,8.72,1.913,0.14,15,reviewed,us,us
+2026-08-17T01:00:38.475Z,-8.3766,121.2645,10,4.7,mb,19,127,3.267,0.94,us,us6000tmjc,2026-09-06T03:16:56.040Z,"67 km NW of Ende, Indonesia",earthquake,9,1.921,0.147,14,reviewed,us,us
+2026-08-17T00:59:19.754Z,-8.4957,120.5328,9.265,4.6,mb,19,131,3.526,0.98,us,us6000tmje,2026-09-09T22:49:28.040Z,"14 km NNE of Ruteng, Indonesia",earthquake,8.6,3.622,0.141,15,reviewed,us,us
+2026-08-17T00:56:34.082Z,-7.7905,120.4738,10.872,4.5,mb,19,131,2.85,0.77,us,us6000tmjb,2026-08-25T01:38:10.040Z,"90 km N of Ruteng, Indonesia",earthquake,9.37,4.971,0.15,13,reviewed,us,us
+2026-08-17T00:53:01.561Z,-7.8033,120.3904,16.235,4.7,mb,23,80,2.843,0.73,us,us6000tmja,2026-09-09T22:43:45.983Z,"89 km N of Ruteng, Indonesia",earthquake,7.09,4.338,0.138,16,reviewed,us,us
+2026-08-17T00:46:39.540Z,-8.2647,121.4641,5.159,5.5,mww,112,23,2.904,0.9,us,usd0015eay,2026-09-20T22:25:06.183Z,"67 km NNW of Ende, Indonesia",earthquake,8.79,2.942,0.083,14,reviewed,us,us
+2026-08-17T00:27:32.908Z,-7.9049,120.2947,10,4.5,mb,21,83,2.922,0.66,us,usd0015eav,2026-09-20T22:18:38.040Z,"79 km NE of Labuan Bajo, Indonesia",earthquake,10.19,1.891,0.136,16,reviewed,us,us
+2026-08-17T00:21:52.949Z,-8.1299,120.9653,10,4.2,mb,15,130,3.322,0.48,us,us6000tmj9,2026-09-09T22:15:06.040Z,"76 km NE of Ruteng, Indonesia",earthquake,10.73,1.915,0.146,13,reviewed,us,us
+2026-08-16T23:29:07.081Z,-8.6061,120.716,10,4.2,mb,13,119,3.314,0.75,us,us6000tmi4,2026-09-09T22:12:00.040Z,"27 km E of Ruteng, Indonesia",earthquake,5.27,1.86,0.186,8,reviewed,us,us
+2026-08-16T22:44:21.873Z,-8.6328,120.9833,10,4.3,mb,15,141,3.072,0.24,us,us6000tmi3,2026-09-09T21:31:42.040Z,"57 km E of Ruteng, Indonesia",earthquake,10.48,1.891,0.187,8,reviewed,us,us
+2026-08-16T22:22:35.330Z,-6.6586,122.4951,10,3.9,mb,13,145,3.181,0.83,us,us6000tmi2,2026-09-09T21:23:20.040Z,"132 km S of Baubau, Indonesia",earthquake,9.51,1.752,0.229,5,reviewed,us,us
+2026-08-16T22:02:28.223Z,-2.6608,139.0028,32.66,4.4,mb,17,99,1.705,0.83,us,usd0015eaf,2026-09-20T20:58:45.040Z,"181 km W of Abepura, Indonesia",earthquake,11.81,6.135,0.123,19,reviewed,us,us
+2026-08-16T21:53:05.053Z,-6.5374,122.9193,10,4.3,mb,14,104,3.464,0.3,us,us6000tmhn,2026-09-20T20:49:44.040Z,"123 km SSE of Baubau, Indonesia",earthquake,8.21,1.832,0.168,10,reviewed,us,us
+2026-08-16T21:48:42.878Z,-8.1683,120.4723,10,4.4,mb,20,87,3.214,0.68,us,usd0015eae,2026-10-16T20:25:05.040Z,"49 km N of Ruteng, Indonesia",earthquake,5.32,1.895,0.144,15,reviewed,us,us
+2026-08-16T21:28:19.132Z,-7.0957,129.5388,166.68,4.4,mb,28,122,2.582,0.74,us,usd0015ea9,2026-08-23T23:18:19.040Z,"Kepulauan Babar, Indonesia",earthquake,13.6,8.368,0.11,24,reviewed,us,us
+2026-08-16T19:06:04.786Z,-8.1314,120.5257,10,4.6,mb,34,82,3.191,0.82,us,usd0015e9l,2026-08-30T13:00:35.040Z,"53 km N of Ruteng, Indonesia",earthquake,8.2,1.876,0.101,30,reviewed,us,us
+2026-08-16T17:26:14.895Z,-7.9178,120.4492,10.237,4.9,mb,44,52,2.967,0.99,us,usd0015e9a,2026-08-30T19:00:42.040Z,"76 km N of Ruteng, Indonesia",earthquake,6.57,3.695,0.085,43,reviewed,us,us
+2026-08-16T15:58:55.087Z,-7.8815,120.394,10,4.4,mb,18,96,2.919,0.5,us,us6000tmhj,2026-09-04T19:15:10.040Z,"81 km N of Ruteng, Indonesia",earthquake,8.31,1.894,0.202,8,reviewed,us,us
+2026-08-16T15:49:27.486Z,-8.1655,120.2041,10,4.2,mb,13,119,3.163,0.78,us,us6000tmhh,2026-09-04T17:21:41.040Z,"50 km NE of Labuan Bajo, Indonesia",earthquake,9.42,1.918,0.237,6,reviewed,us,us
+2026-08-16T15:09:54.404Z,-7.935,120.7818,10,4.5,mb,21,84,3.077,0.82,us,usd0015e8d,2026-09-04T16:58:55.040Z,"82 km NNE of Ruteng, Indonesia",earthquake,8.43,1.212,0.164,12,reviewed,us,us
+2026-08-16T14:38:22.332Z,-8.0732,121.2324,10,4.3,mb,15,151,3.376,0.81,us,us6000tmhe,2026-09-04T15:50:16.040Z,"97 km NNW of Ende, Indonesia",earthquake,14.21,1.924,0.2,8,reviewed,us,us
+2026-08-16T13:38:39.185Z,-7.9323,120.5649,10,5,mb,65,65,3.009,0.84,us,usd0015e86,2026-09-04T15:36:51.040Z,"75 km N of Ruteng, Indonesia",earthquake,7.47,1.48,0.076,63,reviewed,us,us
+2026-08-16T13:36:01.386Z,-8.4004,119.8489,10,4.2,mb,11,152,3.365,0.82,us,us6000tmha,2026-08-28T21:11:45.040Z,"11 km NNW of Labuan Bajo, Indonesia",earthquake,7.57,1.934,0.263,5,reviewed,us,us
+2026-08-16T12:37:51.536Z,-7.5636,120.5397,10,4.5,mb,30,80,2.651,0.79,us,usd0015e7x,2026-09-07T09:19:09.040Z,"116 km N of Ruteng, Indonesia",earthquake,8.45,1.889,0.107,26,reviewed,us,us
+2026-08-16T11:21:11.624Z,-7.8376,120.2645,10,4.6,mb,35,63,2.851,0.51,us,usd0015e7s,2026-09-07T09:24:43.040Z,"83 km NNE of Labuan Bajo, Indonesia",earthquake,7.65,1.893,0.112,24,reviewed,us,us
+2026-08-16T11:11:46.141Z,-7.7087,120.9034,10,4.9,mb,33,62,2.911,0.62,us,usd0015e7q,2026-09-07T09:26:23.040Z,"110 km NNE of Ruteng, Indonesia",earthquake,6.74,1.806,0.122,21,reviewed,us,us
+2026-08-16T10:33:10.124Z,-8.1737,120.3755,10,4.6,mb,19,102,3.199,0.53,us,us6000tmie,2026-09-07T15:44:53.040Z,"49 km NNW of Ruteng, Indonesia",earthquake,11.67,1.873,0.173,10,reviewed,us,us
+2026-08-16T10:31:34.855Z,-7.8539,120.5848,10,5.2,mb,68,58,2.94,0.86,us,usd0015e7k,2026-09-07T09:40:42.040Z,"84 km N of Ruteng, Indonesia",earthquake,5.08,1.627,0.078,54,reviewed,us,us
+2026-08-16T10:27:21.219Z,-8.2124,120.0779,10,4.3,mb,24,112,3.194,0.67,us,us6000tmh4,2026-09-07T16:24:19.040Z,"37 km NNE of Labuan Bajo, Indonesia",earthquake,6.43,1.886,0.132,16,reviewed,us,us
+2026-08-16T10:19:00.886Z,-7.9137,120.7027,10,4.5,mb,15,84,3.031,0.98,us,us6000tmid,2026-09-07T15:52:38.040Z,"81 km NNE of Ruteng, Indonesia",earthquake,9.41,1.893,0.163,11,reviewed,us,us
+2026-08-16T10:14:36.372Z,-7.923,120.6091,10,5.3,mww,100,41,3.013,0.65,us,usd0015e7j,2026-09-21T14:16:15.040Z,"77 km NNE of Ruteng, Indonesia",earthquake,5.63,1.358,0.086,13,reviewed,us,us
+2026-08-16T09:53:05.892Z,-8.1572,120.6888,10,4.3,mb,17,118,3.258,1.24,us,usd0015e7d,2026-09-07T13:05:46.040Z,"55 km NNE of Ruteng, Indonesia",earthquake,7.05,1.842,0.153,13,reviewed,us,us
+2026-08-16T09:27:29.284Z,-7.9722,120.6304,10,4.3,mb,20,123,3.066,0.48,us,us6000tmh2,2026-09-20T11:54:56.040Z,"73 km NNE of Ruteng, Indonesia",earthquake,6.82,1.924,0.133,16,reviewed,us,us
+2026-08-16T08:43:26.211Z,-8.5444,120.5942,9.504,4.3,mb,12,119,3.605,0.74,us,us6000tmgy,2026-09-10T08:53:43.040Z,"16 km ENE of Ruteng, Indonesia",earthquake,9.13,3.661,0.154,12,reviewed,us,us
+2026-08-16T08:38:28.648Z,-7.892,120.4266,9.204,4.5,mb,18,147,2.937,0.89,us,us6000tmgx,2026-09-02T08:19:02.040Z,"79 km N of Ruteng, Indonesia",earthquake,9.96,4.514,0.164,11,reviewed,us,us
+2026-08-16T08:36:38.981Z,-7.9661,120.4005,25.145,4.6,mb,22,64,3.003,1.08,us,usd0015e72,2026-09-02T08:15:52.040Z,"71 km N of Ruteng, Indonesia",earthquake,8.89,3.701,0.132,17,reviewed,us,us
+2026-08-16T08:14:59.325Z,-7.8633,120.9924,24.864,4.4,mb,17,88,3.087,1.29,us,us6000tmgv,2026-09-02T07:54:53.040Z,"101 km NE of Ruteng, Indonesia",earthquake,7.81,4.6,0.19,8,reviewed,us,us
+2026-08-16T07:26:43.356Z,-8.2041,121.2981,8.996,4.4,mb,22,88,3.313,0.87,us,us6000tl6h,2026-09-02T07:16:05.040Z,"81 km NNW of Ende, Indonesia",earthquake,9,4.738,0.117,21,reviewed,us,us
+2026-08-16T07:21:40.296Z,-7.9538,120.8308,10.617,4.6,mb,21,88,3.111,1.24,us,usd0015e6l,2026-09-02T06:53:55.040Z,"83 km NNE of Ruteng, Indonesia",earthquake,7.79,4.509,0.129,18,reviewed,us,us
+2026-08-16T07:15:24.695Z,-7.9792,120.3125,16.548,4.1,mb,13,125,2.998,0.62,us,us6000tmgq,2026-08-26T08:09:00.040Z,"71 km NNW of Ruteng, Indonesia",earthquake,10.24,5.024,0.175,9,reviewed,us,us
+2026-08-16T07:08:18.792Z,-7.8505,120.6074,10,4.5,mb,19,84,2.943,1.21,us,us6000tmgn,2026-09-24T10:23:37.040Z,"85 km N of Ruteng, Indonesia",earthquake,8.83,1.915,0.14,15,reviewed,us,us
+2026-08-16T06:59:54.211Z,-8.2729,120.286,10,4.1,mb,12,120,3.281,0.75,us,us6000tmgm,2026-08-26T07:43:36.040Z,"42 km NNW of Ruteng, Indonesia",earthquake,8.71,1.575,0.174,9,reviewed,us,us
+2026-08-16T06:51:46.953Z,-7.9122,120.5641,10.781,5.5,mww,68,42,2.99,0.87,us,us6000tl6a,2026-09-24T10:26:26.982Z,"78 km N of Ruteng, Indonesia",earthquake,7.79,4.133,0.075,17,reviewed,us,us
+2026-08-16T06:35:20.965Z,-8.1905,121.284,13.787,4.4,mb,12,99,3.332,0.48,us,us6000tmgl,2026-08-26T07:12:37.040Z,"83 km NNW of Ende, Indonesia",earthquake,10.11,2.575,0.162,11,reviewed,us,us
+2026-08-16T06:25:11.070Z,-7.8886,120.9522,10,4.6,mb,20,84,3.095,1.35,us,us6000tl61,2026-09-24T10:09:03.040Z,"96 km NE of Ruteng, Indonesia",earthquake,8.95,1.891,0.129,18,reviewed,us,us
+2026-08-16T06:03:48.820Z,-7.7845,121.167,12.56,4.3,mb,13,139,3.091,0.97,us,us6000tmi6,2026-09-02T06:23:33.040Z,"119 km NE of Ruteng, Indonesia",earthquake,12.51,5.086,0.16,11,reviewed,us,us
+2026-08-16T05:33:25.535Z,-7.8565,120.5028,10,4.4,mb,14,118,2.921,1.18,us,us6000tl5v,2026-09-24T10:04:42.040Z,"83 km N of Ruteng, Indonesia",earthquake,9.39,1.921,0.17,10,reviewed,us,us
+2026-08-16T05:16:07.570Z,-8.2128,122.3738,10,4.2,mb,13,140,2.418,0.49,us,us6000tmgh,2026-09-02T06:03:40.040Z,"48 km NNE of Maumere, Indonesia",earthquake,9.26,1.932,0.167,10,reviewed,us,us
+2026-08-16T04:06:12.729Z,-7.8533,120.5547,10,4.1,mb,10,133,2.931,0.67,us,us6000tmge,2026-09-05T05:09:26.040Z,"84 km N of Ruteng, Indonesia",earthquake,5.71,1.917,0.262,5,reviewed,us,us
+2026-08-16T03:42:59.611Z,-8.4498,121.4451,10,4.9,mb,35,69,3.074,0.92,us,us6000tl55,2026-09-05T04:51:59.040Z,"49 km NNW of Ende, Indonesia",earthquake,8.17,1.873,0.108,27,reviewed,us,us
+2026-08-16T03:06:26.431Z,-8.1028,119.9419,10,4.3,mb,12,109,3.074,0.9,us,us6000tmgc,2026-09-05T04:18:39.040Z,"43 km N of Labuan Bajo, Indonesia",earthquake,6.07,1.922,0.201,7,reviewed,us,us
+2026-08-16T02:46:45.757Z,-7.8911,120.4723,10,4.3,mb,14,84,2.946,0.48,us,us6000tmga,2026-09-05T04:01:25.040Z,"79 km N of Ruteng, Indonesia",earthquake,6.38,1.905,0.237,5,reviewed,us,us
+2026-08-16T01:40:00.568Z,-8.6356,120.3457,10,4.2,mb,11,152,3.626,1.35,us,us6000tmg8,2026-09-05T03:37:07.040Z,"13 km WSW of Ruteng, Indonesia",earthquake,7.91,1.921,0.198,8,reviewed,us,us
+2026-08-16T01:34:08.397Z,-7.8595,120.626,10,4.4,mb,14,84,2.957,1.22,us,us6000tmg6,2026-09-05T03:22:44.040Z,"85 km NNE of Ruteng, Indonesia",earthquake,9.32,1.882,0.179,9,reviewed,us,us
+2026-08-16T01:31:21.482Z,-7.3112,121.3986,10,4.1,mb,8,142,2.809,0.72,us,us6000tmg7,2026-09-05T02:57:10.040Z,"170 km NNW of Maumere, Indonesia",earthquake,6.74,1.895,0.234,5,reviewed,us,us
+2026-08-16T01:19:34.991Z,-8.3148,120.8214,10,4.2,mb,8,131,3.447,0.36,us,us6000tmg4,2026-09-05T02:41:34.040Z,"51 km NE of Ruteng, Indonesia",earthquake,8.61,1.946,0.236,6,reviewed,us,us
+2026-08-16T01:00:01.875Z,5.8945,126.4545,10,4.4,mb,27,131,1.456,0.81,us,us6000tmg0,2026-09-05T02:35:00.040Z,"60 km SSE of Pondaguitan, Philippines",earthquake,8.43,1.901,0.112,23,reviewed,us,us
+2026-08-15T23:12:54.593Z,-7.8409,120.5245,10,5,mb,44,63,2.911,0.94,us,us6000tl44,2026-09-05T22:15:45.040Z,"85 km N of Ruteng, Indonesia",earthquake,3.43,1.826,0.094,38,reviewed,us,us
+2026-08-15T22:10:03.131Z,5.1362,126.031,95.912,4.4,mb,30,114,1.973,1.04,us,us6000tl3u,2026-09-05T04:52:46.040Z,"69 km ESE of Sarangani, Philippines",earthquake,11.81,8.119,0.107,25,reviewed,us,us
+2026-08-15T21:08:32.847Z,-7.7889,120.5243,10,4.6,mb,34,72,2.861,1.09,us,us6000tl3n,2026-09-05T04:49:31.040Z,"91 km N of Ruteng, Indonesia",earthquake,8.24,1.898,0.108,27,reviewed,us,us
+2026-08-15T20:29:43.031Z,-8.2435,120.6117,10,4.4,mb,28,114,3.32,0.85,us,us6000tl3k,2026-08-30T16:48:45.040Z,"43 km NNE of Ruteng, Indonesia",earthquake,6.21,1.899,0.114,22,reviewed,us,us
+2026-08-15T20:14:27.503Z,-8.3601,120.6204,15.605,4.4,mb,21,149,3.434,0.87,us,us6000tl3g,2026-08-23T14:54:42.040Z,"32 km NNE of Ruteng, Indonesia",earthquake,12.29,4.881,0.13,17,reviewed,us,us
+2026-08-15T19:25:47.670Z,-8.117,121.0672,10,4.3,mb,27,94,3.348,0.73,us,us6000tl35,2026-08-30T16:07:48.040Z,"86 km NE of Ruteng, Indonesia",earthquake,8.55,1.87,0.116,21,reviewed,us,us
+2026-08-15T19:15:53.521Z,-8.2481,120.3302,10,4.1,mb,20,77,3.264,0.96,us,us6000tl32,2026-08-30T15:55:01.040Z,"42 km NNW of Ruteng, Indonesia",earthquake,8.92,1.911,0.151,12,reviewed,us,us
+2026-08-15T18:43:05.067Z,-8.1881,120.5675,10,4.4,mb,29,75,3.256,0.49,us,us6000tl33,2026-08-30T15:59:10.040Z,"48 km NNE of Ruteng, Indonesia",earthquake,3.72,1.906,0.115,22,reviewed,us,us
+2026-08-15T18:40:21.009Z,-8.3082,120.6811,10,4.5,mb,21,117,3.4,0.57,us,us6000tl31,2026-08-30T15:52:10.040Z,"41 km NE of Ruteng, Indonesia",earthquake,5.91,1.916,0.131,17,reviewed,us,us
+2026-08-15T18:17:57.707Z,-7.9784,120.518,10,4.3,mb,19,107,3.042,0.81,us,us6000tm6b,2026-08-28T17:08:08.040Z,"70 km N of Ruteng, Indonesia",earthquake,6.64,1.905,0.154,13,reviewed,us,us
+2026-08-15T17:51:27.377Z,-7.744,120.7193,10,4.7,mb,32,81,2.877,0.71,us,us6000tl2u,2026-08-30T15:43:53.040Z,"99 km NNE of Ruteng, Indonesia",earthquake,7.62,1.716,0.108,26,reviewed,us,us
+2026-08-15T17:44:14.573Z,-7.9293,120.356,10,4.7,mb,30,74,2.958,0.57,us,us6000tl2t,2026-08-30T15:41:22.040Z,"76 km N of Ruteng, Indonesia",earthquake,8.46,1.893,0.11,25,reviewed,us,us
+2026-08-15T17:21:07.593Z,-8.3971,121.4515,10,4.5,mb,33,75,3.091,0.72,us,us6000tl2p,2026-08-22T16:14:01.040Z,"54 km NNW of Ende, Indonesia",earthquake,8.55,1.889,0.104,27,reviewed,us,us
+2026-08-15T16:58:05.937Z,-7.8084,120.6788,9.536,4.5,mb,32,61,2.925,1.03,us,us6000tl2c,2026-09-22T15:08:15.040Z,"91 km NNE of Ruteng, Indonesia",earthquake,5.27,4.613,0.124,21,reviewed,us,us
+2026-08-15T16:41:19.761Z,-8.0923,120.0654,10,4.3,mb,11,117,3.074,0.55,us,us6000tm69,2026-09-08T18:18:19.040Z,"48 km NNE of Labuan Bajo, Indonesia",earthquake,7.88,1.63,0.169,10,reviewed,us,us
+2026-08-15T16:25:17.438Z,0.172,120.2681,65,5.8,mww,219,21,5.177,0.68,us,us6000tl1s,2026-09-22T15:15:58.578Z,"127 km NNE of Palu, Indonesia",earthquake,6.88,1.862,0.057,30,reviewed,us,us
+2026-08-15T16:09:52.039Z,-8.4653,120.738,10,4.2,mb,21,100,3.366,0.87,us,us6000tm68,2026-09-08T14:08:06.040Z,"34 km ENE of Ruteng, Indonesia",earthquake,6.36,1.869,0.152,15,reviewed,us,us
+2026-08-15T16:05:28.047Z,-7.7994,120.8315,10,4.2,mb,25,72,2.968,0.9,us,us6000tm67,2026-09-07T22:10:47.040Z,"98 km NNE of Ruteng, Indonesia",earthquake,7.57,1.895,0.141,16,reviewed,us,us
+2026-08-15T15:52:33.110Z,-8.1969,121.3827,14.7,4.9,mb,58,67,3.009,0.75,us,us6000tl1p,2026-10-16T13:26:12.040Z,"77 km NNW of Ende, Indonesia",earthquake,18.15,7.729,0.078,51,reviewed,us,us
+2026-08-15T15:11:42.815Z,-7.4657,120.9732,93.299,4.1,mb,9,153,2.721,0.51,us,us6000tm65,2026-09-22T15:26:38.040Z,"138 km NNE of Ruteng, Indonesia",earthquake,37.21,32.947,0.198,7,reviewed,us,us
+2026-08-15T14:02:49.541Z,-8.3794,119.9036,10,4.6,mb,12,128,3.347,1.15,us,us6000tm78,2026-09-07T16:14:40.040Z,"13 km N of Labuan Bajo, Indonesia",earthquake,8.2,1.93,0.223,7,reviewed,us,us
+2026-08-15T14:00:16.355Z,-8.2642,121.1151,10,4.9,mb,50,63,3.17,0.71,us,us6000tl5e,2026-09-07T15:16:55.040Z,"81 km ENE of Ruteng, Indonesia",earthquake,7.28,1.837,0.096,37,reviewed,us,us
+2026-08-15T13:56:25.954Z,-6.596,129.8206,167.665,4.5,mb,64,40,2.062,0.79,us,us6000tl19,2026-09-22T15:28:02.040Z,"Banda Sea",earthquake,4.9,6.99,0.08,51,reviewed,us,us
+2026-08-15T12:46:06.719Z,-8.3935,121.3098,10,4.1,mb,13,118,3.219,0.64,us,us6000tl0y,2026-09-24T10:03:14.040Z,"63 km NW of Ende, Indonesia",earthquake,8.35,1.923,0.165,10,reviewed,us,us
+2026-08-15T12:14:40.304Z,-8.2578,121.2937,16.658,5.1,mb,56,82,3.292,0.83,us,us6000tl0v,2026-08-23T08:53:31.040Z,"76 km NNW of Ende, Indonesia",earthquake,8.21,4.206,0.075,58,reviewed,us,us
+2026-08-15T11:52:48.242Z,-8.1279,121.6149,10,4.3,mb,12,133,3.079,1.05,us,us6000tm5y,2026-09-24T10:22:30.040Z,"79 km N of Ende, Indonesia",earthquake,5.18,1.922,0.177,9,reviewed,us,us
+2026-08-15T11:27:59.458Z,-8.2087,120.8297,10,4.6,mb,20,89,3.349,0.86,us,us6000tm5x,2026-09-24T10:21:23.040Z,"60 km NE of Ruteng, Indonesia",earthquake,7.89,1.902,0.126,19,reviewed,us,us
+2026-08-15T10:54:51.798Z,2.9863,98.9853,175,6.9,mww,114,34,2.186,0.79,us,us6000tkyk,2026-08-22T12:01:46.810Z,"9 km WNW of Pematangsiantar, Indonesia",earthquake,6.99,1.931,0.04,59,reviewed,us,us
+2026-08-15T10:52:03.151Z,-8.3094,121.2976,9.984,4.1,mb,13,128,3.266,1.1,us,us6000tm5v,2026-08-22T11:41:15.040Z,"71 km NW of Ende, Indonesia",earthquake,9.63,5.319,0.14,14,reviewed,us,us
+2026-08-15T10:36:18.094Z,-8.2301,120.3163,25.42,4.5,mb,23,141,3.244,0.76,us,us6000tm5u,2026-08-22T11:35:52.040Z,"45 km NNW of Ruteng, Indonesia",earthquake,11.61,5.467,0.131,17,reviewed,us,us
+2026-08-15T10:31:30.314Z,-8.2166,120.3849,10,5,mb,37,87,3.243,1.04,us,us6000tkyg,2026-09-24T10:01:37.040Z,"44 km NNW of Ruteng, Indonesia",earthquake,5.22,1.89,0.099,33,reviewed,us,us
+2026-08-15T10:08:00.172Z,-8.0486,121.0196,10,4.6,mb,22,84,3.267,0.69,us,us6000tkyc,2026-09-24T10:00:10.040Z,"87 km NE of Ruteng, Indonesia",earthquake,8.14,1.814,0.126,19,reviewed,us,us
+2026-08-15T09:51:45.732Z,-0.1836,122.0143,275.112,4.6,mb,42,68,5.304,0.76,us,us6000tkya,2026-08-22T10:50:45.040Z,"120 km NW of Luwuk, Indonesia",earthquake,9.98,8.851,0.09,37,reviewed,us,us
+2026-08-15T09:47:31.010Z,-8.1726,120.0761,4.078,4.5,mb,18,116,3.154,0.89,us,us6000tm5t,2026-08-22T10:47:08.040Z,"41 km NNE of Labuan Bajo, Indonesia",earthquake,7.44,4.921,0.132,17,reviewed,us,us
+2026-08-15T09:32:53.672Z,-8.2643,121.4926,10,4.9,mb,48,83,3.115,0.74,us,us6000tky8,2026-09-24T09:59:18.040Z,"66 km NNW of Ende, Indonesia",earthquake,8.37,1.868,0.084,45,reviewed,us,us
+2026-08-15T09:08:24.547Z,-8.1093,120.5621,25.082,4.6,mb,32,82,3.178,0.9,us,us6000tky5,2026-08-22T10:21:24.040Z,"56 km N of Ruteng, Indonesia",earthquake,7.38,5.094,0.107,26,reviewed,us,us
+2026-08-15T08:02:27.469Z,-8.1244,120.0515,10,4.4,mb,25,83,3.104,0.71,us,us6000tkxc,2026-09-07T12:20:50.040Z,"44 km NNE of Labuan Bajo, Indonesia",earthquake,8.38,1.895,0.123,19,reviewed,us,us
+2026-08-15T07:39:38.638Z,-8.0652,120.8009,10,5.2,mb,67,52,3.205,0.67,us,us6000tkx5,2026-09-07T12:24:10.040Z,"70 km NNE of Ruteng, Indonesia",earthquake,5.09,1.857,0.075,58,reviewed,us,us
+2026-08-15T07:16:06.980Z,-8.2936,121.4196,10,4.4,mb,26,88,2.918,0.71,us,us6000tkwz,2026-09-07T12:28:21.040Z,"66 km NNW of Ende, Indonesia",earthquake,8.28,1.9,0.13,17,reviewed,us,us
+2026-08-15T06:48:12.807Z,-8.0965,121.1914,10,4,mb,16,118,3.217,0.3,us,us6000tm79,2026-09-07T16:57:03.040Z,"97 km NNW of Ende, Indonesia",earthquake,9.35,1.917,0.156,11,reviewed,us,us
+2026-08-15T06:43:07.730Z,-8.1452,120.7061,10,4.7,mb,38,75,3.252,0.99,us,us6000tkwt,2026-09-07T12:32:05.040Z,"58 km NNE of Ruteng, Indonesia",earthquake,4.47,1.882,0.097,32,reviewed,us,us
+2026-08-15T06:37:48.710Z,-7.864,120.7963,10,4.3,mb,21,84,3.015,0.65,us,us6000tm5j,2026-09-06T13:49:47.040Z,"90 km NNE of Ruteng, Indonesia",earthquake,8.24,0.985,0.148,13,reviewed,us,us
+2026-08-15T06:28:50.852Z,-8.2884,121.3891,10,5.1,mb,69,44,2.945,0.93,us,us6000tkwq,2026-09-07T12:36:28.040Z,"68 km NNW of Ende, Indonesia",earthquake,7.5,1.838,0.073,61,reviewed,us,us
+2026-08-15T06:27:42.800Z,-8.0342,120.6868,10,4.2,mb,18,96,3.141,0.43,us,us6000tm5k,2026-09-06T14:28:50.040Z,"68 km NNE of Ruteng, Indonesia",earthquake,8.04,1.954,0.152,12,reviewed,us,us
+2026-08-15T06:12:07.863Z,-8.1223,120.1955,10,4.3,mb,20,92,3.119,0.89,us,us6000tm5g,2026-09-20T11:47:46.040Z,"53 km NE of Labuan Bajo, Indonesia",earthquake,8.9,1.901,0.125,18,reviewed,us,us
+2026-08-15T06:05:44.035Z,-8.5969,120.8141,10,4.1,mb,14,122,3.234,0.65,us,us6000tm7b,2026-09-07T16:53:43.040Z,"38 km E of Ruteng, Indonesia",earthquake,8.05,1.755,0.185,8,reviewed,us,us
+2026-08-15T05:45:07.896Z,-8.4028,121.2455,10,5,mb,57,68,2.984,1.1,us,us6000tkwj,2026-09-07T12:43:40.244Z,"66 km NW of Ende, Indonesia",earthquake,6.65,1.876,0.081,49,reviewed,us,us
+2026-08-15T05:01:33.470Z,-7.9533,120.6324,10,4.3,mb,32,82,3.048,0.86,us,us6000tm5b,2026-09-05T13:52:44.040Z,"75 km NNE of Ruteng, Indonesia",earthquake,6.45,1.677,0.122,19,reviewed,us,us
+2026-08-15T04:46:30.484Z,-8.296,121.4947,10,4.4,mb,11,138,2.861,0.57,us,us6000tm59,2026-09-05T02:25:49.040Z,"63 km NNW of Ende, Indonesia",earthquake,10.04,1.872,0.19,8,reviewed,us,us
+2026-08-15T04:45:08.555Z,-8.0492,120.5607,10,4.4,mb,13,90,3.12,0.54,us,us6000tm5a,2026-09-05T02:17:41.040Z,"63 km N of Ruteng, Indonesia",earthquake,8.68,1.913,0.178,9,reviewed,us,us
+2026-08-15T04:27:48.452Z,-8.3141,121.3191,10,4.4,mb,19,88,2.982,1.18,us,us6000tm58,2026-09-19T01:22:49.040Z,"69 km NNW of Ende, Indonesia",earthquake,6.53,1.77,0.155,12,reviewed,us,us
+2026-08-15T04:23:08.233Z,-8.3858,121.401,10,4.5,mb,19,130,3.141,1.29,us,us6000tkwd,2026-09-05T01:41:30.040Z,"58 km NNW of Ende, Indonesia",earthquake,8.95,1.87,0.145,14,reviewed,us,us
+2026-08-15T04:17:09.103Z,-8.3297,121.2005,10,4.5,mb,15,138,3.344,0.91,us,us6000tm56,2026-09-19T01:18:09.040Z,"76 km NW of Ende, Indonesia",earthquake,10.49,1.905,0.15,13,reviewed,us,us
+2026-08-15T03:54:13.275Z,-8.2853,121.3868,10,5,mb,32,67,3.198,0.98,us,us6000tkw9,2026-09-05T01:02:00.040Z,"68 km NNW of Ende, Indonesia",earthquake,5.46,1.844,0.115,24,reviewed,us,us
+2026-08-15T03:50:46.410Z,-7.7914,120.9804,10,4.2,mb,13,143,3.017,0.71,us,us6000tm54,2026-09-05T00:06:29.040Z,"107 km NNE of Ruteng, Indonesia",earthquake,10.94,1.877,0.158,11,reviewed,us,us
+2026-08-15T03:49:11.043Z,-8.2245,120.2411,10,4.4,mb,10,119,3.226,0.36,us,us6000tm55,2026-09-04T23:20:30.040Z,"49 km NE of Labuan Bajo, Indonesia",earthquake,10.85,1.836,0.19,8,reviewed,us,us
+2026-08-15T03:25:19.430Z,-8.047,120.6868,10,4.7,mb,19,74,3.153,0.95,us,us6000tm52,2026-09-04T22:34:59.040Z,"67 km NNE of Ruteng, Indonesia",earthquake,9.18,1.876,0.142,15,reviewed,us,us
+2026-08-15T03:24:19.224Z,-8.0252,120.5166,10,4.4,mb,14,144,3.086,0.55,us,us6000tm6w,2026-09-04T22:20:02.040Z,"65 km N of Ruteng, Indonesia",earthquake,9.37,1.887,0.179,9,reviewed,us,us
+2026-08-15T03:23:56.296Z,-8.1906,120.2703,10,4.4,mb,13,83,3.197,1.06,us,us6000tm51,2026-09-04T22:14:03.040Z,"51 km NNW of Ruteng, Indonesia",earthquake,8.38,1.849,0.179,9,reviewed,us,us
+2026-08-15T02:57:54.188Z,5.306,125.5083,65.643,4.4,mb,23,170,1.754,0.38,us,us6000tm4y,2026-09-19T01:17:03.040Z,"11 km SSE of Sarangani, Philippines",earthquake,15.24,9.73,0.12,20,reviewed,us,us
+2026-08-15T02:46:55.971Z,-8.2508,121.3662,10,4.8,mb,37,74,3.232,1.02,us,us6000tkw2,2026-09-04T21:35:33.040Z,"73 km NNW of Ende, Indonesia",earthquake,6.69,1.818,0.105,28,reviewed,us,us
+2026-08-15T02:25:28.420Z,-8.1114,121.0438,10,4.5,mb,26,132,3.32,1.04,us,us6000tm4v,2026-09-04T04:50:28.040Z,"84 km NE of Ruteng, Indonesia",earthquake,7.52,1.875,0.128,18,reviewed,us,us
+2026-08-15T02:19:26.082Z,-8.2055,121.4587,10,4.8,mb,20,74,3.173,0.52,us,us6000tm4x,2026-09-04T04:27:31.040Z,"74 km NNW of Ende, Indonesia",earthquake,9.18,1.907,0.154,14,reviewed,us,us
+2026-08-15T02:18:46.970Z,-8.2552,121.3043,10,4.6,mb,21,102,3.284,1.04,us,us6000tkw0,2026-09-04T04:16:45.040Z,"76 km NNW of Ende, Indonesia",earthquake,7.05,1.85,0.141,15,reviewed,us,us
+2026-08-15T02:12:41.936Z,-8.3207,120.6961,10,4.6,mb,13,140,3.416,1.34,us,us6000tm4t,2026-09-04T03:34:01.040Z,"41 km NE of Ruteng, Indonesia",earthquake,10.61,1.672,0.172,10,reviewed,us,us
+2026-08-15T02:03:46.147Z,-8.1465,121.1965,10,4.4,mb,21,131,3.427,0.57,us,us6000tkvy,2026-09-04T03:18:15.040Z,"92 km NNW of Ende, Indonesia",earthquake,7.65,1.909,0.131,17,reviewed,us,us
+2026-08-15T01:58:07.820Z,-8.0792,120.8299,10,4.5,mb,12,94,3.228,0.65,us,us6000tm4s,2026-09-04T02:59:34.040Z,"71 km NE of Ruteng, Indonesia",earthquake,6.71,1.941,0.163,11,reviewed,us,us
+2026-08-15T01:37:40.479Z,-8.0375,120.4362,10,4.8,mb,39,82,3.079,0.76,us,us6000tkvt,2026-09-04T03:07:45.040Z,"63 km N of Ruteng, Indonesia",earthquake,8.21,1.878,0.112,25,reviewed,us,us
+2026-08-15T01:17:20.050Z,-7.9609,120.6873,10,5.1,mb,31,73,3.071,0.84,us,us6000tkvp,2026-09-04T01:53:14.040Z,"76 km NNE of Ruteng, Indonesia",earthquake,4.46,1.847,0.121,22,reviewed,us,us
+2026-08-15T01:03:44.428Z,-8.3179,121.1585,10,4,mb,8,144,3.104,0.87,us,us6000tm4l,2026-09-04T01:11:57.040Z,"80 km NW of Ende, Indonesia",earthquake,11.31,1.962,0.211,6,reviewed,us,us
+2026-08-15T00:45:21.074Z,-8.2413,121.5012,10,4.7,mb,18,128,3.119,0.43,us,us6000tm4k,2026-09-05T23:36:00.040Z,"68 km NNW of Ende, Indonesia",earthquake,7.36,1.784,0.166,11,reviewed,us,us
+2026-08-15T00:40:19.019Z,-8.2408,121.39,10,5.1,mb,29,67,3.216,0.65,us,us6000tkvh,2026-09-05T04:32:27.040Z,"73 km NNW of Ende, Indonesia",earthquake,6.5,1.842,0.112,26,reviewed,us,us
+2026-08-15T00:20:22.941Z,-8.1341,121.0087,10,4.6,mb,22,128,3.342,0.89,us,us6000tkvg,2026-09-05T03:59:06.040Z,"79 km NE of Ruteng, Indonesia",earthquake,11.29,1.898,0.125,20,reviewed,us,us
+2026-08-15T00:16:42.360Z,-8.1005,121.0641,10,4.4,mb,20,115,3.332,0.97,us,us6000tm4c,2026-09-05T03:49:05.040Z,"86 km NE of Ruteng, Indonesia",earthquake,12.37,1.898,0.149,14,reviewed,us,us
+2026-08-15T00:10:51.558Z,-7.7279,121.4476,10,4.6,mb,19,120,3.179,1.25,us,us6000tm4d,2026-09-05T03:15:57.040Z,"125 km N of Ende, Indonesia",earthquake,9.84,1.919,0.151,13,reviewed,us,us
+2026-08-15T00:05:25.525Z,-8.2072,121.2837,10,4.6,mb,20,129,3.324,1.06,us,us6000tm4e,2026-09-05T02:18:59.040Z,"81 km NNW of Ende, Indonesia",earthquake,6.98,1.91,0.145,14,reviewed,us,us
+2026-08-15T00:03:22.836Z,-8.2776,121.0339,10,4.7,mb,34,83,3.483,0.86,us,us6000tkvd,2026-09-20T00:32:01.040Z,"72 km ENE of Ruteng, Indonesia",earthquake,8.68,1.889,0.108,27,reviewed,us,us
+2026-08-14T23:57:20.833Z,-8.0342,120.4333,10,4.9,mb,35,85,3.076,1.25,us,us6000tlx2,2026-09-05T01:44:29.040Z,"63 km N of Ruteng, Indonesia",earthquake,4.57,1.885,0.122,25,reviewed,us,us
+2026-08-14T23:54:05.635Z,-7.9586,120.7384,10,4.9,mb,31,83,3.085,1.18,us,us6000tlx3,2026-09-05T01:22:17.040Z,"78 km NNE of Ruteng, Indonesia",earthquake,7.83,1.692,0.119,24,reviewed,us,us
+2026-08-14T23:52:55.684Z,-8.1746,121.5449,10,4.8,mb,30,85,3.114,0.96,us,us6000tkvc,2026-09-04T23:20:26.040Z,"75 km N of Ende, Indonesia",earthquake,8.57,1.858,0.135,21,reviewed,us,us
+2026-08-14T23:49:58.631Z,-8.1727,121.4802,10,4.5,mb,17,88,3.171,0.83,us,us6000tkvb,2026-09-19T23:05:38.040Z,"76 km NNW of Ende, Indonesia",earthquake,6.44,1.766,0.139,16,reviewed,us,us
+2026-08-14T23:38:40.743Z,4.9871,125.2993,35,4.5,mb,22,127,2.087,0.47,us,us6000tlwx,2026-09-04T22:27:26.040Z,"49 km SSW of Sarangani, Philippines",earthquake,13.26,1.566,0.127,20,reviewed,us,us
+2026-08-14T23:33:10.666Z,-8.2098,121.4824,10,4.4,mb,17,138,3.15,0.75,us,us6000tlx1,2026-09-20T00:12:38.040Z,"72 km NNW of Ende, Indonesia",earthquake,8.48,1.896,0.138,15,reviewed,us,us
+2026-08-14T23:31:54.003Z,-8.2968,121.2563,10,4.4,mb,15,150,3.308,0.4,us,us6000tlwy,2026-09-04T05:23:19.040Z,"75 km NW of Ende, Indonesia",earthquake,13.33,1.943,0.189,8,reviewed,us,us
+2026-08-14T23:29:54.069Z,-8.0677,120.222,10,4.4,mb,19,144,3.069,0.35,us,us6000tlwz,2026-09-04T05:11:21.040Z,"60 km NE of Labuan Bajo, Indonesia",earthquake,9.55,1.901,0.162,11,reviewed,us,us
+2026-08-14T23:21:38.453Z,-8.3559,119.8149,10,4.5,mb,14,139,3.32,0.69,us,us6000tlx0,2026-10-16T04:44:19.040Z,"17 km NNW of Labuan Bajo, Indonesia",earthquake,11.17,1.878,0.18,10,reviewed,us,us
+2026-08-14T23:17:05.434Z,-8.3398,121.3807,10,5,mb,44,68,3.179,1.15,us,us6000tkv9,2026-09-04T04:46:21.040Z,"63 km NNW of Ende, Indonesia",earthquake,8.04,1.851,0.097,39,reviewed,us,us
+2026-08-14T23:15:46.506Z,-8.1278,120.4122,10,4.9,mb,26,86,3.162,0.94,us,us6000tlwt,2026-09-04T04:40:04.040Z,"53 km N of Ruteng, Indonesia",earthquake,6.46,1.904,0.128,19,reviewed,us,us
+2026-08-14T23:12:31.473Z,-8.0226,120.5519,10,5.1,mb,31,113,3.093,0.76,us,us6000tkv7,2026-09-04T04:20:19.040Z,"65 km N of Ruteng, Indonesia",earthquake,9.65,1.849,0.121,22,reviewed,us,us
+2026-08-14T23:00:03.381Z,-8.2459,120.8687,10,4.7,mb,41,44,3.397,1.09,us,us6000tl1g,2026-09-01T05:18:49.040Z,"60 km NE of Ruteng, Indonesia",earthquake,7.44,1.864,0.093,35,reviewed,us,us
+2026-08-14T22:59:12.503Z,-8.1589,120.2905,10,4.7,mb,44,79,3.17,0.82,us,us6000tkv1,2026-09-01T05:15:25.040Z,"53 km NNW of Ruteng, Indonesia",earthquake,9.89,1.882,0.091,37,reviewed,us,us
+2026-08-14T22:58:06.081Z,-8.2028,121.7659,10,4.8,mb,13,151,2.913,0.82,us,us6000tlxe,2026-10-16T04:45:28.040Z,"67 km NW of Maumere, Indonesia",earthquake,10.7,1.927,0.21,8,reviewed,us,us
+2026-08-14T22:53:12.033Z,-8.0924,120.2652,10,5.3,mb,66,41,3.1,1.16,us,us6000tkuw,2026-09-01T04:47:04.040Z,"61 km NE of Labuan Bajo, Indonesia",earthquake,7.92,1.308,0.069,71,reviewed,us,us
+2026-08-14T22:52:01.546Z,-8.2514,120.1499,10,4.4,mb,20,120,3.24,1.06,us,us6000tlwr,2026-10-16T04:46:56.040Z,"39 km NE of Labuan Bajo, Indonesia",earthquake,12.77,1.908,0.143,14,reviewed,us,us
+2026-08-14T22:50:46.819Z,-8.1448,120.5797,10,4.4,mb,30,87,3.217,1.08,us,us6000tlwm,2026-09-01T04:28:03.040Z,"53 km NNE of Ruteng, Indonesia",earthquake,7.07,1.871,0.144,16,reviewed,us,us
+2026-08-14T22:43:11.994Z,-8.274,119.7688,10,4.6,mb,17,153,3.238,0.68,us,us6000tlws,2026-09-01T03:32:53.040Z,"27 km NNW of Labuan Bajo, Indonesia",earthquake,7,1.896,0.193,8,reviewed,us,us
+2026-08-14T22:37:17.355Z,-8.2816,120.0343,10,5.5,mb,47,46,3.258,1.19,us,us6000tkuf,2026-09-05T21:33:00.396Z,"28 km NE of Labuan Bajo, Indonesia",earthquake,5.68,1.837,0.089,43,reviewed,us,us
+2026-08-14T22:35:50.732Z,-8.1382,120.1118,10,4.6,mb,12,95,3.124,1.35,us,us6000tlxf,2026-09-06T04:23:32.040Z,"46 km NNE of Labuan Bajo, Indonesia",earthquake,7.99,1.911,0.222,6,reviewed,us,us
+2026-08-14T22:28:37.743Z,-8.2904,121.5625,10,6.1,mb,82,45,3.042,1.08,us,us6000tkuc,2026-09-01T02:22:31.551Z,"62 km N of Ende, Indonesia",earthquake,7.4,1.788,0.046,177,reviewed,us,us
+2026-08-14T22:27:02.125Z,-8.1366,120.5824,10,5,mb,35,86,3.21,0.99,us,us6000tlwk,2026-09-01T01:53:25.040Z,"54 km NNE of Ruteng, Indonesia",earthquake,9.47,1.884,0.109,29,reviewed,us,us
+2026-08-14T22:21:54.003Z,-8.3144,121.3409,10,5.1,mb,24,77,3.225,1.33,us,us6000tlwl,2026-09-01T01:21:53.040Z,"68 km NNW of Ende, Indonesia",earthquake,12.75,1.893,0.152,16,reviewed,us,us
+2026-08-14T22:18:48.659Z,-8.2179,120.5229,10,5.5,mb,49,51,3.274,0.8,us,us6000u2w8,2026-10-16T22:09:39.040Z,"43 km N of Ruteng, Indonesia",earthquake,8.05,1.828,0.098,36,reviewed,us,us
+2026-08-14T22:18:07.362Z,-8.4444,121.4566,10,5.6,mb,25,133,3.066,0.97,us,us6000tku7,2026-09-05T05:28:44.013Z,"49 km NNW of Ende, Indonesia",earthquake,9.54,1.895,0.139,18,reviewed,us,us
+2026-08-14T22:17:20.727Z,-8.3292,121.2044,10,5.4,mb,40,119,3.34,0.69,us,us6000tlx9,2026-09-01T00:27:39.531Z,"75 km NW of Ende, Indonesia",earthquake,8.05,1.836,0.105,31,reviewed,us,us
+2026-08-14T22:16:59.927Z,-8.4867,121.0158,10,5.5,mb,50,110,3.449,0.96,us,us6000tkub,2026-09-01T00:08:20.271Z,"62 km ENE of Ruteng, Indonesia",earthquake,22.52,2.001,0.099,35,reviewed,us,us
+2026-08-14T22:13:50.837Z,-8.2393,120.1488,10,5.9,mb,81,36,3.228,1.31,us,us6000tkta,2026-08-31T23:36:27.514Z,"40 km NE of Labuan Bajo, Indonesia",earthquake,7.6,1.797,0.064,91,reviewed,us,us
+2026-08-14T22:06:29.750Z,-8.229,121.308,10,5.8,mb,41,74,3.044,1.27,us,us6000tlwi,2026-08-31T22:43:43.803Z,"78 km NNW of Ende, Indonesia",earthquake,7.51,1.812,0.11,30,reviewed,us,us
+2026-08-14T21:58:21.561Z,-8.3358,121.3446,10,7.8,mww,174,23,3.213,1.12,us,us6000tkt2,2026-10-26T19:55:40.617Z,"66 km NNW of Ende, Indonesia",earthquake,7.32,1.784,0.033,89,reviewed,us,us
+2026-08-14T18:04:00.259Z,4.1262,128.0466,63.655,4.6,mb,60,116,3.818,0.69,us,us6000tkrs,2026-09-19T14:55:11.040Z,"265 km N of Tobelo, Indonesia",earthquake,6.7,7.254,0.063,76,reviewed,us,us
+2026-08-14T09:42:57.002Z,3.9418,127.8744,126.377,4.1,mb,31,79,3.857,0.66,us,us6000tlw4,2026-09-11T12:16:42.040Z,"245 km N of Tobelo, Indonesia",earthquake,11.38,9.457,0.117,20,reviewed,us,us
+2026-08-14T02:12:23.166Z,-1.0067,98.003,10,4.3,mb,19,202,2.334,0.5,us,us6000tlvu,2026-09-07T21:34:00.040Z,"176 km S of Teluk Dalam, Indonesia",earthquake,12.04,1.97,0.168,10,reviewed,us,us
+2026-08-14T01:14:50.579Z,5.4319,125.1343,60.475,4.9,mb,92,98,1.686,0.65,us,us6000tkkw,2026-09-07T05:38:35.855Z,"28 km WSW of Balangonan, Philippines",earthquake,10.09,5.742,0.053,112,reviewed,us,us
+2026-08-13T18:39:30.077Z,5.2976,125.4298,55.266,5.3,mww,117,44,1.767,0.82,us,us6000tkig,2026-08-26T15:27:35.136Z,"12 km SSW of Sarangani, Philippines",earthquake,7.23,4.714,0.069,20,reviewed,us,us
+2026-08-13T14:22:53.149Z,0.8256,96.9132,10,4.3,mb,17,201,0.815,0.72,us,us6000tkh9,2026-08-28T18:26:49.040Z,"93 km WSW of Gunungsitoli, Indonesia",earthquake,7.77,1.928,0.188,9,reviewed,us,us
+2026-08-13T13:12:19.170Z,-2.8617,138.8726,33.938,4.5,mb,35,63,1.861,0.91,us,us6000tlnj,2026-08-28T16:06:59.040Z,"197 km W of Abepura, Indonesia",earthquake,9.36,1.426,0.102,28,reviewed,us,us
+2026-08-13T12:58:09.774Z,-6.2392,126.7308,443.445,4.2,mb,44,54,3.59,0.73,us,us6000tkgq,2026-09-08T14:00:14.040Z,"249 km N of Baukau, Timor Leste",earthquake,11.18,10.833,0.11,26,reviewed,us,us
+2026-08-13T10:23:19.249Z,-8.3804,114.2559,142.427,4.6,mb,53,32,0.136,0.87,us,us6000tkg4,2026-09-08T11:49:52.684Z,"2 km NNW of Srono, Indonesia",earthquake,8.7,3.982,0.095,40,reviewed,us,us
+2026-08-13T04:36:27.426Z,-6.6192,127.2509,10,4.1,mb,13,97,3.364,1,us,us6000tlna,2026-09-07T05:23:57.040Z,"212 km N of Lospalos, Timor Leste",earthquake,8.85,1.942,0.213,6,reviewed,us,us
+2026-08-12T20:07:42.268Z,-4.7288,133.7719,10,4.3,mb,18,66,2.354,0.75,us,us6000tla2,2026-09-03T19:22:33.040Z,"150 km NE of Tual, Indonesia",earthquake,7.19,1.899,0.168,12,reviewed,us,us
+2026-08-12T18:58:27.093Z,-6.5645,129.4623,193.912,4.4,mb,90,35,2.076,0.64,us,us6000tk9q,2026-09-03T19:05:44.040Z,"Banda Sea",earthquake,7.55,3.489,0.063,77,reviewed,us,us
+2026-08-12T10:31:11.475Z,-6.6773,129.3328,214.896,4.1,mb,16,92,4.73,0.88,us,us6000tl6u,2026-09-04T12:05:23.040Z,"Banda Sea",earthquake,10.8,7.01,0.151,12,reviewed,us,us
+2026-08-12T10:15:29.689Z,-2.7965,127.8827,10,4.6,mb,33,60,2.648,0.46,us,us6000tk6n,2026-09-02T15:37:38.040Z,"104 km NNW of Ambon, Indonesia",earthquake,8.28,1.887,0.119,21,reviewed,us,us
+2026-08-11T23:33:11.150Z,-4.0158,139.8475,10,4.7,mb,39,80,1.718,0.83,us,us6000tk41,2026-09-15T00:45:30.040Z,"179 km SSW of Abepura, Indonesia",earthquake,7.68,1.89,0.092,36,reviewed,us,us
+2026-08-11T22:47:17.375Z,-5.6038,133.93,10,4.1,mb,9,180,3.15,0.5,us,us6000tkqm,2026-10-11T22:03:57.040Z,"130 km E of Tual, Indonesia",earthquake,13.81,1.851,0.233,5,reviewed,us,us
+2026-08-11T20:55:27.983Z,2.717,126.4972,53.612,4.5,mb,32,124,12.587,0.75,us,us6000tk2n,2026-08-24T21:35:25.040Z,"200 km WNW of Tobelo, Indonesia",earthquake,14.3,8.071,0.104,27,reviewed,us,us
+2026-08-11T20:14:18.524Z,1.67,128.3815,10,5,mb,92,54,3.831,0.8,us,us6000tk1y,2026-08-24T21:08:14.040Z,"41 km E of Tobelo, Indonesia",earthquake,8.96,1.768,0.051,122,reviewed,us,us
+2026-08-11T12:45:13.664Z,-7.3832,130.3661,35.394,4.8,mb,57,86,2.879,0.79,us,us6000tjxa,2026-09-04T13:01:02.040Z,"Pulau Pulau Tanimbar, Indonesia",earthquake,6.02,6.068,0.079,50,reviewed,us,us
+2026-08-11T11:30:06.655Z,4.6176,126.2003,70.024,4.3,mb,25,119,14.123,0.74,us,us6000tkq9,2026-09-04T07:22:01.040Z,"119 km SE of Sarangani, Philippines",earthquake,14.19,9.923,0.118,20,reviewed,us,us
+2026-08-11T10:49:52.487Z,-6.708,129.7128,173.163,4.6,mb,85,83,2.179,0.37,us,us6000tjx1,2026-09-04T12:56:15.040Z,"Banda Sea",earthquake,8.68,7.198,0.057,93,reviewed,us,us
+2026-08-11T01:12:45.665Z,-4.4737,102.5298,62.333,4.7,mb,52,180,0.439,0.59,us,us6000tjug,2026-09-02T22:35:30.040Z,"80 km SSE of Bengkulu, Indonesia",earthquake,8.93,5.675,0.092,36,reviewed,us,us
+2026-08-10T23:15:29.317Z,1.8049,127.5335,10,4.3,mb,21,122,5.581,0.62,us,us6000tkp2,2026-09-14T23:03:22.040Z,"53 km W of Tobelo, Indonesia",earthquake,15.9,1.908,0.13,17,reviewed,us,us
+2026-08-10T17:08:06.212Z,-5.9436,102.3524,18.046,5,mb,56,132,1.683,0.84,us,us6000tjqj,2026-08-22T15:12:14.040Z,"234 km SSW of Pagar Alam, Indonesia",earthquake,7.69,3.639,0.081,49,reviewed,us,us
+2026-08-10T09:02:36.245Z,5.1411,125.156,10,4.6,mb,30,131,1.962,0.87,us,us6000tknf,2026-09-03T11:18:15.040Z,"44 km SW of Sarangani, Philippines",earthquake,14.7,1.916,0.106,27,reviewed,us,us
+2026-08-09T23:51:02.022Z,-0.2072,125.8191,46.167,4.4,mb,27,91,5.918,0.78,us,us6000tkf9,2026-09-03T02:13:37.040Z,"170 km ESE of Modisi, Indonesia",earthquake,7.65,9.747,0.13,17,reviewed,us,us
+2026-08-09T22:44:36.222Z,4.0995,126.9421,47.539,4.3,mb,29,107,6.559,0.77,us,us6000tkf8,2026-09-03T01:51:39.040Z,"218 km SE of Sarangani, Philippines",earthquake,12.96,8.487,0.111,23,reviewed,us,us
+2026-08-09T22:17:24.295Z,4.1326,126.7599,10,5.1,mb,90,71,3.145,0.91,us,us6000tji3,2026-09-14T20:53:57.040Z,"201 km SE of Sarangani, Philippines",earthquake,10.07,1.759,0.045,162,reviewed,us,us
+2026-08-09T21:42:39.360Z,4.0598,126.984,35,4.9,mb,57,106,3.301,0.76,us,us6000tjhn,2026-09-14T20:35:57.040Z,"224 km SE of Sarangani, Philippines",earthquake,11.79,1.841,0.058,94,reviewed,us,us
+2026-08-09T20:36:43.066Z,-0.5302,130.3087,10,4.5,mb,51,108,3.064,0.35,us,us6000tjhi,2026-08-20T16:14:36.040Z,"39 km SW of Waisai, Indonesia",earthquake,10.07,1.87,0.081,45,reviewed,us,us
+2026-08-09T16:45:00.995Z,2.0417,123.8409,349.645,4.2,mb,17,128,8.9,1,us,us6000tjga,2026-08-23T19:37:56.040Z,"128 km WNW of Manado, Indonesia",earthquake,9.4,13.967,0.166,11,reviewed,us,us
+2026-08-09T15:35:20.853Z,-5.8153,102.8643,39.476,4.3,mb,18,206,1.448,0.63,us,us6000tkf0,2026-08-23T19:09:44.040Z,"202 km SSW of Pagar Alam, Indonesia",earthquake,7.55,9.467,0.168,10,reviewed,us,us
+2026-08-09T15:15:03.969Z,-5.8046,102.8509,35,5.2,mww,100,51,1.438,0.9,us,us6000tjfj,2026-08-23T18:28:14.040Z,"201 km SSW of Pagar Alam, Indonesia",earthquake,8.97,1.832,0.086,13,reviewed,us,us
+2026-08-09T14:15:42.735Z,5.2269,125.1737,93.034,4.2,mb,28,133,1.874,1.14,us,us6000tkez,2026-08-23T17:55:04.040Z,"37 km WSW of Sarangani, Philippines",earthquake,14.02,7.644,0.118,21,reviewed,us,us
+2026-08-09T13:47:05.426Z,4.8378,125.6626,155.081,4.5,mb,47,110,2.219,1.26,us,us6000tjfb,2026-08-23T17:06:16.040Z,"66 km SSE of Sarangani, Philippines",earthquake,10.86,7.528,0.088,40,reviewed,us,us
+2026-08-09T10:04:30.273Z,4.6616,125.4493,10,4.6,mb,39,106,2.396,0.69,us,us6000tje3,2026-09-18T11:53:52.040Z,"82 km S of Sarangani, Philippines",earthquake,12.33,1.903,0.097,32,reviewed,us,us
+2026-08-09T06:19:48.772Z,-9.2465,123.4204,85.249,4.5,mb,17,138,0.976,1.05,us,us6000tken,2026-09-02T10:57:51.040Z,"54 km NW of Naisano Dua, Indonesia",earthquake,13.98,7.535,0.163,11,reviewed,us,us
+2026-08-08T23:12:18.371Z,5.138,125.4756,10,4.5,mb,30,122,1.922,1.22,us,us6000tjbq,2026-08-28T05:26:59.040Z,"29 km S of Sarangani, Philippines",earthquake,6.97,1.912,0.118,23,reviewed,us,us
+2026-08-08T15:10:39.978Z,-10.2696,111.4676,10,4.5,mb,26,135,3.196,0.71,us,us6000tk96,2026-09-02T18:24:29.040Z,"242 km S of Boyolangu, Indonesia",earthquake,8.73,1.946,0.127,18,reviewed,us,us
+2026-08-08T10:20:47.001Z,5.088,125.0662,11.138,4.9,mb,32,125,2.034,0.61,us,us6000tj8e,2026-08-13T07:55:05.040Z,"56 km SW of Sarangani, Philippines",earthquake,8.27,4.873,0.114,24,reviewed,us,us
+2026-08-08T09:59:59.173Z,-8.0781,107.8449,54.247,4.1,mb,17,86,0.641,0.96,us,us6000tk8y,2026-08-13T07:50:32.040Z,"85 km SSW of Singaparna, Indonesia",earthquake,6.26,8.226,0.166,10,reviewed,us,us
+2026-08-08T04:26:08.184Z,5.0308,125.0298,10,4.5,mb,30,123,2.098,0.94,us,us6000tj6d,2026-09-02T22:19:24.040Z,"63 km SW of Sarangani, Philippines",earthquake,10.07,1.898,0.11,24,reviewed,us,us
+2026-08-08T02:44:58.948Z,5.1217,125.2608,10,4.5,mb,45,121,1.961,0.64,us,us6000tj65,2026-09-02T21:56:13.040Z,"38 km SW of Sarangani, Philippines",earthquake,7.93,1.894,0.096,32,reviewed,us,us
+2026-08-08T00:04:12.666Z,5.3039,125.4036,126.399,4.1,mb,22,133,1.763,1.22,us,us6000tk8l,2026-10-11T00:01:18.040Z,"12 km SSW of Sarangani, Philippines",earthquake,15.6,8.004,0.15,14,reviewed,us,us
+2026-08-07T23:30:48.314Z,0.2431,122.0489,197.172,4.5,mb,22,125,5.704,0.58,us,us6000tj4x,2026-08-28T22:01:33.040Z,"117 km WSW of Gorontalo, Indonesia",earthquake,15.68,9.507,0.135,18,reviewed,us,us
+2026-08-07T22:53:49.801Z,5.8462,125.5769,142.96,4.6,mb,57,103,1.215,0.62,us,us6000tj4i,2026-08-28T22:08:29.040Z,"10 km SW of Caburan, Philippines",earthquake,11.19,6.914,0.055,97,reviewed,us,us
+2026-08-07T22:12:54.525Z,1.7584,124.9323,174.368,4.4,mb,28,107,5.315,0.86,us,us6000tj42,2026-08-28T22:16:30.040Z,"30 km N of Laikit, Laikit II (Dimembe), Indonesia",earthquake,11.73,9.131,0.114,23,reviewed,us,us
+2026-08-07T19:51:17.910Z,4.1706,126.8913,10,4.4,mb,32,106,3.162,0.72,us,us6000tjzm,2026-09-03T21:11:28.040Z,"208 km SE of Sarangani, Philippines",earthquake,11.22,1.899,0.114,22,reviewed,us,us
+2026-08-07T19:48:15.865Z,4.429,127.3173,10,4.4,mb,31,83,3.142,0.78,us,us6000tj2p,2026-08-29T15:09:12.040Z,"232 km ESE of Sarangani, Philippines",earthquake,10.45,1.884,0.112,26,reviewed,us,us
+2026-08-07T14:07:39.335Z,-5.5972,110.2073,534.988,4.8,mb,76,47,1.461,0.77,us,us6000tixn,2026-08-22T20:48:06.040Z,"112 km NNW of Batang, Indonesia",earthquake,10.71,7.943,0.053,111,reviewed,us,us
+2026-08-07T12:12:28.806Z,1.4298,126.8031,52.473,4.5,mb,26,90,5.734,0.56,us,us6000tjzd,2026-09-01T09:08:54.040Z,"95 km NW of Ternate, Indonesia",earthquake,9.37,8.387,0.121,20,reviewed,us,us
+2026-08-07T11:07:52.103Z,0.1514,123.5759,126.071,4.2,mb,27,154,9.19,0.66,us,us6000tix3,2026-09-01T13:33:00.040Z,"71 km SE of Gorontalo, Indonesia",earthquake,7.26,9.836,0.125,18,reviewed,us,us
+2026-08-07T10:22:40.519Z,-1.2649,100.6767,120.983,4.2,mb,22,165,3.825,1.14,us,us6000tjzc,2026-09-03T09:15:46.040Z,"50 km SE of Padang, Indonesia",earthquake,9.56,9.869,0.152,12,reviewed,us,us
+2026-08-07T08:43:38.581Z,5.189,125.0898,12.314,4.7,mb,40,116,1.931,0.62,us,us6000tiwj,2026-08-12T12:48:58.040Z,"47 km WSW of Sarangani, Philippines",earthquake,10.86,2.417,0.081,46,reviewed,us,us
+2026-08-07T06:23:01.325Z,4.5695,125.9556,86.787,4.5,mb,53,106,2.512,0.9,us,us6000tiw5,2026-09-02T12:40:10.040Z,"107 km SSE of Sarangani, Philippines",earthquake,11.43,7.823,0.066,67,reviewed,us,us
+2026-08-06T13:40:50.954Z,3.7608,127.9786,83.66,4.1,mb,20,117,4.063,0.66,us,us6000tjyh,2026-09-17T14:05:05.040Z,"224 km N of Tobelo, Indonesia",earthquake,12.24,8.263,0.158,12,reviewed,us,us
+2026-08-06T10:38:21.672Z,4.8953,126.2074,10,4.3,mb,17,148,2.249,0.86,us,us6000tjyd,2026-09-21T13:59:49.040Z,"99 km SE of Sarangani, Philippines",earthquake,11.69,1.584,0.154,14,reviewed,us,us
+2026-08-06T03:12:10.994Z,5.1629,125.0695,35,4.7,mb,48,116,1.961,0.71,us,us6000tihf,2026-09-01T05:07:14.040Z,"51 km WSW of Sarangani, Philippines",earthquake,10.33,1.921,0.093,35,reviewed,us,us
+2026-08-05T22:50:24.172Z,5.1501,125.6592,10,4.4,mb,20,132,1.909,0.46,us,us6000tjpr,2026-10-17T22:26:45.040Z,"35 km SE of Sarangani, Philippines",earthquake,12.39,1.905,0.13,17,reviewed,us,us
+2026-08-05T22:11:44.622Z,5.1248,125.3085,10,4.8,mb,52,72,1.951,0.56,us,us6000tifh,2026-10-17T22:26:40.040Z,"35 km SSW of Sarangani, Philippines",earthquake,10.72,1.882,0.07,63,reviewed,us,us
+2026-08-05T21:57:33.302Z,5.1965,125.2439,10,4.4,mb,28,101,1.89,0.79,us,us6000tifd,2026-10-17T22:26:40.040Z,"33 km SW of Sarangani, Philippines",earthquake,10.06,1.916,0.123,19,reviewed,us,us
+2026-08-05T21:41:27.701Z,5.117,125.2281,10,5.6,mww,147,43,1.971,0.71,us,us6000tif5,2026-10-17T22:26:40.040Z,"41 km SW of Sarangani, Philippines",earthquake,7.24,1.721,0.061,26,reviewed,us,us
+2026-08-05T21:21:01.407Z,5.1314,95.4888,101.281,4.3,mb,16,131,1.456,0.78,us,us6000tjpq,2026-10-17T22:26:45.040Z,"48 km SSE of Banda Aceh, Indonesia",earthquake,9.67,7.36,0.178,9,reviewed,us,us
+2026-08-05T20:04:38.037Z,4.9967,125.5128,10,4.3,mb,13,137,2.06,1.29,us,us6000tjpm,2026-10-17T22:26:45.040Z,"45 km S of Sarangani, Philippines",earthquake,13.43,1.925,0.154,12,reviewed,us,us
+2026-08-05T19:33:25.377Z,-1.0677,126.8214,38.398,4.6,mb,37,84,4.61,0.58,us,us6000tjpi,2026-10-17T22:26:45.040Z,"87 km SW of Labuha, Indonesia",earthquake,9.07,5.179,0.091,36,reviewed,us,us
+2026-08-05T19:32:25.347Z,4.9252,125.2448,10.07,4.6,mb,64,109,2.156,0.51,us,us6000tidz,2026-10-17T22:26:40.040Z,"58 km SSW of Sarangani, Philippines",earthquake,27.5,8.092,0.077,56,reviewed,us,us
+2026-08-05T19:22:18.543Z,5.5198,125.5899,7.181,4.4,mb,20,133,1.54,0.84,us,us6000tjph,2026-10-17T22:26:45.040Z,"19 km NE of Sarangani, Philippines",earthquake,10.41,5.429,0.148,14,reviewed,us,us
+2026-08-05T16:50:18.982Z,1.7883,127.4345,123.797,5.3,mww,157,30,4.652,0.71,us,us6000tics,2026-10-17T22:26:40.040Z,"64 km W of Tobelo, Indonesia",earthquake,7.11,4.367,0.071,19,reviewed,us,us
+2026-08-05T16:30:55.062Z,5.2192,125.2826,10,4.5,mb,28,118,1.862,1.08,us,us6000ticn,2026-10-17T22:26:40.040Z,"28 km SW of Sarangani, Philippines",earthquake,11.04,1.87,0.121,21,reviewed,us,us
+2026-08-05T15:17:36.367Z,5.0356,126.5277,10,4.3,mb,19,117,2.23,0.95,us,us6000tib1,2026-10-17T22:26:39.040Z,"124 km ESE of Sarangani, Philippines",earthquake,13.03,1.911,0.142,14,reviewed,us,us
+2026-08-05T14:55:41.965Z,-8.1305,107.8541,60.835,5,mb,92,43,0.694,1.12,us,us6000tiat,2026-10-17T22:26:39.040Z,"90 km SSW of Singaparna, Indonesia",earthquake,5.87,4.915,0.071,62,reviewed,us,us
+2026-08-05T14:43:43.247Z,1.2712,126.3397,48.449,4.7,mb,58,77,5.365,0.91,us,us6000tiar,2026-10-17T22:26:39.040Z,"127 km WNW of Ternate, Indonesia",earthquake,9.21,6.687,0.082,45,reviewed,us,us
+2026-08-05T14:22:47.703Z,5.072,125.2913,10,4.6,mb,40,107,2.005,0.87,us,us6000tian,2026-10-17T22:26:39.040Z,"41 km SSW of Sarangani, Philippines",earthquake,6.44,1.884,0.091,36,reviewed,us,us
+2026-08-05T14:16:49.721Z,1.3365,126.1174,10,4.5,mb,40,77,5.595,0.77,us,us6000tial,2026-10-17T22:26:39.040Z,"110 km E of Bitung, Indonesia",earthquake,10.56,1.852,0.104,27,reviewed,us,us
+2026-08-05T12:54:37.349Z,5.1031,125.4433,10,4.4,mb,18,111,1.958,0.3,us,us6000tjpc,2026-10-17T22:26:45.040Z,"33 km S of Sarangani, Philippines",earthquake,12.31,1.923,0.139,15,reviewed,us,us
+2026-08-05T12:29:41.557Z,5.3291,125.4166,10,4.5,mb,47,122,1.737,0.47,us,us6000tiae,2026-10-17T22:26:39.040Z,"9 km SSW of Sarangani, Philippines",earthquake,6.71,1.891,0.093,34,reviewed,us,us
+2026-08-05T12:22:34.651Z,3.9276,127.9288,69.892,4.2,mb,28,92,3.9,0.83,us,us6000tjpb,2026-10-17T22:26:45.040Z,"243 km N of Tobelo, Indonesia",earthquake,6.49,8.592,0.128,17,reviewed,us,us
+2026-08-05T11:22:59.125Z,5.2507,125.3114,10,4.4,mb,27,125,1.827,0.72,us,us6000tjp9,2026-10-17T22:26:45.040Z,"23 km SW of Sarangani, Philippines",earthquake,10.21,1.881,0.123,20,reviewed,us,us
+2026-08-05T10:52:09.720Z,5.0233,125.0913,40.55,4.5,mb,37,108,2.09,0.59,us,us6000tjp8,2026-10-17T22:26:45.040Z,"58 km SW of Sarangani, Philippines",earthquake,11.2,6.198,0.106,26,reviewed,us,us
+2026-08-05T09:38:19.421Z,5.0603,125.2813,18.888,4.5,mb,42,107,2.018,0.5,us,us6000ti9q,2026-10-17T22:26:39.040Z,"42 km SSW of Sarangani, Philippines",earthquake,12.02,4.643,0.094,33,reviewed,us,us
+2026-08-05T09:17:04.003Z,5.1132,125.2309,10,4.9,mb,69,80,1.974,0.4,us,us6000ti9k,2026-10-17T22:26:39.040Z,"41 km SW of Sarangani, Philippines",earthquake,5.05,1.861,0.065,73,reviewed,us,us
+2026-08-05T09:14:11.226Z,5.2303,124.771,18.929,4.3,mb,15,142,1.996,0.37,us,us6000tjp5,2026-10-17T22:26:45.040Z,"72 km S of Lumatil, Philippines",earthquake,13.25,5.74,0.161,11,reviewed,us,us
+2026-08-05T08:29:41.924Z,5.026,125.2765,10,4.4,mb,18,176,2.052,0.5,us,us6000tjp4,2026-10-17T22:26:45.040Z,"46 km SSW of Sarangani, Philippines",earthquake,16.82,1.974,0.148,15,reviewed,us,us
+2026-08-05T08:24:10.279Z,5.0401,125.4357,10,4.4,mb,21,133,2.021,0.75,us,us6000tjp3,2026-10-17T22:26:45.040Z,"40 km S of Sarangani, Philippines",earthquake,11.54,1.94,0.143,15,reviewed,us,us
+2026-08-05T07:02:34.476Z,5.1535,125.1558,10,4.4,mb,18,125,1.95,0.39,us,us6000tjp0,2026-10-17T22:26:45.040Z,"43 km SW of Sarangani, Philippines",earthquake,15.49,1.939,0.169,13,reviewed,us,us
+2026-08-05T06:56:54.693Z,5.0037,125.4527,10.162,4.3,mb,22,133,2.056,0.7,us,us6000tjnv,2026-10-17T22:26:44.040Z,"44 km S of Sarangani, Philippines",earthquake,12.3,4.993,0.148,16,reviewed,us,us
+2026-08-05T06:41:43.975Z,5.1169,125.2061,10,4.9,mb,63,80,1.975,0.92,us,us6000ti86,2026-10-17T22:26:39.040Z,"42 km SW of Sarangani, Philippines",earthquake,5.46,1.896,0.063,79,reviewed,us,us
+2026-08-05T06:36:58.027Z,5.0619,125.0982,11.877,4.4,mb,21,142,2.051,0.76,us,us6000tjnx,2026-10-17T22:26:44.040Z,"55 km SW of Sarangani, Philippines",earthquake,15.89,5.448,0.138,16,reviewed,us,us
+2026-08-05T05:59:18.173Z,5.154,125.2342,11.57,5.1,mb,72,64,1.934,0.95,us,us6000ti80,2026-10-17T22:26:39.040Z,"37 km SW of Sarangani, Philippines",earthquake,4.44,3.843,0.058,98,reviewed,us,us
+2026-08-05T05:57:01.033Z,5.1559,125.5787,35,4.9,mb,59,104,1.901,0.94,us,us6000ti7z,2026-10-17T22:26:39.040Z,"30 km SSE of Sarangani, Philippines",earthquake,9.52,1.928,0.065,75,reviewed,us,us
+2026-08-05T05:53:53.743Z,4.9963,125.9769,35,4.6,mb,47,106,2.097,0.73,us,us6000ti7y,2026-10-17T22:26:39.040Z,"72 km SE of Sarangani, Philippines",earthquake,9.38,1.926,0.081,46,reviewed,us,us
+2026-08-05T05:49:16.458Z,5.1916,125.1323,10,4.6,mb,35,125,1.918,0.69,us,us6000tjnu,2026-10-17T22:26:44.040Z,"43 km WSW of Sarangani, Philippines",earthquake,11.42,1.927,0.1,33,reviewed,us,us
+2026-08-05T05:13:00.905Z,5.1829,125.1531,10,4.9,mb,45,125,1.922,0.92,us,us6000ti7t,2026-10-17T22:26:39.040Z,"42 km SW of Sarangani, Philippines",earthquake,8.47,1.834,0.08,49,reviewed,us,us
+2026-08-05T04:47:13.000Z,5.13,125.2174,10,4.6,mb,19,129,1.96,0.62,us,us6000tjnr,2026-10-17T22:26:44.040Z,"40 km SW of Sarangani, Philippines",earthquake,11.21,1.917,0.151,13,reviewed,us,us
+2026-08-05T04:43:32.173Z,4.9589,126.4236,10,4.6,mb,17,142,2.259,1.2,us,us6000tjns,2026-10-17T22:26:44.040Z,"117 km ESE of Sarangani, Philippines",earthquake,15.54,1.906,0.137,16,reviewed,us,us
+2026-08-05T04:34:11.525Z,5.043,125.0373,35,4.9,mb,31,120,2.084,0.98,us,us6000ti7f,2026-10-17T22:26:39.040Z,"61 km SW of Sarangani, Philippines",earthquake,11.03,1.925,0.112,25,reviewed,us,us
+2026-08-05T04:29:05.889Z,4.857,125.3444,35,4.5,mb,17,174,2.21,1.04,us,us6000tjpz,2026-10-17T22:26:45.040Z,"61 km SSW of Sarangani, Philippines",earthquake,13.46,1.988,0.145,14,reviewed,us,us
+2026-08-05T04:25:04.577Z,5.1323,125.4389,35,5.2,mb,55,88,1.93,0.94,us,us6000ti71,2026-10-17T22:26:38.040Z,"30 km S of Sarangani, Philippines",earthquake,8.82,1.904,0.086,44,reviewed,us,us
+2026-08-05T04:14:06.079Z,5.1799,125.2798,10,6.3,mww,111,44,1.901,1.25,us,us6000ti6x,2026-10-17T22:26:26.040Z,"32 km SW of Sarangani, Philippines",earthquake,7.87,1.791,0.043,51,reviewed,us,us
+2026-08-05T03:58:59.998Z,5.5424,127.0631,10,4.5,mb,21,105,2.116,1.19,us,us6000tjnp,2026-10-17T22:26:44.040Z,"133 km SE of Pondaguitan, Philippines",earthquake,10.62,1.878,0.131,18,reviewed,us,us
+2026-08-05T03:16:06.895Z,-6.4486,128.9069,232.256,4.8,mb,64,80,2.156,0.7,us,us6000ti6f,2026-10-17T22:26:38.040Z,"Banda Sea",earthquake,9,7.349,0.078,51,reviewed,us,us
+2026-08-04T23:32:17.422Z,0.47,99.8153,152.956,4.3,mb,45,60,2.383,0.58,us,us6000tj0k,2026-10-17T22:26:43.040Z,"106 km NW of Bukittinggi, Indonesia",earthquake,4.38,7.241,0.099,29,reviewed,us,us
+2026-08-04T21:56:46.880Z,0.003,123.6924,121.073,4.1,mb,24,90,6.35,0.43,us,us6000tj0e,2026-10-17T22:26:43.040Z,"91 km SE of Gorontalo, Indonesia",earthquake,13.77,10.292,0.127,17,reviewed,us,us
+2026-08-04T20:16:37.930Z,1.5507,126.5708,43,5.7,mww,138,23,5.571,0.73,us,us6000ti49,2026-10-17T22:26:38.040Z,"123 km NW of Ternate, Indonesia",earthquake,8.01,1.849,0.11,8,reviewed,us,us
+2026-08-04T17:30:51.659Z,-7.5758,128.3192,186.616,4,mb,26,83,3.418,0.51,us,us6000ti1d,2026-10-17T22:26:37.040Z,"179 km NE of Lospalos, Timor Leste",earthquake,9.32,7.323,0.164,10,reviewed,us,us
+2026-08-03T02:24:19.036Z,-2.5994,138.9054,5.287,4.4,mb,22,87,1.798,0.84,us,us6000tixy,2026-10-17T22:26:43.040Z,"192 km W of Abepura, Indonesia",earthquake,5.98,5.15,0.131,17,reviewed,us,us
+2026-08-02T22:48:37.577Z,5.37,125.3647,67.847,4.5,mb,41,125,1.702,0.67,us,us6000thp0,2026-10-17T22:26:34.040Z,"11 km WSW of Sarangani, Philippines",earthquake,12.78,8.016,0.097,31,reviewed,us,us
+2026-08-02T22:14:33.788Z,0.2025,98.9508,45.095,4.4,mb,26,133,1.757,0.67,us,us6000tinn,2026-10-17T22:26:42.040Z,"134 km ESE of Teluk Dalam, Indonesia",earthquake,9.04,8.965,0.134,16,reviewed,us,us
+2026-08-02T16:26:58.795Z,4.1551,126.0792,10.011,4.7,mb,46,105,2.938,0.94,us,us6000thmn,2026-10-17T22:26:33.040Z,"154 km SSE of Sarangani, Philippines",earthquake,9.93,4.391,0.077,55,reviewed,us,us
+2026-08-02T14:17:36.726Z,-8.3793,121.1954,10,4.6,mb,27,83,3.327,1.4,us,us6000thm6,2026-10-17T22:26:33.040Z,"72 km NW of Ende, Indonesia",earthquake,7.59,1.652,0.129,19,reviewed,us,us
+2026-08-02T13:06:19.694Z,2.576,98.9984,158.642,4.1,mb,22,68,0.14,0.61,us,us6000tina,2026-10-17T22:26:42.040Z,"11 km SE of Parapat, Indonesia",earthquake,9.24,4.425,0.145,13,reviewed,us,us
+2026-08-02T06:53:45.773Z,5.4051,125.2948,21.508,4.3,mb,17,190,1.678,0.88,us,us6000timz,2026-10-17T22:26:42.040Z,"18 km W of Sarangani, Philippines",earthquake,12.86,6.893,0.142,14,reviewed,us,us
+2026-08-02T05:10:45.130Z,-2.6092,138.9728,10,4.5,mb,23,111,1.731,0.57,us,us6000timu,2026-10-17T22:26:41.040Z,"184 km W of Abepura, Indonesia",earthquake,11.27,1.919,0.127,18,reviewed,us,us
+2026-08-01T21:26:07.206Z,-2.6266,138.9391,10,4.5,mb,26,87,1.766,0.5,us,us6000thi4,2026-10-17T22:26:31.040Z,"188 km W of Abepura, Indonesia",earthquake,9.43,1.537,0.118,21,reviewed,us,us
+2026-08-01T20:08:08.844Z,2.804,126.4682,56.089,4.1,mb,24,115,8.046,0.58,us,us6000tim2,2026-10-17T22:26:41.040Z,"208 km NW of Tobelo, Indonesia",earthquake,15.75,8.605,0.127,18,reviewed,us,us
+2026-08-01T17:30:01.453Z,-2.7767,130.2218,10,4.4,mb,39,64,1.763,0.75,us,us6000thhe,2026-10-17T22:26:30.040Z,"150 km ENE of Masohi, Indonesia",earthquake,4.57,1.876,0.096,32,reviewed,us,us
+2026-08-01T14:35:12.523Z,-6.7638,129.6194,154.055,4.1,mb,22,84,2.245,0.45,us,us6000thgp,2026-10-17T22:26:30.040Z,"Banda Sea",earthquake,8.79,8.612,0.145,15,reviewed,us,us
+2026-08-01T13:17:37.129Z,4.8637,125.1448,10,4.2,mb,18,146,2.234,0.74,us,us6000tilu,2026-10-17T22:26:41.040Z,"69 km SSW of Sarangani, Philippines",earthquake,11.78,1.922,0.125,20,reviewed,us,us
+2026-08-01T12:30:49.350Z,-3.2875,130.8088,10,4.5,mb,33,78,1.484,0.79,us,us6000thgf,2026-10-17T22:26:30.040Z,"170 km WSW of Fakfak, Indonesia",earthquake,8.07,1.872,0.104,27,reviewed,us,us
+2026-08-01T12:12:07.612Z,-2.8888,130.2762,10,4.5,mb,28,92,1.664,0.93,us,us6000thgc,2026-10-17T22:26:30.040Z,"152 km ENE of Masohi, Indonesia",earthquake,8.78,1.882,0.107,26,reviewed,us,us
+2026-08-01T06:40:31.594Z,1.6408,128.0415,10,4.3,mb,23,98,4.076,0.51,us,us6000tilp,2026-10-17T22:26:41.040Z,"10 km SSE of Tobelo, Indonesia",earthquake,8.1,1.904,0.143,14,reviewed,us,us
+2026-08-01T03:42:50.806Z,5.5763,125.0793,35,4.6,mb,45,116,1.565,0.94,us,us6000thef,2026-10-17T22:26:29.040Z,"24 km SW of Burias, Philippines",earthquake,7.61,1.879,0.091,36,reviewed,us,us
+2026-08-01T02:42:39.535Z,5.0191,125.1801,35,4.5,mb,18,135,2.075,0.99,us,us6000tili,2026-10-17T22:26:41.040Z,"52 km SW of Sarangani, Philippines",earthquake,12.95,1.942,0.15,13,reviewed,us,us
+2026-07-31T23:17:37.228Z,-2.9413,130.1101,10,5.1,mb,53,68,1.584,0.69,us,us6000thcs,2026-10-17T22:26:29.040Z,"132 km ENE of Masohi, Indonesia",earthquake,6.45,1.829,0.067,73,reviewed,us,us
+2026-07-31T23:15:50.134Z,-2.9239,130.2558,10,5.1,mb,53,60,1.626,0.64,us,us6000thcq,2026-10-17T22:26:29.040Z,"148 km ENE of Masohi, Indonesia",earthquake,6.35,1.834,0.062,86,reviewed,us,us
+2026-07-31T22:47:26.642Z,1.2319,126.4221,35,4.4,mb,21,125,7.136,0.93,us,us6000tica,2026-10-17T22:26:40.040Z,"117 km WNW of Ternate, Indonesia",earthquake,11.02,1.916,0.162,13,reviewed,us,us
+2026-07-31T22:18:30.332Z,-2.9694,130.3504,10,4.1,mb,22,84,1.605,0.77,us,us6000thck,2026-10-17T22:26:29.040Z,"157 km ENE of Masohi, Indonesia",earthquake,5.23,1.722,0.166,10,reviewed,us,us
+2026-07-31T22:02:32.957Z,-3.0161,130.2042,10,4.1,mb,16,113,1.526,0.78,us,us6000tic9,2026-10-17T22:26:40.040Z,"140 km ENE of Masohi, Indonesia",earthquake,7.83,1.895,0.175,9,reviewed,us,us
+2026-07-31T21:32:46.065Z,-3.0375,130.1186,10,4.1,mb,12,100,1.49,0.95,us,us6000tic5,2026-10-17T22:26:40.040Z,"131 km ENE of Masohi, Indonesia",earthquake,7.66,1.96,0.233,5,reviewed,us,us
+2026-07-31T21:23:57.242Z,4.8513,126.3264,58.284,4.5,mb,29,132,2.326,0.43,us,us6000thca,2026-10-17T22:26:29.040Z,"113 km ESE of Sarangani, Philippines",earthquake,11.8,4.644,0.106,26,reviewed,us,us
+2026-07-31T21:10:36.152Z,-2.919,130.2275,10,4.4,mb,23,68,1.625,0.71,us,us6000thc6,2026-10-17T22:26:29.040Z,"146 km ENE of Masohi, Indonesia",earthquake,6.47,1.826,0.123,19,reviewed,us,us
+2026-07-31T20:54:10.744Z,-2.868,130.1154,10,4.4,mb,20,58,1.657,0.97,us,us6000tic3,2026-10-17T22:26:40.040Z,"136 km ENE of Masohi, Indonesia",earthquake,7.2,1.767,0.12,20,reviewed,us,us
+2026-07-31T20:29:10.853Z,-2.8862,130.1853,10,4.6,mb,63,50,1.649,0.84,us,us6000thbu,2026-10-17T22:26:29.040Z,"142 km ENE of Masohi, Indonesia",earthquake,5.23,1.826,0.074,54,reviewed,us,us
+2026-07-31T20:19:26.519Z,-2.8643,130.1655,10,5.3,mww,178,25,1.667,0.62,us,us6000thbq,2026-10-17T22:26:29.040Z,"141 km ENE of Masohi, Indonesia",earthquake,6.73,1.691,0.075,17,reviewed,us,us
+2026-07-31T20:18:52.092Z,-2.9436,130.2355,10,4.5,mb,45,46,1.603,0.67,us,us6000tic2,2026-10-17T22:26:40.040Z,"146 km ENE of Masohi, Indonesia",earthquake,6.21,1.866,0.099,30,reviewed,us,us
+2026-07-31T12:18:23.949Z,-2.6567,138.9017,10,4.6,mb,39,89,1.805,0.71,us,us6000tibn,2026-10-17T22:26:39.040Z,"192 km W of Abepura, Indonesia",earthquake,9.25,1.873,0.091,36,reviewed,us,us
+2026-07-30T20:16:22.000Z,-2.6136,138.9247,36.078,4.2,mb,19,72,1.779,1.02,us,us6000ti3a,2026-10-17T22:26:37.040Z,"189 km W of Abepura, Indonesia",earthquake,9.6,8.454,0.166,10,reviewed,us,us
+2026-07-30T18:11:03.607Z,-5.3962,128.9502,257.684,4.5,mb,84,64,1.287,0.69,us,us6000th1p,2026-10-17T22:26:27.040Z,"206 km SSE of Ambon, Indonesia",earthquake,3.48,5.738,0.067,64,reviewed,us,us
+2026-07-30T14:37:32.003Z,-2.6431,138.8924,10,4.5,mb,21,61,1.813,1.11,us,us6000tgyg,2026-10-17T22:26:27.040Z,"193 km W of Abepura, Indonesia",earthquake,4.73,1.844,0.15,13,reviewed,us,us
+2026-07-30T14:23:36.175Z,-3.0625,130.6524,10,4.5,mb,20,86,1.601,1.11,us,us6000th2i,2026-10-17T22:26:27.040Z,"183 km W of Fakfak, Indonesia",earthquake,6.26,1.882,0.145,16,reviewed,us,us
+2026-07-30T14:00:10.638Z,-2.724,138.8636,10,4.6,mb,32,100,1.849,1.05,us,us6000ti2p,2026-10-17T22:26:37.040Z,"197 km W of Abepura, Indonesia",earthquake,6.64,1.89,0.114,23,reviewed,us,us
+2026-07-30T13:21:48.917Z,-2.6852,138.9965,10,4.3,mb,18,95,1.713,1.09,us,us6000ti2n,2026-10-17T22:26:37.040Z,"182 km W of Abepura, Indonesia",earthquake,9.65,1.902,0.177,9,reviewed,us,us
+2026-07-30T13:14:30.513Z,-7.1724,126.1476,464.296,4.3,mb,20,83,3.169,0.83,us,us6000tgy6,2026-10-17T22:26:27.040Z,"148 km NNW of Baukau, Timor Leste",earthquake,15.35,9.533,0.217,6,reviewed,us,us
+2026-07-30T11:17:10.189Z,-7.5941,106.2142,53.048,4.3,mb,29,114,1.429,0.84,us,us6000ti2f,2026-10-17T22:26:37.040Z,"76 km SSW of Pelabuhanratu, Indonesia",earthquake,14.3,16.487,0.122,19,reviewed,us,us
+2026-07-30T08:23:45.982Z,-2.7077,138.7574,21.547,4.6,mb,26,90,1.953,0.77,us,us6000ti29,2026-10-17T22:26:37.040Z,"208 km W of Abepura, Indonesia",earthquake,10.73,5.313,0.111,24,reviewed,us,us
+2026-07-30T08:19:03.207Z,-2.4191,138.9572,10,4.5,mb,21,82,1.747,0.98,us,us6000ti26,2026-10-17T22:26:37.040Z,"187 km W of Abepura, Indonesia",earthquake,8.98,1.838,0.131,17,reviewed,us,us
+2026-07-30T08:16:12.670Z,-2.5256,139.0177,10,4.4,mb,16,85,1.684,0.83,us,us6000ti28,2026-10-17T22:26:37.040Z,"179 km W of Abepura, Indonesia",earthquake,11.25,1.902,0.149,13,reviewed,us,us
+2026-07-30T05:55:55.138Z,-2.6538,138.7818,10,4.7,mb,25,94,1.924,0.59,us,us6000tgw4,2026-10-17T22:26:27.040Z,"205 km W of Abepura, Indonesia",earthquake,11.05,1.401,0.091,37,reviewed,us,us
+2026-07-30T05:43:37.798Z,-2.7013,138.9511,10,4.4,mb,20,86,1.76,0.94,us,us6000ti21,2026-10-17T22:26:37.040Z,"187 km W of Abepura, Indonesia",earthquake,8.75,1.911,0.143,14,reviewed,us,us
+2026-07-30T05:18:53.710Z,-2.6135,138.9957,20.157,4.5,mb,23,93,1.708,0.98,us,us6000ti1x,2026-10-17T22:26:37.040Z,"182 km W of Abepura, Indonesia",earthquake,11.17,6.008,0.132,17,reviewed,us,us
+2026-07-30T04:56:48.802Z,5.2951,124.7958,35,4.4,mb,19,129,1.927,0.71,us,us6000ti1t,2026-10-17T22:26:37.040Z,"64 km S of Lumatil, Philippines",earthquake,7.24,1.939,0.149,13,reviewed,us,us
+2026-07-30T04:46:58.070Z,-2.566,138.934,10,4.6,mb,13,91,1.768,0.41,us,us6000ti1u,2026-10-17T22:26:37.040Z,"188 km W of Abepura, Indonesia",earthquake,11.03,1.828,0.181,9,reviewed,us,us
+2026-07-30T04:45:13.115Z,-2.5414,138.9801,10,4.7,mb,11,90,1.721,0.78,us,us6000ti3j,2026-10-17T22:26:38.040Z,"183 km W of Abepura, Indonesia",earthquake,6.21,1.902,0.226,6,reviewed,us,us
+2026-07-30T04:43:36.440Z,-2.6703,138.9702,10,4.9,mb,27,90,1.738,0.33,us,us6000ti3i,2026-10-17T22:26:38.040Z,"185 km W of Abepura, Indonesia",earthquake,12.32,1.901,0.117,23,reviewed,us,us
+2026-07-30T04:42:08.654Z,-2.5881,138.8756,10,5.4,mww,151,36,1.827,0.6,us,us6000tgvu,2026-10-17T22:26:26.040Z,"195 km W of Abepura, Indonesia",earthquake,7.72,1.741,0.08,15,reviewed,us,us
+2026-07-30T01:46:07.478Z,-2.8652,129.3695,10,4.2,mb,11,146,1.731,0.98,us,us6000ti1m,2026-10-17T22:26:37.040Z,"65 km NE of Masohi, Indonesia",earthquake,10.92,1.881,0.187,8,reviewed,us,us
+2026-07-29T22:16:25.877Z,-6.0097,103.0313,10,4.6,mb,22,136,1.64,1.08,us,us6000thuh,2026-10-13T22:45:18.040Z,"220 km S of Pagar Alam, Indonesia",earthquake,6.16,1.895,0.164,11,reviewed,us,us
+2026-07-29T16:12:01.890Z,1.4844,124.3596,243.521,4.3,mb,59,90,7.291,0.75,us,us6000tgrb,2026-10-13T22:43:58.040Z,"52 km WNW of Tomohon, Indonesia",earthquake,9.58,7.51,0.081,43,reviewed,us,us
+2026-07-29T13:23:56.282Z,5.3185,125.0972,69.855,5,mb,112,24,1.804,0.71,us,us6000tgn0,2026-10-13T22:42:16.040Z,"40 km SW of Balangonan, Philippines",earthquake,7.49,5.158,0.044,166,reviewed,us,us
+2026-07-29T13:16:59.747Z,5.6147,125.3758,60.594,5,mb,74,81,1.459,0.69,us,us6000tgmy,2026-10-13T22:43:35.040Z,"5 km NNE of Balangonan, Philippines",earthquake,9.21,6.487,0.071,64,reviewed,us,us
+2026-07-29T10:25:46.468Z,5.6676,127.6272,10,4.3,mb,20,113,2.466,0.69,us,us6000thu2,2026-10-13T22:44:36.040Z,"177 km ESE of Pondaguitan, Philippines",earthquake,12.62,1.932,0.137,15,reviewed,us,us
+2026-07-29T02:40:11.505Z,-2.5796,138.8203,10,4.8,mb,34,52,1.882,0.76,us,us6000tgjx,2026-10-13T22:42:28.040Z,"201 km W of Abepura, Indonesia",earthquake,9.55,1.87,0.107,27,reviewed,us,us
+2026-07-29T01:10:48.878Z,5.2857,125.492,50.282,4.3,mb,22,126,1.774,1.35,us,us6000thtk,2026-10-13T22:44:58.040Z,"13 km SSE of Sarangani, Philippines",earthquake,13.74,7.168,0.133,16,reviewed,us,us
+2026-07-28T23:02:12.479Z,-7.4254,129.2509,71.782,4.1,mb,17,82,5.38,1.31,us,us6000than,2026-10-13T22:43:37.040Z,"276 km ENE of Lospalos, Timor Leste",earthquake,10.51,9.744,0.214,6,reviewed,us,us
+2026-07-28T13:29:48.071Z,-8.9665,112.8235,62.529,4.4,mb,31,58,1.403,0.56,us,us6000tha9,2026-10-13T22:42:40.040Z,"83 km S of Dampit, Indonesia",earthquake,6.94,7.325,0.114,22,reviewed,us,us
+2026-07-28T09:21:24.654Z,-7.4773,108.3692,155.549,4.9,mb,113,35,0.713,0.64,us,us6000tgbx,2026-10-13T22:42:20.040Z,"16 km S of Ciamis, Indonesia",earthquake,5.02,5.316,0.057,97,reviewed,us,us
+2026-07-28T04:56:34.136Z,5.2322,124.7706,14.196,4.3,mb,13,133,1.995,1.02,us,us6000th9t,2026-10-13T22:45:10.040Z,"72 km S of Lumatil, Philippines",earthquake,11.6,4.525,0.177,9,reviewed,us,us
+2026-07-27T22:57:15.612Z,-1.9863,139.1552,35,4.4,mb,25,144,1.633,0.87,us,us6000th7b,2026-10-13T22:45:33.040Z,"177 km WNW of Abepura, Indonesia",earthquake,9.49,1.938,0.13,17,reviewed,us,us
+2026-07-27T15:51:33.267Z,-2.5939,138.8091,10,4.9,mb,40,76,1.894,0.83,us,us6000tg2t,2026-10-13T22:43:27.040Z,"202 km W of Abepura, Indonesia",earthquake,9.81,1.87,0.082,48,reviewed,us,us
+2026-07-27T15:30:40.040Z,-2.3252,138.8002,10,4.6,mb,21,121,1.91,1.22,us,us7000t3pe,2026-10-13T22:44:48.040Z,"205 km W of Abepura, Indonesia",earthquake,6.66,1.861,0.133,17,reviewed,us,us
+2026-07-27T07:48:13.352Z,-3.1236,127.8753,35,4.4,mb,23,64,2.456,0.66,us,us6000th6t,2026-10-13T22:42:58.040Z,"71 km NNW of Ambon, Indonesia",earthquake,6,1.928,0.162,11,reviewed,us,us
+2026-07-27T05:46:52.805Z,-2.5428,138.9672,10,4.2,mb,13,121,1.734,0.45,us,us6000th6r,2026-10-13T22:44:47.040Z,"185 km W of Abepura, Indonesia",earthquake,9.84,1.911,0.216,6,reviewed,us,us
+2026-07-27T04:47:56.368Z,5.5299,125.4631,87.571,4.3,mb,29,136,1.534,0.67,us,us6000th6p,2026-10-13T22:45:17.040Z,"7 km SE of Bukid, Philippines",earthquake,6.94,7.3,0.125,18,reviewed,us,us
+2026-07-27T00:50:52.453Z,1.7908,99.0799,10,4.4,mb,22,72,0.912,0.36,us,us6000th6c,2026-10-13T22:43:17.040Z,"33 km E of Sibolga, Indonesia",earthquake,5.82,1.895,0.17,10,reviewed,us,us
+2026-07-26T15:22:38.832Z,5.3184,125.3392,55.058,4.2,mb,25,181,1.756,0.86,us,us6000th0e,2026-10-13T22:46:14.040Z,"16 km SW of Sarangani, Philippines",earthquake,12.5,9.47,0.128,20,reviewed,us,us
+2026-07-26T10:57:36.981Z,-9.9695,123.3681,10,5.3,mb,76,35,0.374,1.19,us,us7000t3g4,2026-10-13T22:42:20.040Z,"34 km NW of Kupang, Indonesia",earthquake,4.18,1.84,0.057,103,reviewed,us,us
+2026-07-26T08:07:33.005Z,5.4754,126.0766,8.038,4.4,mb,20,150,1.659,0.75,us,us6000th06,2026-10-13T22:45:38.040Z,"68 km E of Sarangani, Philippines",earthquake,14.42,5.223,0.131,17,reviewed,us,us
+2026-07-26T04:21:47.395Z,0.0408,125.8325,35,4.5,mb,34,72,5.508,0.94,us,us6000th00,2026-10-13T22:43:16.040Z,"161 km ESE of Modisi, Indonesia",earthquake,12.02,1.916,0.111,24,reviewed,us,us
+2026-07-25T21:27:13.520Z,-6.1055,102.869,10,4.4,mb,16,156,1.736,0.43,us,us6000tgza,2026-10-13T22:45:49.040Z,"233 km S of Pagar Alam, Indonesia",earthquake,10.97,1.922,0.203,7,reviewed,us,us
+2026-07-25T17:42:58.937Z,-7.3467,128.8227,131.342,4.3,mb,36,111,3.005,0.66,us,us7000t3c6,2026-10-13T22:44:34.040Z,"239 km ENE of Lospalos, Timor Leste",earthquake,6.49,7.552,0.103,27,reviewed,us,us
+2026-07-25T16:51:34.179Z,-6.9026,125.5611,519.644,4.2,mb,18,107,3.11,0.73,us,us6000tgz2,2026-10-13T22:44:24.040Z,"181 km N of Metinaro, Timor Leste",earthquake,8.76,10.006,0.176,11,reviewed,us,us
+2026-07-25T13:04:29.892Z,5.9152,124.7026,64.865,4.4,mb,36,80,1.44,0.84,us,us6000tgyw,2026-10-13T22:43:35.040Z,"4 km WSW of Maan, Philippines",earthquake,9.36,7.601,0.105,26,reviewed,us,us
+2026-07-25T10:53:05.162Z,2.2416,120.7423,10,4.3,mb,19,152,19.49,1.13,us,us6000tgyu,2026-10-13T22:45:41.040Z,"299 km SSE of Manuk Mangkaw, Philippines",earthquake,23.21,1.943,0.143,14,reviewed,us,us
+2026-07-25T08:28:03.117Z,4.2939,125.6171,157.634,4.3,mb,34,108,2.758,1.18,us,us6000tgys,2026-10-13T22:44:29.040Z,"123 km S of Sarangani, Philippines",earthquake,11.9,7.947,0.109,24,reviewed,us,us
+2026-07-25T07:00:11.937Z,4.8602,125.2336,35,4.2,mb,27,138,10.432,0.49,us,us6000tgyp,2026-10-13T22:45:20.040Z,"65 km SSW of Sarangani, Philippines",earthquake,15.53,1.952,0.12,19,reviewed,us,us
+2026-07-25T06:46:05.873Z,4.8349,125.3441,53.851,4.9,mb,77,98,2.232,0.74,us,us7000t3a4,2026-10-13T22:44:11.040Z,"64 km SSW of Sarangani, Philippines",earthquake,9.28,7.522,0.051,122,reviewed,us,us
+2026-07-24T19:06:27.529Z,4.8995,125.447,10,4.9,mb,143,53,2.16,0.62,us,us7000t36g,2026-10-13T22:42:31.040Z,"55 km S of Sarangani, Philippines",earthquake,8.93,1.85,0.047,146,reviewed,us,us
+2026-07-24T17:28:04.953Z,-5.5841,103.8222,52.905,4.9,mb,52,72,1.491,0.86,us,us7000t35r,2026-10-13T22:43:19.040Z,"144 km SW of Kotabumi, Indonesia",earthquake,5.81,7.064,0.081,48,reviewed,us,us
+2026-07-24T14:54:03.709Z,-2.5709,138.9909,10,4.2,mb,15,71,1.711,0.98,us,us6000tgqf,2026-10-13T22:43:15.040Z,"182 km W of Abepura, Indonesia",earthquake,8.01,1.853,0.187,10,reviewed,us,us
+2026-07-24T14:39:35.556Z,-0.7641,137.2947,10,4.2,mb,16,94,3.825,1.19,us,us6000tgqe,2026-10-13T22:44:03.040Z,"142 km ENE of Biak, Indonesia",earthquake,10.74,1.839,0.187,10,reviewed,us,us
+2026-07-24T14:09:52.936Z,-6.8546,129.5506,190.671,4.2,mb,22,84,2.343,0.46,us,us7000t31u,2026-10-13T22:43:42.040Z,"Banda Sea",earthquake,11.04,6.706,0.153,14,reviewed,us,us
+2026-07-24T12:41:37.304Z,-2.6724,138.983,10,4.6,mb,33,83,1.725,0.59,us,us6000tgqd,2026-10-13T22:43:39.040Z,"183 km W of Abepura, Indonesia",earthquake,9.48,1.888,0.1,30,reviewed,us,us
+2026-07-24T12:27:03.072Z,-2.5996,138.8379,10,5.1,mb,65,77,1.865,0.67,us,us7000t30v,2026-10-13T22:43:29.040Z,"199 km W of Abepura, Indonesia",earthquake,8.21,1.847,0.058,98,reviewed,us,us
+2026-07-24T12:24:26.803Z,-2.6282,138.9623,10,4.5,mb,33,88,1.743,0.74,us,us6000tgqc,2026-10-13T22:43:54.040Z,"185 km W of Abepura, Indonesia",earthquake,10.59,1.889,0.101,29,reviewed,us,us
+2026-07-24T12:14:28.141Z,-2.5624,138.8932,10,5,mww,101,53,1.809,0.8,us,us7000t30r,2026-10-13T22:42:30.040Z,"193 km W of Abepura, Indonesia",earthquake,6.84,1.769,0.098,10,reviewed,us,us
+2026-07-24T11:21:52.992Z,-2.5624,138.8963,10,4.6,mb,27,79,1.806,0.57,us,us6000tgq7,2026-10-13T22:43:32.040Z,"193 km W of Abepura, Indonesia",earthquake,9.74,1.88,0.116,22,reviewed,us,us
+2026-07-24T11:20:36.866Z,-2.718,138.9205,10,4.6,mb,21,94,1.792,1.05,us,us6000tgq8,2026-10-13T22:44:03.040Z,"190 km W of Abepura, Indonesia",earthquake,11.24,1.913,0.125,19,reviewed,us,us
+2026-07-24T11:11:34.484Z,-2.5556,138.8108,10,5.1,mww,76,59,1.891,0.83,us,us7000t309,2026-10-13T22:42:43.040Z,"202 km W of Abepura, Indonesia",earthquake,7.87,1.845,0.08,15,reviewed,us,us
+2026-07-24T11:03:15.548Z,0.6854,126.1929,48.22,4.1,mb,18,139,7.033,0.9,us,us6000tgq4,2026-10-13T22:45:25.040Z,"133 km W of Ternate, Indonesia",earthquake,15.2,8.552,0.135,15,reviewed,us,us
+2026-07-24T06:29:35.691Z,-6.0583,134.076,10,4.2,mb,19,103,3.611,1.28,us,us6000tgpy,2026-10-13T22:44:18.040Z,"154 km ESE of Tual, Indonesia",earthquake,9.86,1.909,0.236,8,reviewed,us,us
+2026-07-24T05:00:13.219Z,-7.7602,111.94,163.615,4.2,mb,23,103,1.646,1.06,us,us6000tgpx,2026-10-13T22:44:18.040Z,"8 km W of Gampengrejo, Indonesia",earthquake,8.51,8.752,0.153,13,reviewed,us,us
+2026-07-24T00:48:28.534Z,-7.4112,128.7141,143.852,4.4,mb,26,110,4.976,0.73,us,us7000t2wu,2026-10-13T22:44:32.040Z,"225 km ENE of Lospalos, Timor Leste",earthquake,10.02,8.466,0.13,19,reviewed,us,us
+2026-07-23T23:43:31.672Z,-2.5404,138.8081,10,4.4,mb,29,63,1.893,0.64,us,us6000tgpe,2026-10-13T22:42:55.040Z,"202 km W of Abepura, Indonesia",earthquake,8.67,1.88,0.123,19,reviewed,us,us
+2026-07-23T22:58:35.914Z,0.5968,126.2207,42.513,5.7,mww,125,40,6.277,0.88,us,us7000t2w3,2026-10-13T22:42:23.040Z,"131 km W of Ternate, Indonesia",earthquake,8.19,4.79,0.053,34,reviewed,us,us
+2026-07-23T22:50:23.328Z,-6.2136,100.615,10,4.7,mb,35,86,2.97,0.79,us,us7000t2w1,2026-10-13T22:43:51.040Z,"southwest of Sumatra, Indonesia",earthquake,7.32,1.88,0.115,23,reviewed,us,us
+2026-07-23T21:57:05.344Z,1.7524,99.5657,156.637,4.4,mb,16,98,2.039,0.81,us,us6000tgp9,2026-10-13T22:44:10.040Z,"38 km SSW of Bandar, Indonesia",earthquake,13.57,8.811,0.155,12,reviewed,us,us
+2026-07-23T21:13:39.160Z,-2.6541,138.8958,10,4.4,mb,25,72,1.811,1.11,us,us6000tgp6,2026-10-13T22:43:16.040Z,"193 km W of Abepura, Indonesia",earthquake,7.54,1.891,0.12,20,reviewed,us,us
+2026-07-23T21:09:46.932Z,-2.5979,138.9134,10,4.4,mb,24,62,1.79,1.1,us,us6000tgp7,2026-10-13T22:42:50.040Z,"191 km W of Abepura, Indonesia",earthquake,7.66,1.832,0.161,13,reviewed,us,us
+2026-07-23T20:19:08.807Z,-2.7833,138.9673,10,4.4,mb,28,93,1.754,1.25,us,us6000tgp5,2026-10-13T22:44:02.040Z,"186 km W of Abepura, Indonesia",earthquake,8.16,1.915,0.123,19,reviewed,us,us
+2026-07-23T20:15:13.492Z,-2.5707,138.6812,10,4.8,mww,85,37,2.02,0.92,us,us7000t2uz,2026-10-13T22:42:21.040Z,"217 km W of Abepura, Indonesia",earthquake,4.76,1.793,0.103,9,reviewed,us,us
+2026-07-23T03:04:40.632Z,-2.7115,138.8489,10,4.4,mb,15,73,1.862,1.05,us,us6000tgnd,2026-10-13T22:43:20.040Z,"198 km W of Abepura, Indonesia",earthquake,9.83,1.891,0.162,11,reviewed,us,us
+2026-07-23T02:32:15.569Z,-4.3925,137.8757,10,4.2,mb,10,70,3.383,1.15,us,us6000tgnc,2026-10-13T22:43:12.040Z,"130 km NNW of Agats, Indonesia",earthquake,10.93,1.965,0.187,8,reviewed,us,us
+2026-07-22T23:40:40.953Z,-4.469,102.3452,44.966,4.2,mb,16,140,0.618,0.77,us,us6000tgeh,2026-10-08T15:33:06.040Z,"74 km S of Bengkulu, Indonesia",earthquake,8.98,9.12,0.176,9,reviewed,us,us
+2026-07-22T19:37:11.572Z,-8.0854,117.7981,10,4.3,mb,15,79,3.616,0.77,us,us6000tged,2026-10-08T15:33:05.040Z,"50 km NE of Pototano, Indonesia",earthquake,6.47,1.94,0.148,14,reviewed,us,us
+2026-07-22T18:27:16.637Z,-6.6462,127.6812,340.53,4.2,mb,34,43,4.578,0.5,us,us6000tgeb,2026-10-08T15:33:04.040Z,"220 km NNE of Lospalos, Timor Leste",earthquake,9.76,7.702,0.131,16,reviewed,us,us
+2026-07-22T17:36:36.867Z,3.8435,96.879,10,4,mb,17,166,1.378,0.77,us,us6000tge6,2026-10-08T15:33:03.040Z,"12 km NNE of Blangpidie, Indonesia",earthquake,4.36,1.924,0.196,9,reviewed,us,us
+2026-07-22T14:50:42.071Z,-2.6478,138.8997,10,4.9,mb,61,41,1.806,0.92,us,us7000t2gh,2026-10-08T15:36:22.040Z,"192 km W of Abepura, Indonesia",earthquake,8.35,1.806,0.073,59,reviewed,us,us
+2026-07-22T14:22:09.651Z,-8.0284,117.6948,10,4.2,mb,15,119,3.534,1.2,us,us6000tge1,2026-10-08T15:33:02.040Z,"48 km NNE of Pototano, Indonesia",earthquake,7.09,1.843,0.216,7,reviewed,us,us
+2026-07-22T13:44:01.958Z,5.5289,125.0459,23.409,4.3,mb,19,187,1.62,0.42,us,us6000tge0,2026-10-08T15:33:02.040Z,"31 km SW of Burias, Philippines",earthquake,15.81,5.924,0.133,16,reviewed,us,us
+2026-07-22T10:51:53.794Z,5.5976,124.9678,35,4.4,mb,29,158,1.584,0.57,us,us6000tgdv,2026-10-08T15:33:01.040Z,"29 km S of Maasim, Philippines",earthquake,13.72,1.957,0.107,25,reviewed,us,us
+2026-07-22T09:47:19.801Z,5.6126,125.3679,64.111,5,mb,131,46,1.463,0.57,us,us7000t2fj,2026-10-08T15:36:15.040Z,"4 km NNE of Balangonan, Philippines",earthquake,4.96,4.69,0.047,145,reviewed,us,us
+2026-07-22T06:46:38.001Z,-2.5646,138.8038,10,4.9,mb,52,60,1.898,1.17,us,us7000t2ei,2026-10-08T15:36:10.040Z,"203 km W of Abepura, Indonesia",earthquake,3.98,1.853,0.067,69,reviewed,us,us
+2026-07-22T04:18:21.643Z,4.1948,97.4958,10,5,mww,86,59,1.163,1.3,us,us7000t2dz,2026-10-08T15:36:07.040Z,"60 km WSW of Langsa, Indonesia",earthquake,6.04,1.822,0.103,9,reviewed,us,us
+2026-07-21T20:20:09.028Z,-2.5848,140.361,14.049,4,mb,14,83,0.349,0.37,us,us6000tg4j,2026-10-08T15:32:59.040Z,"30 km W of Abepura, Indonesia",earthquake,7.25,6.435,0.183,8,reviewed,us,us
+2026-07-21T18:33:27.188Z,5.7108,125.422,63.677,5.1,mb,120,38,1.359,0.63,us,us7000t2a7,2026-10-08T15:35:56.040Z,"6 km NW of Sugal, Philippines",earthquake,8.04,5.228,0.044,169,reviewed,us,us
+2026-07-21T13:47:12.778Z,-2.5761,138.8766,10,4.7,mb,67,46,1.826,0.51,us,us7000t26j,2026-10-08T15:35:40.040Z,"195 km W of Abepura, Indonesia",earthquake,9.3,1.797,0.066,70,reviewed,us,us
+2026-07-21T12:36:17.694Z,1.3173,126.6321,63.119,4.2,mb,9,154,5.81,1.03,us,us6000tg3z,2026-10-08T15:32:58.040Z,"101 km NW of Ternate, Indonesia",earthquake,12.89,17.309,0.186,8,reviewed,us,us
+2026-07-21T12:09:59.430Z,-0.8315,134.1558,35,4.1,mb,18,170,2.816,0.48,us,us7000t25z,2026-10-08T15:35:38.040Z,"10 km ENE of Manokwari, Indonesia",earthquake,8.63,1.961,0.165,10,reviewed,us,us
+2026-07-21T11:47:15.663Z,-7.5026,122.8627,539.829,4.5,mb,80,67,2.634,0.64,us,us7000t25t,2026-10-08T15:35:37.040Z,"142 km NNE of Maumere, Indonesia",earthquake,10.61,7.54,0.072,57,reviewed,us,us
+2026-07-21T05:05:01.804Z,-9.2043,118.9931,105.881,4.4,mb,25,94,4.23,0.64,us,us7000t24e,2026-10-08T15:35:30.040Z,"36 km NW of Tambolaka, Indonesia",earthquake,6.88,8.646,0.127,18,reviewed,us,us
+2026-07-20T22:05:26.329Z,-2.0635,128.4381,10,4.2,mb,12,121,3.901,0.77,us,us7000t35e,2026-10-08T15:37:50.040Z,"148 km NNW of Masohi, Indonesia",earthquake,6.06,1.921,0.2,7,reviewed,us,us
+2026-07-20T21:26:49.030Z,-6.9646,130.029,91.171,4.4,mb,16,109,2.429,0.7,us,us7000t21u,2026-10-08T15:35:21.040Z,"Banda Sea",earthquake,7.91,10.292,0.155,12,reviewed,us,us
+2026-07-20T20:55:38.551Z,-5.9566,130.1825,140.82,4.3,mb,42,112,1.451,0.45,us,us7000t21h,2026-10-08T15:35:19.040Z,"286 km W of Tual, Indonesia",earthquake,8.64,6.282,0.087,37,reviewed,us,us
+2026-07-20T19:07:18.670Z,-2.5251,138.9501,36.188,4.6,mb,40,78,1.751,0.3,us,us7000t20c,2026-10-08T15:35:17.040Z,"187 km W of Abepura, Indonesia",earthquake,10.02,2.771,0.078,49,reviewed,us,us
+2026-07-20T13:35:55.183Z,1.1625,121.6111,61.096,4.4,mb,38,112,6.41,0.73,us,us7000t1xr,2026-10-08T15:35:15.040Z,"175 km WNW of Gorontalo, Indonesia",earthquake,7.13,6.618,0.109,24,reviewed,us,us
+2026-07-20T10:42:14.900Z,-5.9851,128.769,309.156,4.3,mb,51,34,1.841,0.64,us,us7000t1wz,2026-10-08T15:35:11.040Z,"261 km SSE of Ambon, Indonesia",earthquake,6.66,7.266,0.099,29,reviewed,us,us
+2026-07-20T10:31:18.312Z,2.2811,126.3979,35.119,4.4,mb,32,130,14.172,0.55,us,us7000t34v,2026-10-08T15:37:44.040Z,"169 km ENE of Bitung, Indonesia",earthquake,13.99,8.665,0.117,21,reviewed,us,us
+2026-07-20T09:40:46.556Z,1.6026,127.3619,104.437,5,mb,83,52,5.714,0.96,us,us7000t1wm,2026-10-08T15:35:08.040Z,"73 km W of Tobelo, Indonesia",earthquake,8.66,6.56,0.055,103,reviewed,us,us
+2026-07-20T00:27:46.582Z,-3.2578,130.6556,10,4.7,mb,44,50,1.463,0.72,us,us7000t1v5,2026-10-08T15:35:00.040Z,"186 km WSW of Fakfak, Indonesia",earthquake,5.24,1.85,0.09,37,reviewed,us,us
+2026-07-19T11:23:17.474Z,4.692,125.7325,10,4,mb,21,114,2.367,1,us,us7000t32g,2026-10-08T15:37:37.040Z,"84 km SSE of Sarangani, Philippines",earthquake,13.3,1.934,0.134,15,reviewed,us,us
+2026-07-19T08:19:53.456Z,5.4941,125.2779,71.895,4.6,mb,41,110,1.594,0.79,us,us7000t1ri,2026-10-08T15:34:44.040Z,"12 km SW of Balangonan, Philippines",earthquake,10.79,7.766,0.076,52,reviewed,us,us
+2026-07-19T08:11:06.411Z,-7.6263,106.5265,37.601,4.9,mb,57,103,1.126,0.68,us,us7000t1rh,2026-10-08T15:34:44.040Z,"70 km S of Pelabuhanratu, Indonesia",earthquake,6.94,6.369,0.069,72,reviewed,us,us
+2026-07-19T05:14:21.156Z,4.9702,125.1833,10,4.5,mb,27,129,2.122,0.76,us,us7000t321,2026-10-08T15:37:34.040Z,"57 km SSW of Sarangani, Philippines",earthquake,12.7,1.906,0.125,19,reviewed,us,us
+2026-07-19T01:57:56.291Z,2.7534,128.5619,221.42,4.8,mb,71,105,5.216,0.84,us,us7000t1q4,2026-10-08T15:34:35.040Z,"128 km NNE of Tobelo, Indonesia",earthquake,10.6,7.676,0.07,63,reviewed,us,us
+2026-07-18T23:53:42.708Z,5.1947,124.6586,35.021,4.4,mb,17,131,2.075,1.35,us,us7000t2zk,2026-10-08T15:37:32.040Z,"79 km SSW of Katubao, Philippines",earthquake,7.7,6.531,0.162,11,reviewed,us,us
+2026-07-18T13:45:29.962Z,-0.0708,123.3785,137.184,4.5,mb,47,79,6.102,0.79,us,us7000t2ys,2026-10-08T15:37:26.040Z,"75 km SSE of Gorontalo, Indonesia",earthquake,11.01,6.702,0.084,41,reviewed,us,us
+2026-07-18T08:21:42.982Z,-6.5748,103.8765,25.451,4.9,mb,58,157,2.383,1.05,us,us7000t1kf,2026-10-08T15:34:09.040Z,"198 km SW of Bandar Lampung, Indonesia",earthquake,9.12,6.115,0.079,50,reviewed,us,us
+2026-07-18T03:28:06.008Z,-0.3602,125.1744,49.006,4.5,mb,27,102,6.278,1,us,us7000t2y2,2026-10-08T15:37:22.040Z,"121 km SE of Modisi, Indonesia",earthquake,9.94,8.038,0.14,15,reviewed,us,us
+2026-07-18T02:23:40.205Z,4.5008,124.9543,10,5.3,mww,97,100,2.626,1.04,us,us7000t1it,2026-10-08T15:33:57.040Z,"114 km SSW of Sarangani, Philippines",earthquake,8.43,1.859,0.068,21,reviewed,us,us
+2026-07-18T00:50:06.460Z,-0.3257,98.9133,57.797,4.5,mb,42,104,2.1,0.97,us,us7000t1ig,2026-10-08T15:33:56.040Z,"138 km WNW of Pariaman, Indonesia",earthquake,5.18,7.65,0.106,28,reviewed,us,us
